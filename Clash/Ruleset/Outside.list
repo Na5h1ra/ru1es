@@ -1,6 +1,21 @@
 # NAME: Outside
+# CSGO
 DOMAIN-KEYWORD,hltv
+# Emby
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,misty.ltd
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN,202.61.255.248
+DOMAIN-SUFFIX,mulgore.net
+# nanplus
+DOMAIN-KEYWORD,south-plus
+DOMAIN-KEYWORD,south-plus
+DOMAIN-KEYWORD,white-plus
+DOMAIN-KEYWORD,north-plus
+DOMAIN-KEYWORD,level-plus
+DOMAIN-KEYWORD,soul-plus
+DOMAIN-KEYWORD,snow-plus
+DOMAIN-KEYWORD,spring-plus
+DOMAIN-KEYWORD,summer-plus
+DOMAIN-KEYWORD,blue-plus
+DOMAIN-KEYWORD,imoutolove

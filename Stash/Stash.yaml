@@ -361,177 +361,177 @@ rule-providers:
   LocalAreaNetwork:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
     interval: 86400
 
   UnBan:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
     interval: 86400
 
 
   BanAD:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
     interval: 86400
 
 
   BanProgramAD:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
     interval: 86400
 
   Google:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
     interval: 86400
 
   Outside:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.listr_parser.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.list
     interval: 86400
 
   GitHub:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
     interval: 86400
 
   GitLab:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.list
     interval: 86400
 
   Speedtest:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list
     interval: 86400
 
   GoogleCN:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
     interval: 86400
 
   SelfUseDirect:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.listr_parser.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.list
     interval: 86400
 
   SteamCN:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
     interval: 86400
 
   Microsoft:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
     interval: 86400
 
   Apple:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
     interval: 86400
 
   Telegram:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
     interval: 86400
 
   Epic:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
     interval: 86400
 
   Sony:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
     interval: 86400
 
   Steam:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
     interval: 86400
 
   Nintendo:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
     interval: 86400
 
   YouTube:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
     interval: 86400
 
   Spotify:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
     interval: 86400
 
   ChinaMedia:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
     interval: 86400
 
   DMM:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.list
     interval: 86400
 
   TikTok:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.listr_parser.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
     interval: 86400
 
   OutsideForceJP:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.listr_parser.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.list
     interval: 86400
 
   OutsideForceKR:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.listr_parser.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.list
     interval: 86400
 
   ProxyMedia:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
     interval: 86400
 
   OutsideMedia:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.listr_parser.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.list
     interval: 86400
 
   ProxyGFWlist:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.listr_parser.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
     interval: 86400
 
 

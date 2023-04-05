@@ -1,0 +1,572 @@
+# Yang-Conf
+# Update:2023.4.5
+
+#通用设置
+port: 7890
+socks-port: 7891
+mixed-port: 7893
+allow-lan: true
+bind-address: '*'
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+# 订阅的信息展示
+subscribe-url: http://your-service-provider
+
+#订阅地址
+proxy-providers:
+  Subscribe:
+    type: http
+    url: "http://your-service-provider"
+    interval: 86400
+
+#DNS设置
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  default-nameserver:
+    - 223.5.5.5
+    - 223.6.6.6
+    - 114.114.114.114
+    - system
+  nameserver:
+    - https://223.5.5.5/dns-query
+    - https://223.6.6.6/dns-query
+    - https://doh.pub/dns-query
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - stun.*.*.*
+    - stun.*.*
+    - time.windows.com
+    - time.nist.gov
+    - time.apple.com
+    - time.asia.apple.com
+    - "*.ntp.org.cn"
+    - "*.openwrt.pool.ntp.org"
+    - time1.cloud.tencent.com
+    - time.ustc.edu.cn
+    - pool.ntp.org
+    - ntp.ubuntu.com
+    - ntp.aliyun.com
+    - ntp1.aliyun.com
+    - ntp2.aliyun.com
+    - ntp3.aliyun.com
+    - ntp4.aliyun.com
+    - ntp5.aliyun.com
+    - ntp6.aliyun.com
+    - ntp7.aliyun.com
+    - time1.aliyun.com
+    - time2.aliyun.com
+    - time3.aliyun.com
+    - time4.aliyun.com
+    - time5.aliyun.com
+    - time6.aliyun.com
+    - time7.aliyun.com
+    - "*.time.edu.cn"
+    - time1.apple.com
+    - time2.apple.com
+    - time3.apple.com
+    - time4.apple.com
+    - time5.apple.com
+    - time6.apple.com
+    - time7.apple.com
+    - time1.google.com
+    - time2.google.com
+    - time3.google.com
+    - time4.google.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - localhost.ptlogin2.qq.com
+    - "*.*.*.srv.nintendo.net"
+    - "*.*.stun.playstation.net"
+    - xbox.*.*.microsoft.com
+    - "*.ipv6.microsoft.com"
+    - "*.*.xboxlive.com"
+    - speedtest.cros.wr.pvp.net
+
+
+
+#策略组
+proxy-groups:
+  - name: 🗺️ 地区选择
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/World_Map.png
+    proxies:
+      - 🇭🇰 香港节点,
+      - 🇨🇳 台湾节点
+      - 🇸🇬 新加坡节点
+      - 🇯🇵 日本节点
+      - 🇺🇲 美国节点
+      - 🇰🇷 韩国节点
+      - 🌐 其他节点
+      - DIRECT
+
+  - name: 📟 倍率选择
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Daily.png
+    proxies:
+      - 0.2倍 日用
+      - 0.5倍 标准
+      - 1.0倍 特殊
+
+  - name: 📲 电报消息
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+    proxies:
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 📹 油管视频
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+    proxies:
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 🎵 Spotify
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+    proxies:
+      - 📟 倍率选择
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+
+  - name: 🌸 日本网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
+    proxies:
+      - 🇯🇵 日本节点
+      - 📟 倍率选择
+
+  - name: 🥒 韩国网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
+    proxies:
+      - 🇰🇷 韩国节点
+      - 📟 倍率选择
+
+  - name: 🌍 国外媒体
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
+    proxies:
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 🌏 国内媒体
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/StreamingCN.png
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 📟 倍率选择
+
+  - name: 📢 国外服务
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+    proxies:
+      - 📟 倍率选择
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: Ⓜ️ 微软服务
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 🍎 苹果服务
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 🎮 游戏平台
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+  - name: 🎯 全球直连
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+    proxies:
+      - DIRECT
+      - REJECT
+
+  - name: 🛑 广告拦截
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🍃 应用净化
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🐟 漏网之鱼
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
+    proxies:
+      - 📟 倍率选择
+      - 🗺️ 地区选择
+
+- name: 0.2倍 日用
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x0.2.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "日用"
+
+- name: 0.5倍 标准
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x0.5.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "标准"
+
+- name: 1.0倍 特殊
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x1.0.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "特殊|购物"
+
+- name: 🇭🇰 香港节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "香港|HK|Hong|HKT"
+
+- name: 🇯🇵 日本节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan"
+
+- name: 🇺🇲 美国节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States"
+
+- name: 🇨🇳 台湾节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "台湾|新北|彰化|TW|Taiwan"
+
+- name: 🇸🇬 新加坡节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "新加坡|狮城|SG|Singapore"
+
+- name: 🇰🇷 韩国节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "KR|Korea|KOR|首尔|韩|韓"
+
+- name: 🌐 其他节点
+  url: http://www.gstatic.com/generate_204
+  include-all: true
+  type: select
+  icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
+  interval: 120
+  tolerance: 50
+  lazy: true
+  filter: "俄罗斯|伦敦|迪拜|德国|印度|荷兰|意大利|印尼|菲律宾|西班牙|匈牙利|以色列|乌克兰|摩尔多瓦|巴西|加拿大|南非|土耳其|泰国|澳大利亚|马来西亚|越南|阿根廷"
+
+
+
+#远程规则集合声明，记得安装chengkongyiban大佬的Rewrite_to_Stash.stoverride覆写模块，可把普通的list规则转换成Stash规则，内置的覆写仓库里有
+rule-providers:
+  LocalAreaNetwork:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.listr_parser.list
+    interval: 86400
+
+  UnBan:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.listr_parser.list
+    interval: 86400
+
+
+  BanAD:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.listr_parser.list
+    interval: 86400
+
+
+  BanProgramAD:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.listr_parser.list
+    interval: 86400
+
+  Google:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.listr_parser.list
+    interval: 86400
+
+  Outside:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.listr_parser.list
+    interval: 86400
+
+  GitHub:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.listr_parser.list
+    interval: 86400
+
+  GitLab:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.listr_parser.list
+    interval: 86400
+
+  Speedtest:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.listr_parser.list
+    interval: 86400
+
+  GoogleCN:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.listr_parser.list
+    interval: 86400
+
+  SelfUseDirect:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.listr_parser.list
+    interval: 86400
+
+  SteamCN:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.listr_parser.list
+    interval: 86400
+
+  Microsoft:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.listr_parser.list
+    interval: 86400
+
+  Apple:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.listr_parser.list
+    interval: 86400
+
+  Telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.listr_parser.list
+    interval: 86400
+
+  Epic:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.listr_parser.list
+    interval: 86400
+
+  Sony:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.listr_parser.list
+    interval: 86400
+
+  Steam:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.listr_parser.list
+    interval: 86400
+
+  Nintendo:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.listr_parser.list
+    interval: 86400
+
+  YouTube:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.listr_parser.list
+    interval: 86400
+
+  Spotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.listr_parser.list
+    interval: 86400
+
+  ChinaMedia:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.listr_parser.list
+    interval: 86400
+
+  DMM:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.listr_parser.list
+    interval: 86400
+
+  TikTok:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.listr_parser.list
+    interval: 86400
+
+  OutsideForceJP:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.listr_parser.list
+    interval: 86400
+
+  OutsideForceKR:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.listr_parser.list
+    interval: 86400
+
+  ProxyMedia:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.listr_parser.list
+    interval: 86400
+
+  OutsideMedia:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.listr_parser.list
+    interval: 86400
+
+  ProxyGFWlist:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.listr_parser.list
+    interval: 86400
+
+
+
+
+#分流规则引用
+rules:
+- RULE-SET,LocalAreaNetwork,🎯 全球直连
+- RULE-SET,UnBan,🎯 全球直连
+- RULE-SET,BanAD,🛑 广告拦截
+- RULE-SET,BanProgramAD,🍃 应用净化
+- RULE-SET,Google,📢 国外服务
+- RULE-SET,Outside,📢 国外服务
+- RULE-SET,GitHub,📢 国外服务
+- RULE-SET,GitLab,📢 国外服务
+- RULE-SET,Speedtest,📢 国外服务
+- RULE-SET,GoogleCN,🎯 全球直连
+- RULE-SET,SelfUseDirect,🎯 全球直连
+- RULE-SET,SteamCN,🎯 全球直连
+- RULE-SET,Microsoft,Ⓜ️ 微软服务
+- RULE-SET,Apple,🍎 苹果服务
+- RULE-SET,Telegram,📲 电报消息
+- RULE-SET,Epic,🎮 游戏平台
+- RULE-SET,Sony,🎮 游戏平台
+- RULE-SET,Steam,🎮 游戏平台
+- RULE-SET,Nintendo,🎮 游戏平台
+- RULE-SET,YouTube,📹 油管视频
+- RULE-SET,Spotify,🎵 Spotify
+- RULE-SET,ChinaMedia,🌏 国内媒体
+- RULE-SET,DMM,🌸 日本网站
+- RULE-SET,TikTok,🌸 日本网站
+- RULE-SET,OutsideForceJP,🌸 日本网站
+- RULE-SET,OutsideForceKR,🥒 韩国网站
+- RULE-SET,ProxyMedia,🌍 国外媒体
+- RULE-SET,OutsideMedia,🌍 国外媒体
+- RULE-SET,ProxyGFWlist,🗺️ 地区选择
+- GEOIP,CN,🎯 全球直连
+- MATCH,🐟 漏网之鱼

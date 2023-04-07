@@ -559,6 +559,28 @@ rule-providers:
     url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.listr_parser.list
     interval: 86400
 
+  ChinaDomain:
+    type: http
+    behavior: classical
+    path: ./Ruleset/ChinaDomain.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.listr_parser.list
+    interval: 86400
+
+  ChinaCompanyIp:
+    type: http
+    behavior: classical
+    path: ./Ruleset/ChinaCompanyIp.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.listr_parser.list
+    interval: 86400
+
+  Download:
+    type: http
+    behavior: classical
+    path: ./Ruleset/Download.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.listr_parser.list
+    interval: 86400
+
+
 
 
 
@@ -593,5 +615,8 @@ rules:
  - RULE-SET,ProxyMedia,🌍 国外媒体
  - RULE-SET,OutsideMedia,🌍 国外媒体
  - RULE-SET,ProxyGFWlist,🗺️ 地区选择
+ - RULE-SET,ChinaDomain,🎯 全球直连
+ - RULE-SET,ChinaCompanyIp,🎯 全球直连
+ - RULE-SET,Download,🎯 全球直连
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼

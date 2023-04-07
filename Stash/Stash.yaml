@@ -207,9 +207,9 @@ proxy-groups:
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
     proxies:
       - DIRECT
-      - 🇭🇰 香港节点
       - 🇺🇲 美国节点
-      - 📟 倍率选择
+      - 🇯🇵 日本节点
+      - 🇭🇰 香港节点
       - 🗺️ 地区选择
 
   - name: 🎮 游戏平台

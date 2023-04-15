@@ -1,8 +1,10 @@
 # NAME: Outside
+
 # CSGO
 DOMAIN-KEYWORD,hltv
+DOMAIN-KEYWORD,liquipedia
 
-# nanplus
+# Nanplus
 DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,white-plus
@@ -15,7 +17,7 @@ DOMAIN-KEYWORD,summer-plus
 DOMAIN-KEYWORD,blue-plus
 DOMAIN-KEYWORD,imoutolove
 
-#airport
+#Airport
 DOMAIN-SUFFIX,flexline0.com
 DOMAIN-SUFFIX,flexline1.com
 DOMAIN-SUFFIX,flexline0.com
@@ -23,3 +25,12 @@ DOMAIN-SUFFIX,oxycontin.top
 DOMAIN-SUFFIX,to-ytoo.xyz
 DOMAIN-SUFFIX,stentvessel.shop
 DOMAIN-KEYWORD,ytoo
+
+#Other
+DOMAIN-SUFFIX,macapp.org.cn
+DOMAIN-SUFFIX,xxxxx525.com
+DOMAIN-SUFFIX,xxxxx520.cam
+DOMAIN-SUFFIX,xxxxx520.com
+DOMAIN-SUFFIX,switch618.com
+DOMAIN-SUFFIX,yyrtt.com
+DOMAIN-SUFFIX,freemdict.com

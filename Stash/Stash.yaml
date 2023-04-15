@@ -1,5 +1,5 @@
 # Yang-Conf
-# Update:2023.4.6
+# Update:2023.4.15
 
 # 通用设置,subscribe-url字段若机场支持的话可显示订阅流量信息
 port: 7890
@@ -153,6 +153,20 @@ proxy-groups:
       - 🇭🇰 香港节点
       - 🇺🇲 美国节点
 
+  - name: 🎈 香港网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
+    proxies:
+      - 🇭🇰 香港节点
+      - 📟 倍率选择
+
+  - name: 🎫 台湾网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
+    proxies:
+      - 🇨🇳 台湾节点
+      - 📟 倍率选择
+
   - name: 🌸 日本网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
@@ -165,6 +179,13 @@ proxy-groups:
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
     proxies:
       - 🇰🇷 韩国节点
+      - 📟 倍率选择
+
+  - name: 🦅 美国网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+    proxies:
+      - 🇺🇲 美国节点
       - 📟 倍率选择
 
   - name: 🌍 国外媒体
@@ -510,6 +531,20 @@ rule-providers:
     url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.listr_parser.list
     interval: 86400
 
+  OutsideForceHK:
+    type: http
+    behavior: classical
+    path: ./Ruleset/OutsideForceUS.yaml
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.listr_parser.list
+    interval: 86400
+
+  OutsideForceTW:
+    type: http
+    behavior: classical
+    path: ./Ruleset/OutsideForceTW.yaml
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceTW.listr_parser.list
+    interval: 86400
+
   DMM:
     type: http
     behavior: classical
@@ -536,6 +571,20 @@ rule-providers:
     behavior: classical
     path: ./Ruleset/OutsideForceKR.yaml
     url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.listr_parser.list
+    interval: 86400
+
+  OutsideForceUS:
+    type: http
+    behavior: classical
+    path: ./Ruleset/OutsideForceUS.yaml
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceUS.listr_parser.list
+    interval: 86400
+
+  OpenAI:
+    type: http
+    behavior: classical
+    path: ./Ruleset/OpenAI.yaml
+    url: https://raw.githubusercontent.com/Lotusice/Clash_Rules/main/Rule/OpenAI.listr_parser.list
     interval: 86400
 
   ProxyMedia:
@@ -608,10 +657,14 @@ rules:
  - RULE-SET,YouTube,📹 油管视频
  - RULE-SET,Spotify,🎵 Spotify
  - RULE-SET,ChinaMedia,🌏 国内媒体
+ - RULE-SET,OutsideForceHK,🎈 香港网站
+ - RULE-SET,OutsideForceTW,🎫 台湾网站
  - RULE-SET,DMM,🌸 日本网站
  - RULE-SET,TikTok,🌸 日本网站
  - RULE-SET,OutsideForceJP,🌸 日本网站
  - RULE-SET,OutsideForceKR,🥒 韩国网站
+ - RULE-SET,OutsideForceUS,🦅 美国网站
+ - RULE-SET,OpenAI,🦅 美国网站
  - RULE-SET,ProxyMedia,🌍 国外媒体
  - RULE-SET,OutsideMedia,🌍 国外媒体
  - RULE-SET,ProxyGFWlist,🗺️ 地区选择

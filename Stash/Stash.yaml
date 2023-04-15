@@ -129,7 +129,7 @@ proxy-groups:
     proxies:
       - 0.2倍 日用
       - 0.5倍 标准
-      - 1.0倍 特殊
+      - 1.0倍 高级
 
   - name: 📲 电报消息
     type: select

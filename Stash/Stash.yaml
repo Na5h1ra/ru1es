@@ -291,7 +291,7 @@ proxy-groups:
     lazy: true
     filter: "标准"
 
-  - name: 1.0倍 特殊
+  - name: 1.0倍 高级
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -299,7 +299,7 @@ proxy-groups:
     interval: 120
     tolerance: 50
     lazy: true
-    filter: "特殊|购物"
+    filter: "高级|特殊|购物"
 
   - name: 🇭🇰 香港节点
     url: http://www.gstatic.com/generate_204

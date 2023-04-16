@@ -534,7 +534,7 @@ rule-providers:
   OutsideForceHK:
     type: http
     behavior: classical
-    path: ./Ruleset/OutsideForceUS.yaml
+    path: ./Ruleset/OutsideForceHK.yaml
     url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.listr_parser.list
     interval: 86400
 

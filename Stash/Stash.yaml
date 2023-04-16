@@ -1,6 +1,13 @@
 # Yang-Conf
-# Update:2023.4.15
-
+# Update:2023.4.16
+#
+#
+# 覆写模块
+# 1. QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，规则集末尾加r_parser.list，https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride
+# 2. Youtube去广告模块，https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Override/Adblock/YouTubeAds.stoverride
+# 3. 覆写去广告(严格版)，https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
+#
+#
 # 通用设置,subscribe-url字段若机场支持的话可显示订阅流量信息
 port: 7890
 socks-port: 7891

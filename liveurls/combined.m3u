@@ -3,10 +3,32 @@
 http://192.168.123.99:35455/douyu/3168536
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="斗鱼",玩机器丶Machine
 http://192.168.123.99:35455/douyu/6979222
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/0f82d0608ed146a89f0b08e687ad2bb5_middle.jpg" group-title="斗鱼",20岁天才歌手Running
+http://192.168.123.99:35455/douyu/2448877
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/1eced896b9744f78a9a5a54c05822ba6_middle.jpg" group-title="斗鱼",17shou丷
+http://192.168.123.99:35455/douyu/2267291
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/8df305e4425b4da2b35ef2a2075173c0_middle.jpg" group-title="斗鱼",叶知秋Vanessa
+http://192.168.123.99:35455/douyu/5716430
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_middle.jpg" group-title="斗鱼",A妹
+http://192.168.123.99:35455/douyu/4520630
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_middle.jpg" group-title="斗鱼",不2不叫周淑怡
+http://192.168.123.99:35455/douyu/290935
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/c5933be31ee84fa882701795b634ad77_middle.jpg" group-title="斗鱼",4AM小海xx丶
+http://192.168.123.99:35455/douyu/701990
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/b5a0023d5dfc4269ba86c44cc4675357_middle.jpg" group-title="斗鱼",刘飞儿faye
+http://192.168.123.99:35455/douyu/265438
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/781508179eb44dc394fa171ebf441892_big.jpg" group-title="斗鱼",真栗
+http://192.168.123.99:35455/douyu/3187637
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/000/90/52/18_avatar_middle.jpg" group-title="斗鱼",ms_joy
+http://192.168.123.99:35455/douyu/38698
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙",周星星
 http://192.168.123.99:35455/huya/11342412
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1047/66/eb53709eab2655a728d801bc12a9ce_180_135.jpg?1625295306" group-title="虎牙",4AMCRAZY112代
 http://192.168.123.99:35455/huya/7911112
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/64/45eb9d3c2c4e691c7f5901f90bfffe_180_135.jpg?1645607714" group-title="虎牙",4AM小鹿
+http://192.168.123.99:35455/huya/791133
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/41/2deccd27b2692c8d760a273657272d_180_135.jpg?1599464044" group-title="虎牙",4AM永远妖妖丷
+http://192.168.123.99:35455/huya/791166
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/60/d823b6b3dfcedccc569e35beabbaca_180_135.jpg?467625" group-title="虎牙",rita
 http://192.168.123.99:35455/huya/910004

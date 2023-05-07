@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/03/15/2958546e2f2e4d7c0bf0238759521ff8_middle.jpg" group-title="斗鱼",Xleft小叮当
+http://192.168.123.99:35455/douyu/3168536
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="斗鱼",玩机器丶Machine
+http://192.168.123.99:35455/douyu/6979222

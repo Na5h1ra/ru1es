@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙",周星星
+http://192.168.123.99:35455/huya/11342412
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1047/66/eb53709eab2655a728d801bc12a9ce_180_135.jpg?1625295306" group-title="虎牙",4AMCRAZY112代
+http://192.168.123.99:35455/huya/7911112
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/60/d823b6b3dfcedccc569e35beabbaca_180_135.jpg?467625" group-title="虎牙",rita
+http://192.168.123.99:35455/huya/910004

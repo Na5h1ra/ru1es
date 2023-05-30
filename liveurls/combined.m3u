@@ -32,3 +32,6 @@ http://192.168.10.99:35455/huya/791133
 http://192.168.10.99:35455/huya/791166
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/60/d823b6b3dfcedccc569e35beabbaca_180_135.jpg?467625" group-title="虎牙",rita
 http://192.168.10.99:35455/huya/910004
+
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/7a6e0aa621bf904e4d51ad405ffcde9bc1681002.jpg" group-title="哔哩哔哩",因炡
+http://192.168.10.99:35455/bilibili/8494739

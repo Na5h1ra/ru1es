@@ -103,6 +103,8 @@ http://192.168.10.99:35455/bilibili/23219374
 http://192.168.10.99:35455/bilibili/23068706
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg" group-title="哔哩哔哩",极客湾Geekerwan
 http://192.168.10.99:35455/bilibili/544843
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/50725ab9a836290e625766619590bc1c74e8d323.jpg" group-title="哔哩哔哩",叫我杰克大王
+http://192.168.10.99:35455/bilibili/24804332
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/83e12e703b50635b2ece66962b7048ccd04618a5.jpg" group-title="哔哩哔哩",李令羽
 http://192.168.10.99:35455/bilibili/41044
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/ae57dbe7e7589c2c75bf3acb4fccf0ae50ca2d60.jpg" group-title="哔哩哔哩",菜菜酱和八云先生
@@ -151,6 +153,10 @@ http://192.168.10.99:35455/bilibili/24726627
 http://192.168.10.99:35455/bilibili/25570038
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/49f8b39082bde88b20e51195009a57a15ea44ed8.jpg" group-title="哔哩哔哩",午氧氧氧
 http://192.168.10.99:35455/bilibili/1404698
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/6c83321568771ab062acba266df09eb495f53ec0.jpg" group-title="哔哩哔哩",蜡笔小新
+http://192.168.10.99:35455/bilibili/25109765
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/a1ce5a0f7da2e3368fc06587ff0d27773669f5d6.jpg" group-title="哔哩哔哩",马大帅-北四环观影
+http://192.168.10.99:35455/bilibili/24933342
 
 
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/91/1634911740/u1634911740k7wFsbW.jpg" group-title="YY", 好久不见-武林外传

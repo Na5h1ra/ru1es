@@ -1,6 +1,20 @@
 # NAME: Outside
 
-# CSGO
+# Game
+DOMAIN-SUFFIX,xxxxx525.com
+DOMAIN-SUFFIX,xxxxx528.com
+DOMAIN-SUFFIX,xxxxx520.cam
+DOMAIN-SUFFIX,xxxxx520.com
+DOMAIN-SUFFIX,switch618.com
+DOMAIN-SUFFIX,yyrtt.com
+DOMAIN-SUFFIX,mobalytics.gg
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,prosettings.net
+DOMAIN-SUFFIX,vlr.gg
+DOMAIN-SUFFIX,valking.gg
+DOMAIN-SUFFIX,dak.gg
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,pubglookup.com
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
@@ -16,31 +30,41 @@ DOMAIN-KEYWORD,spring-plus
 DOMAIN-KEYWORD,summer-plus
 DOMAIN-KEYWORD,blue-plus
 DOMAIN-KEYWORD,imoutolove
+DOMAIN-KEYWORD,east-plus
 
-#Airport
+# Airport
 DOMAIN-SUFFIX,flexline0.com
 DOMAIN-SUFFIX,flexline1.com
 DOMAIN-SUFFIX,flexline0.com
 DOMAIN-SUFFIX,oxycontin.top
 DOMAIN-SUFFIX,to-ytoo.xyz
 DOMAIN-SUFFIX,stentvessel.shop
+DOMAIN-SUFFIX,stentvessel.club
 DOMAIN-SUFFIX,v2tun.us
 DOMAIN-SUFFIX,v2tun.com
 DOMAIN-KEYWORD,ytoo
 DOMAIN-KEYWORD,v2tun
 
-#Other
+# Image and Video CDN
+DOMAIN-SUFFIX,nocookie.net
+DOMAIN-SUFFIX,owcdn.net
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,trackercdn.com
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-SUFFIX,giphy.com
+
+# Others
 DOMAIN-SUFFIX,macapp.org.cn
-DOMAIN-SUFFIX,xxxxx525.com
-DOMAIN-SUFFIX,xxxxx528.com
-DOMAIN-SUFFIX,xxxxx520.cam
-DOMAIN-SUFFIX,xxxxx520.com
-DOMAIN-SUFFIX,switch618.com
-DOMAIN-SUFFIX,yyrtt.com
 DOMAIN-SUFFIX,freemdict.com
 DOMAIN-SUFFIX,e6ex.com
 DOMAIN-SUFFIX,ddys.tv
 DOMAIN-SUFFIX,ddys2.me
 DOMAIN-SUFFIX,ddrk.me
+DOMAIN-SUFFIX,nrt2023.com
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+DOMAIN-SUFFIX,moegirl.org.cn

@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,valking.gg
 DOMAIN-SUFFIX,dak.gg
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,pubglookup.com
+DOMAIN-SUFFIX,blitz.gg
+DOMAIN-SUFFIX,lineupsvalorant.com
+DOMAIN-SUFFIX,valorantfiles.com
+DOMAIN-SUFFIX,valorant-api.com
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
@@ -45,7 +49,7 @@ DOMAIN-SUFFIX,v2tun.com
 DOMAIN-KEYWORD,ytoo
 DOMAIN-KEYWORD,v2tun
 
-# Image and Video CDN
+# Image & Audio & Video CDN
 DOMAIN-SUFFIX,nocookie.net
 DOMAIN-SUFFIX,owcdn.net
 DOMAIN-SUFFIX,webflow.com

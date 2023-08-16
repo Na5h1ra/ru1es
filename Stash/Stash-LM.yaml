@@ -1,12 +1,14 @@
 # Yang-Conf
-# Update:2023.5.23
+# Update:2023.8.16
 #
 #
 # 覆写模块
-# 1. QX重写/Surge模块转换成覆写，qx重写链接末尾加qx.stoverride，surge模块链接末尾加sg.stoverride，规则集末尾加r_parser.list，https://raw.githubusercontent.com/chengkongyiban/stash/main/override_Store/Rewrite_to_Stash.stoverride
-# 2. Youtube去广告模块，https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodulesg.stoverride
-# 3. 覆写去广告(严格版)，https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
-#
+# 
+# 1. https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride
+# 2. https://script.hub/file/_start_/https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule/_end_/YoutubeAds.stoverride?type=surge-module&target=stash-stoverride
+# 3. https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
+# 4. https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
+# 5.https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
 #
 # 通用设置,subscribe-url字段若机场支持的话可显示订阅流量信息
 port: 7890

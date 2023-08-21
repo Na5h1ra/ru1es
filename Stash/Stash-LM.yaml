@@ -1,5 +1,5 @@
 # Yang-Conf
-# Update:2023.8.16
+# Update:2023.8.21
 #
 #
 # 覆写模块
@@ -8,7 +8,7 @@
 # 2. https://script.hub/file/_start_/https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule/_end_/YoutubeAds.stoverride?type=surge-module&target=stash-stoverride
 # 3. https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
 # 4. https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
-# 5.https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
+# 5. https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
 #
 # 通用设置,subscribe-url字段若机场支持的话可显示订阅流量信息
 port: 7890
@@ -279,6 +279,10 @@ proxy-groups:
     proxies:
       - 📟 倍率选择
       - 🗺️ 地区选择
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - DIRECT
+
 
   - name: 0.2倍 日用
     url: http://www.gstatic.com/generate_204

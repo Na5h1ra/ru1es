@@ -4,11 +4,11 @@
 #
 # 覆写模块
 # 
-# 1. https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride
-# 2. https://script.hub/file/_start_/https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule/_end_/YoutubeAds.stoverride?type=surge-module&target=stash-stoverride
-# 3. https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
-# 4. https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
-# 5. https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
+# 1. Script Hub: 重写 & 规则集转换，https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride
+# 2. 去除 Youtube 广告, https://script.hub/file/_start_/https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule/_end_/YoutubeAds.stoverride?type=surge-module&target=stash-stoverride
+# 3. 复写去广告(严格版), https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
+# 4. 节假日 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
+# 5. IP 信息 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
 #
 # 通用设置,subscribe-url字段若机场支持的话可显示订阅流量信息
 port: 7890
@@ -17,13 +17,13 @@ mixed-port: 7893
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
-subscribe-url: 订阅地址
+subscribe-url: "订阅地址"
 
 # 订阅地址
 proxy-providers:
   Subscribe:
     type: http
-    url: 订阅地址
+    url: "订阅地址"
     interval: 86400
 
 # DNS设置
@@ -385,21 +385,20 @@ proxy-groups:
     filter: "俄罗斯|伦敦|迪拜|德国|印度|荷兰|意大利|印尼|菲律宾|西班牙|匈牙利|以色列|乌克兰|摩尔多瓦|巴西|加拿大|南非|土耳其|泰国|澳大利亚|马来西亚|越南|阿根廷"
 
 
-
-# 远程规则集合声明，记得安装chengkongyiban大佬的Rewrite_to_Stash.stoverride覆写模块，可把普通的list规则转换成Stash规则(注意转换的behavior为classical，不然不匹配)，内置的覆写仓库里有
+# 远程规则集合声明
 rule-providers:
   LocalAreaNetwork:
     type: http
     behavior: classical
     path: ./Ruleset/LocalAreaNetwork.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list/_end_/LocalAreaNetwork.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   UnBan:
     type: http
     behavior: classical
     path: ./Ruleset/UnBan.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list/_end_/UnBan.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
 
@@ -407,7 +406,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/BanAD.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list/_end_/BanAD.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
 
@@ -415,231 +414,231 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/BanProgramAD.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list/_end_/BanProgramAD.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Google:
     type: http
     behavior: classical
     path: ./Ruleset/Google.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list/_end_/Google.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Outside:
     type: http
     behavior: classical
     path: ./Ruleset/Outside.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.list/_end_/Outside.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GitHub:
     type: http
     behavior: classical
     path: ./Ruleset/GitHub.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list/_end_/GitHub.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GitLab:
     type: http
     behavior: classical
     path: ./Ruleset/GitLab.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.list/_end_/GitLab.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Speedtest:
     type: http
     behavior: classical
     path: ./Ruleset/Speedtest.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list/_end_/Speedtest.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GoogleCN:
     type: http
     behavior: classical
     path: ./Ruleset/GoogleCN.
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list/_end_/GoogleCN.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   SelfUseDirect:
     type: http
     behavior: classical
     path: ./Ruleset/SelfUseDirect.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.list/_end_/Direct.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   SteamCN:
     type: http
     behavior: classical
     path: ./Ruleset/SteamCN.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list/_end_/SteamCN.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Microsoft:
     type: http
     behavior: classical
     path: ./Ruleset/Microsoft.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list/_end_/Microsoft.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Apple:
     type: http
     behavior: classical
     path: ./Ruleset/Apple.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list/_end_/Apple.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Telegram:
     type: http
     behavior: classical
     path: ./Ruleset/Telegram.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list/_end_/Telegram.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Epic:
     type: http
     behavior: classical
     path: ./Ruleset/Epic.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list/_end_/Epic.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Sony:
     type: http
     behavior: classical
     path: ./Ruleset/Sony.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list/_end_/Sony.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Steam:
     type: http
     behavior: classical
     path: ./Ruleset/Steam.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list/_end_/Steam.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Nintendo:
     type: http
     behavior: classical
     path: ./Ruleset/Nintendo.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list/_end_/Nintendo.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   YouTube:
     type: http
     behavior: classical
     path: ./Ruleset/YouTube.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list/_end_/YouTube.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Spotify:
     type: http
     behavior: classical
     path: ./Ruleset/Spotify.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list/_end_/Spotify.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ChinaMedia:
     type: http
     behavior: classical
     path: ./Ruleset/ChinaMedia.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list/_end_/ChinaMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceHK:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceHK.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.list/_end_/OutsideForceHK.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceTW:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceTW.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceTW.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceTW.list/_end_/OutsideForceTW.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   DMM:
     type: http
     behavior: classical
     path: ./Ruleset/DMM.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.list/_end_/DMM.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   TikTok:
     type: http
     behavior: classical
     path: ./Ruleset/TikTok.yaml
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list/_end_/TikTok.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceJP:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceJP.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.list/_end_/OutsideForceJP.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceKR:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceKR.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.list/_end_/OutsideForceKR.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceUS:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceUS.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceUS.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceUS.list/_end_/OutsideForceUS.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OpenAI:
     type: http
     behavior: classical
     path: ./Ruleset/OpenAI.yaml
-    url: https://raw.githubusercontent.com/ExaAlice/Alice/main/Rule/OpenAi.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ExaAlice/Alice/main/Rule/OpenAi.list/_end_/OpenAi.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ProxyMedia:
     type: http
     behavior: classical
     path: ./Ruleset/ProxyMedia.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list/_end_/ProxyMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideMedia:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideMedia.yaml
-    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.list/_end_/OutsideMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ProxyGFWlist:
     type: http
     behavior: classical
     path: ./Ruleset/ProxyGFWlist.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list/_end_/ProxyGFWlist.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ChinaDomain:
     type: http
     behavior: classical
     path: ./Ruleset/ChinaDomain.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list/_end_/ChinaDomain.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ChinaCompanyIp:
     type: http
     behavior: classical
     path: ./Ruleset/ChinaCompanyIp.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list/_end_/ChinaCompanyIp.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Download:
     type: http
     behavior: classical
     path: ./Ruleset/Download.yaml
-    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.listr_parser.list
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list/_end_/Download.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
 

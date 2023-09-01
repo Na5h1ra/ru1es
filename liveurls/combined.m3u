@@ -17,6 +17,8 @@ http://192.168.10.99:35455/douyu/78622
 http://192.168.10.99:35455/douyu/1607787
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/fd50cb3ebd18475daa6c669a99c9ee58_big.jpg" group-title="斗鱼",精神永富
 http://192.168.10.99:35455/douyu/34972
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/34330e6e113241f8a2e862ef80c028a1_big.jpg" group-title="斗鱼",亡命快递龙龙龙
+http://192.168.10.99:35455/douyu/3934198
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/3ee9dc4aff96402eb000d4c200b7b867_big.jpg" group-title="斗鱼",pigff
 http://192.168.10.99:35455/douyu/24422
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_big.jpg" group-title="斗鱼",A妹A妹
@@ -139,6 +141,12 @@ http://192.168.10.99:35455/bilibili/37527
 http://192.168.10.99:35455/bilibili/8385390
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/6ab86f7415726f328fd2058f104563031f4e9823.jpg" group-title="哔哩哔哩",棘酱
 http://192.168.10.99:35455/bilibili/19865
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/cea358af5c9a40ca799629d37abcc0f406c4cfdf.jpg" group-title="哔哩哔哩",散仙彤彤子
+http://192.168.10.99:35455/bilibili/24628496
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/baselabs/f137288b2cca2adde810da0f1ac8a30c7d80aae4.png" group-title="哔哩哔哩",海东鉴宝
+http://192.168.10.99:35455/bilibili/26935393
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/c55f8fd3c5425abcb3f000b3020eff08e50e3c71.jpg" group-title="哔哩哔哩",道德未央-牛道德
+http://192.168.10.99:35455/bilibili/24577384
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/2397434bc96b55558397e4dd1d7fcf888f5b8dc8.jpg" group-title="哔哩哔哩",雪糕cheese
 http://192.168.10.99:35455/bilibili/27183290
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/fb6b874def472b401c1ef528b0132346355053b5.jpg" group-title="哔哩哔哩",芒伊木

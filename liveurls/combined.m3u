@@ -5,8 +5,6 @@ http://192.168.10.99:35455/douyu/3168536
 http://192.168.10.99:35455/douyu/6979222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/c5933be31ee84fa882701795b634ad77_middle.jpg" group-title="斗鱼",4AM小海xx丶
 http://192.168.10.99:35455/douyu/701990
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="斗鱼",超级小桀
-http://192.168.10.99:35455/douyu/74751
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg" group-title="斗鱼",女流66
 http://192.168.10.99:35455/douyu/156277
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/781508179eb44dc394fa171ebf441892_big.jpg" group-title="斗鱼",真栗
@@ -121,6 +119,8 @@ http://192.168.10.99:35455/bilibili/41044
 http://192.168.10.99:35455/bilibili/13065354
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/57550946b06a4a9c24a70a1b7159c25ad7bdf383.jpg" group-title="哔哩哔哩",老蒋巨靠谱
 http://192.168.10.99:35455/bilibili/21587367
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/130befe6530b010a915b2af8f8852b8a743fdbfa.jpg" group-title="哔哩哔哩",林捂捂
+http://192.168.10.99:35455/bilibili/10041310
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/11c9840da5c2a333808bbe055ebdcf0cbefff7df.jpg" group-title="哔哩哔哩",中队长同志
 http://192.168.10.99:35455/bilibili/21581683
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/e6ffb9868a85d695b1007a0ce7eec909801b07b1.jpg" group-title="哔哩哔哩",漠☆漠

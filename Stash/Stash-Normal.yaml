@@ -119,163 +119,163 @@ dns:
 
 # 策略组
 proxy-groups:
-  - name: 🗺️ 地区选择
+  - name: 地区选择
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/World_Map.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 新加坡节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🌐 其他节点
+      - 香港节点
+      - 台湾节点
+      - 新加坡节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 其他节点
       - DIRECT
 
-  - name: 📲 电报消息
+  - name: 电报消息
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: 📹 油管视频
+  - name: 油管视频
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: 🎵 Spotify
+  - name: Spotify
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
       - DIRECT
 
-  - name: 🎈 香港网站
+  - name: 香港网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 地区选择
 
-  - name: 🎫 台湾网站
+  - name: 台湾网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
     proxies:
-      - 🇨🇳 台湾节点
-      - 🗺️ 地区选择
+      - 台湾节点
+      - 地区选择
 
-  - name: 🌸 日本网站
+  - name: 日本网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
     proxies:
-      - 🇯🇵 日本节点
-      - 🗺️ 地区选择
+      - 日本节点
+      - 地区选择
 
-  - name: 🥒 韩国网站
+  - name: 韩国网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
     proxies:
-      - 🇰🇷 韩国节点
-      - 🗺️ 地区选择
+      - 韩国节点
+      - 地区选择
 
-  - name: 🦅 美国网站
+  - name: 美国网站
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
     proxies:
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 美国节点
+      - 地区选择
 
-  - name: 🌍 国外媒体
+  - name: 国外媒体
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: 🌏 国内媒体
+  - name: 国内媒体
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/StreamingCN.png
     proxies:
       - DIRECT
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 台湾节点
+      - 地区选择
 
-  - name: 📢 国外服务
+  - name: 国外服务
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
     proxies:
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: Ⓜ️ 微软服务
+  - name: 微软服务
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
     proxies:
       - DIRECT
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: 🍎 苹果服务
+  - name: 苹果服务
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
     proxies:
       - DIRECT
-      - 🇺🇲 美国节点
-      - 🇯🇵 日本节点
-      - 🇭🇰 香港节点
-      - 🗺️ 地区选择
+      - 美国节点
+      - 日本节点
+      - 香港节点
+      - 地区选择
 
-  - name: 🎮 游戏平台
+  - name: 游戏平台
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
     proxies:
       - DIRECT
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
-      - 🗺️ 地区选择
+      - 香港节点
+      - 美国节点
+      - 地区选择
 
-  - name: 🎯 全球直连
+  - name: 全球直连
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
     proxies:
       - DIRECT
       - REJECT
 
-  - name: 🛑 广告拦截
+  - name: 广告拦截
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
     proxies:
       - REJECT
       - DIRECT
 
-  - name: 🍃 应用净化
+  - name: 应用净化
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
     proxies:
       - REJECT
       - DIRECT
 
-  - name: 🐟 漏网之鱼
+  - name: 漏网之鱼
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
     proxies:
-      - 🗺️ 地区选择
-      - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 地区选择
+      - 香港节点
+      - 美国节点
       - DIRECT
 
-  - name: 🇭🇰 香港节点
+  - name: 香港节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -285,7 +285,7 @@ proxy-groups:
     lazy: true
     filter: "香港|HK|Hong|HKT"
 
-  - name: 🇯🇵 日本节点
+  - name: 日本节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -295,7 +295,7 @@ proxy-groups:
     lazy: true
     filter: "日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan"
 
-  - name: 🇺🇲 美国节点
+  - name: 美国节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -305,7 +305,7 @@ proxy-groups:
     lazy: true
     filter: "美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States"
 
-  - name: 🇨🇳 台湾节点
+  - name: 台湾节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -315,7 +315,7 @@ proxy-groups:
     lazy: true
     filter: "台湾|新北|彰化|TW|Taiwan"
 
-  - name: 🇸🇬 新加坡节点
+  - name: 新加坡节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -325,7 +325,7 @@ proxy-groups:
     lazy: true
     filter: "新加坡|狮城|SG|Singapore"
 
-  - name: 🇰🇷 韩国节点
+  - name: 韩国节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -335,7 +335,7 @@ proxy-groups:
     lazy: true
     filter: "KR|Korea|KOR|首尔|韩|韓"
 
-  - name: 🌐 其他节点
+  - name: 其他节点
     url: http://www.gstatic.com/generate_204
     include-all: true
     type: select
@@ -609,41 +609,41 @@ rule-providers:
 
 # 分流规则引用
 rules:
- - RULE-SET,LocalAreaNetwork,🎯 全球直连
- - RULE-SET,UnBan,🎯 全球直连
- - RULE-SET,BanAD,🛑 广告拦截
- - RULE-SET,BanProgramAD,🍃 应用净化
- - RULE-SET,Google,📢 国外服务
- - RULE-SET,Outside,📢 国外服务
- - RULE-SET,GitHub,📢 国外服务
- - RULE-SET,GitLab,📢 国外服务
- - RULE-SET,Speedtest,📢 国外服务
- - RULE-SET,GoogleCN,🎯 全球直连
- - RULE-SET,SelfUseDirect,🎯 全球直连
- - RULE-SET,SteamCN,🎯 全球直连
- - RULE-SET,Microsoft,Ⓜ️ 微软服务
- - RULE-SET,Apple,🍎 苹果服务
- - RULE-SET,Telegram,📲 电报消息
- - RULE-SET,Epic,🎮 游戏平台
- - RULE-SET,Sony,🎮 游戏平台
- - RULE-SET,Steam,🎮 游戏平台
- - RULE-SET,Nintendo,🎮 游戏平台
- - RULE-SET,YouTube,📹 油管视频
- - RULE-SET,Spotify,🎵 Spotify
- - RULE-SET,ChinaMedia,🌏 国内媒体
- - RULE-SET,OutsideForceHK,🎈 香港网站
- - RULE-SET,OutsideForceTW,🎫 台湾网站
- - RULE-SET,DMM,🌸 日本网站
- - RULE-SET,TikTok,🌸 日本网站
- - RULE-SET,OutsideForceJP,🌸 日本网站
- - RULE-SET,OutsideForceKR,🥒 韩国网站
- - RULE-SET,OutsideForceUS,🦅 美国网站
- - RULE-SET,OpenAI,🦅 美国网站
- - RULE-SET,ProxyMedia,🌍 国外媒体
- - RULE-SET,OutsideMedia,🌍 国外媒体
- - RULE-SET,ProxyGFWlist,🗺️ 地区选择
- - RULE-SET,ChinaDomain,🎯 全球直连
- - RULE-SET,ChinaCompanyIp,🎯 全球直连
- - RULE-SET,Download,🎯 全球直连
- - GEOIP,CN,🎯 全球直连
- - MATCH,🐟 漏网之鱼
+ - RULE-SET,LocalAreaNetwork,全球直连
+ - RULE-SET,UnBan,全球直连
+ - RULE-SET,BanAD,广告拦截
+ - RULE-SET,BanProgramAD,应用净化
+ - RULE-SET,Google,国外服务
+ - RULE-SET,Outside,国外服务
+ - RULE-SET,GitHub,国外服务
+ - RULE-SET,GitLab,国外服务
+ - RULE-SET,Speedtest,国外服务
+ - RULE-SET,GoogleCN,全球直连
+ - RULE-SET,SelfUseDirect,全球直连
+ - RULE-SET,SteamCN,全球直连
+ - RULE-SET,Microsoft,微软服务
+ - RULE-SET,Apple,苹果服务
+ - RULE-SET,Telegram,电报消息
+ - RULE-SET,Epic,游戏平台
+ - RULE-SET,Sony,游戏平台
+ - RULE-SET,Steam,游戏平台
+ - RULE-SET,Nintendo,游戏平台
+ - RULE-SET,YouTube,油管视频
+ - RULE-SET,Spotify,Spotify
+ - RULE-SET,ChinaMedia,国内媒体
+ - RULE-SET,OutsideForceHK,香港网站
+ - RULE-SET,OutsideForceTW,台湾网站
+ - RULE-SET,DMM,日本网站
+ - RULE-SET,TikTok,日本网站
+ - RULE-SET,OutsideForceJP,日本网站
+ - RULE-SET,OutsideForceKR,韩国网站
+ - RULE-SET,OutsideForceUS,美国网站
+ - RULE-SET,OpenAI,美国网站
+ - RULE-SET,ProxyMedia,国外媒体
+ - RULE-SET,OutsideMedia,国外媒体
+ - RULE-SET,ProxyGFWlist,地区选择
+ - RULE-SET,ChinaDomain,全球直连
+ - RULE-SET,ChinaCompanyIp,全球直连
+ - RULE-SET,Download,全球直连
+ - GEOIP,CN,全球直连
+ - MATCH,漏网之鱼

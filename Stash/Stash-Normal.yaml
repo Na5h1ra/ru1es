@@ -432,7 +432,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/SteamCN.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list/_end_/SteamCN.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list/_end_/SteamCN.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Microsoft:
@@ -446,49 +446,49 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/Apple.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list/_end_/Apple.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list/_end_/Apple.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Telegram:
     type: http
     behavior: classical
     path: ./Ruleset/Telegram.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list/_end_/Telegram.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list/_end_/Telegram.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Epic:
     type: http
     behavior: classical
     path: ./Ruleset/Epic.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list/_end_/Epic.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list/_end_/Epic.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Sony:
     type: http
     behavior: classical
     path: ./Ruleset/Sony.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list/_end_/Sony.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list/_end_/Sony.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Steam:
     type: http
     behavior: classical
     path: ./Ruleset/Steam.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list/_end_/Steam.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list/_end_/Steam.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Nintendo:
     type: http
     behavior: classical
     path: ./Ruleset/Nintendo.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list/_end_/Nintendo.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list/_end_/Nintendo.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   YouTube:
     type: http
     behavior: classical
     path: ./Ruleset/YouTube.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list/_end_/YouTube.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list/_end_/YouTube.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Spotify:
@@ -502,7 +502,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/ChinaMedia.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list/_end_/ChinaMedia.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list/_end_/ChinaMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceHK:

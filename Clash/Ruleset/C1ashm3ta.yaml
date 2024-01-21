@@ -1,0 +1,679 @@
+# 用于 Clash Meta 和 Clash Meta For Android，CFW使用会报错
+mixed-port: 7893
+geodata-mode: true
+tcp-concurrent: false
+allow-lan: true
+bind-address: "*"
+find-process-mode: strict
+ipv6: false
+mode: rule
+log-level: info
+external-controller: 0.0.0.0:9093
+global-client-fingerprint: chrome
+
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+
+sniffer:
+  enable: true
+  parse-pure-ip: true
+  sniff:
+    TLS:
+      ports: [443, 8443]
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+    QUIC:
+      ports: [443, 8443]
+
+
+tun:
+  enable: true
+  stack: system
+  dns-hijack: [any:53]
+# strict_route: true
+  auto-route: true
+  auto-detect-interface: true
+
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:53
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - stun.*.*.*
+    - stun.*.*
+    - time.windows.com
+    - time.nist.gov
+    - time.apple.com
+    - time.asia.apple.com
+    - "*.ntp.org.cn"
+    - "*.openwrt.pool.ntp.org"
+    - time1.cloud.tencent.com
+    - time.ustc.edu.cn
+    - pool.ntp.org
+    - ntp.ubuntu.com
+    - ntp.aliyun.com
+    - ntp1.aliyun.com
+    - ntp2.aliyun.com
+    - ntp3.aliyun.com
+    - ntp4.aliyun.com
+    - ntp5.aliyun.com
+    - ntp6.aliyun.com
+    - ntp7.aliyun.com
+    - time1.aliyun.com
+    - time2.aliyun.com
+    - time3.aliyun.com
+    - time4.aliyun.com
+    - time5.aliyun.com
+    - time6.aliyun.com
+    - time7.aliyun.com
+    - "*.time.edu.cn"
+    - time1.apple.com
+    - time2.apple.com
+    - time3.apple.com
+    - time4.apple.com
+    - time5.apple.com
+    - time6.apple.com
+    - time7.apple.com
+    - time1.google.com
+    - time2.google.com
+    - time3.google.com
+    - time4.google.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - localhost.ptlogin2.qq.com
+    - "*.*.*.srv.nintendo.net"
+    - "*.*.stun.playstation.net"
+    - xbox.*.*.microsoft.com
+    - "*.ipv6.microsoft.com"
+    - "*.*.xboxlive.com"
+    - speedtest.cros.wr.pvp.net
+  nameserver: [https://doh.pub/dns-query, https://dns.alidns.com/dns-query]
+
+
+proxy-providers:
+  Subscribe:
+    type: http
+    url: "订阅地址"
+    interval: 86400
+
+
+proxies:
+
+
+proxy-groups:
+  - name: ✈️ 机场信息
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "流量|剩余|过期|时间|traffic|expire|Traffic|Expire"
+    
+  - name: 🗺️ 地区选择
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 新加坡节点
+      - 🇯🇵 日本节点
+      - 🇺🇲 美国节点
+      - 🇰🇷 韩国节点
+      - 🌐 其他节点
+      - DIRECT
+
+  - name: 📲 电报消息
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 📹 油管视频
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 🎵 Spotify
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+      - DIRECT
+
+  - name: 🎈 香港网站
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🗺️ 地区选择
+
+  - name: 🎫 台湾网站
+    type: select
+    proxies:
+      - 🇨🇳 台湾节点
+      - 🗺️ 地区选择
+
+  - name: 🌸 日本网站
+    type: select
+    proxies:
+      - 🇯🇵 日本节点
+      - 🗺️ 地区选择
+
+  - name: 🥒 韩国网站
+    type: select
+    proxies:
+      - 🇰🇷 韩国节点
+      - 🗺️ 地区选择
+
+  - name: 🦅 美国网站
+    type: select
+    proxies:
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 🌏 国内媒体
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🗺️ 地区选择
+
+  - name: 📢 国外服务
+    type: select
+    proxies:
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🇺🇲 美国节点
+      - 🇯🇵 日本节点
+      - 🇭🇰 香港节点
+      - 🗺️ 地区选择
+
+  - name: 🎮 游戏平台
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - 🗺️ 地区选择
+
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+      - REJECT
+
+  - name: 🛑 广告拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🍃 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🗺️ 地区选择
+      - 🇭🇰 香港节点
+      - 🇺🇲 美国节点
+      - DIRECT
+
+  - name: 🇭🇰 香港节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "香港|HK|Hong|HKT"
+
+  - name: 🇯🇵 日本节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan"
+
+  - name: 🇺🇲 美国节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States"
+
+  - name: 🇨🇳 台湾节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "台湾|新北|彰化|TW|Taiwan"
+
+  - name: 🇸🇬 新加坡节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "新加坡|狮城|SG|Singapore"
+
+  - name: 🇰🇷 韩国节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "KR|Korea|KOR|首尔|韩|韓"
+
+  - name: 🌐 其他节点
+    url: http://www.gstatic.com/generate_204
+    use: [Subscribe]
+    type: select
+    interval: 120
+    tolerance: 50
+    lazy: true
+    filter: "俄罗斯|伦敦|迪拜|德国|印度|荷兰|意大利|印尼|菲律宾|西班牙|匈牙利|以色列|乌克兰|摩尔多瓦|巴西|加拿大|南非|土耳其|泰国|澳大利亚|悉尼|马来西亚|越南|阿根廷"
+
+
+rule-providers:
+  LocalAreaNetwork:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/LocalAreaNetwork.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+    interval: 86400
+
+  UnBan:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/UnBan.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+    interval: 86400
+
+
+  BanAD:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/BanAD.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+    interval: 86400
+
+
+  BanProgramAD:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/BanProgramAD.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+    interval: 86400
+
+  Google:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Google.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
+    interval: 86400
+
+  Outside:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Outside.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.list
+    interval: 86400
+
+  GitHub:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/GitHub.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
+    interval: 86400
+
+  GitLab:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/GitLab.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitLab/GitLab.list
+    interval: 86400
+
+  Speedtest:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Speedtest.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list
+    interval: 86400
+
+  GoogleCN:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/GoogleCN.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+    interval: 86400
+
+  SelfUseDirect:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/SelfUseDirect.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.list
+    interval: 86400
+
+  SteamCN:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/SteamCN.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
+    interval: 86400
+
+  Microsoft:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Microsoft.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
+    interval: 86400
+
+  Apple:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Apple.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+    interval: 86400
+
+  Telegram:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Telegram.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
+    interval: 86400
+
+  Epic:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Epic.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+    interval: 86400
+
+  Sony:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Sony.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
+    interval: 86400
+
+  Steam:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Steam.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+    interval: 86400
+
+  Nintendo:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Nintendo.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
+    interval: 86400
+
+  YouTube:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/YouTube.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+    interval: 86400
+
+  Spotify:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Spotify.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
+    interval: 86400
+
+  ChinaMedia:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/ChinaMedia.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
+    interval: 86400
+
+  OutsideForceHK:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideForceHK.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.list
+    interval: 86400
+
+  OutsideForceTW:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideForceTW.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceTW.list
+    interval: 86400
+
+  DMM:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/DMM.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.list
+    interval: 86400
+
+  TikTok:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/TikTok.list
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
+    interval: 86400
+
+  OutsideForceJP:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideForceJP.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.list
+    interval: 86400
+
+  OutsideForceKR:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideForceKR.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.list
+    interval: 86400
+
+  OutsideForceUS:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideForceUS.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceUS.list
+    interval: 86400
+
+  OpenAI:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OpenAI.list
+    url: https://raw.githubusercontent.com/ExaAlice/Alice/main/Rule/OpenAi.list
+    interval: 86400
+
+  ProxyMedia:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/ProxyMedia.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+    interval: 86400
+
+  OutsideMedia:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/OutsideMedia.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.list
+    interval: 86400
+
+  ProxyGFWlist:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/ProxyGFWlist.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+    interval: 86400
+
+  ChinaDomain:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/ChinaDomain.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+    interval: 86400
+
+  ChinaCompanyIp:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/ChinaCompanyIp.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+    interval: 86400
+
+  Download:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/Download.list
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+    interval: 86400
+
+
+rules:
+ - RULE-SET,LocalAreaNetwork,🎯 全球直连
+ - RULE-SET,UnBan,🎯 全球直连
+ - RULE-SET,BanAD,🛑 广告拦截
+ - RULE-SET,BanProgramAD,🍃 应用净化
+ - RULE-SET,Google,📢 国外服务
+ - RULE-SET,Outside,📢 国外服务
+ - RULE-SET,GitHub,📢 国外服务
+ - RULE-SET,GitLab,📢 国外服务
+ - RULE-SET,Speedtest,📢 国外服务
+ - RULE-SET,GoogleCN,🎯 全球直连
+ - RULE-SET,SelfUseDirect,🎯 全球直连
+ - RULE-SET,SteamCN,🎯 全球直连
+ - RULE-SET,Microsoft,Ⓜ️ 微软服务
+ - RULE-SET,Apple,🍎 苹果服务
+ - RULE-SET,Telegram,📲 电报消息
+ - RULE-SET,Epic,🎮 游戏平台
+ - RULE-SET,Sony,🎮 游戏平台
+ - RULE-SET,Steam,🎮 游戏平台
+ - RULE-SET,Nintendo,🎮 游戏平台
+ - RULE-SET,YouTube,📹 油管视频
+ - RULE-SET,Spotify,🎵 Spotify
+ - RULE-SET,ChinaMedia,🌏 国内媒体
+ - RULE-SET,OutsideForceHK,🎈 香港网站
+ - RULE-SET,OutsideForceTW,🎫 台湾网站
+ - RULE-SET,DMM,🌸 日本网站
+ - RULE-SET,TikTok,🌸 日本网站
+ - RULE-SET,OutsideForceJP,🌸 日本网站
+ - RULE-SET,OutsideForceKR,🥒 韩国网站
+ - RULE-SET,OutsideForceUS,🦅 美国网站
+ - RULE-SET,OpenAI,🦅 美国网站
+ - RULE-SET,ProxyMedia,🌍 国外媒体
+ - RULE-SET,OutsideMedia,🌍 国外媒体
+ - RULE-SET,ProxyGFWlist,🗺️ 地区选择
+ - RULE-SET,ChinaDomain,🎯 全球直连
+ - RULE-SET,ChinaCompanyIp,🎯 全球直连
+ - RULE-SET,Download,🎯 全球直连
+ - GEOIP,CN,🎯 全球直连
+ - MATCH,🐟 漏网之鱼
+
+
+script:
+  shortcuts:
+    quic: network == 'udp' and dst_port == 443

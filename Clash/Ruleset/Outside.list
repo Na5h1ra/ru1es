@@ -59,35 +59,47 @@ DOMAIN-SUFFIX,owcdn.net
 DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,trackercdn.com
 DOMAIN-SUFFIX,thetrackernetwork.com
-DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,940304.xyz
+
+# TVSeries & Movies & Anime
+
+# 低端影视
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,ddys.me
+DOMAIN-SUFFIX,ddys2.me
+DOMAIN-SUFFIX,ddrk.me
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.info
+DOMAIN-SUFFIX,ddys.love
+# 厂长资源
+DOMAIN-SUFFIX,cz01.tv
+DOMAIN-SUFFIX,czzy.tv
+DOMAIN-SUFFIX,czz9.com
+DOMAIN-SUFFIX,czzy22.com
+DOMAIN-SUFFIX,czzy66.com
+DOMAIN-SUFFIX,czzy55.com
+DOMAIN-SUFFIX,czzy88.com
+# 欧乐影院
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,olevod.tv
+DOMAIN-SUFFIX,olemovienews.com
+# 海外看
+DOMAIN-SUFFIX,haiwaikan.com
+# 动漫
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+DOMAIN-SUFFIX,age-api.com
 
 # Others
 DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,freemdict.com
 DOMAIN-SUFFIX,e6ex.com
-DOMAIN-SUFFIX,ddys.tv
-DOMAIN-SUFFIX,ddys2.me
-DOMAIN-SUFFIX,ddrk.me
 DOMAIN-SUFFIX,nrt2023.com
-DOMAIN-SUFFIX,hkdtmb.com
-DOMAIN-SUFFIX,mikanani.me
-DOMAIN-SUFFIX,mikanime.tv
-DOMAIN-SUFFIX,hellodk.cn
-DOMAIN-SUFFIX,yyets.click
-DOMAIN-SUFFIX,age-api.com
-DOMAIN-SUFFIX,czzy88.com
-DOMAIN-SUFFIX,cz01.tv
-DOMAIN-SUFFIX,czz9.com
-DOMAIN-SUFFIX,czzy.tv
-DOMAIN-SUFFIX,czzy22.com
-DOMAIN-SUFFIX,czzy66.com
 DOMAIN-SUFFIX,v1.mk
-DOMAIN-SUFFIX,olevod.com
-DOMAIN-SUFFIX,olemovienews.com
-DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,hellodk.cn
 DOMAIN-SUFFIX,bfvvs.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,picsum.photos

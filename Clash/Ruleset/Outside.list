@@ -156,17 +156,21 @@ DOMAIN-SUFFIX,kuaiyunzy.com
 DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,kuaikanzy.net
 
-# 磁力&网盘&字幕组
-DOMAIN-SUFFIX,btnull.org
+# 磁力 & 网盘 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,btnull.org
 DOMAIN-SUFFIX,pianyuan.org
+DOMAIN-SUFFIX,yinfans.me
+DOMAIN-SUFFIX,bugutv.org
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,susuifa.com
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,srtku.com
-
+DOMAIN-SUFFIX,yinghe.app
+DOMAIN-SUFFIX,yinghe.tv
+DOMAIN-SUFFIX,yingheapp.com
 # 动漫
 # 蜜柑计划
 DOMAIN-SUFFIX,mikanani.me

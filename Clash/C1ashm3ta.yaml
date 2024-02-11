@@ -1,4 +1,4 @@
-# 用于 Clash Meta 和 Clash Meta For Android，CFW使用会报错
+# 用于 Clash Meta 和 Clash Meta For Android，CFW Premium内核使用会报错
 mixed-port: 7893
 geodata-mode: true
 tcp-concurrent: false
@@ -374,6 +374,14 @@ rule-providers:
     format: text
     path: ./Ruleset/BanProgramAD.list
     url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+    interval: 86400
+
+  SelfBan:
+    type: http
+    behavior: classical
+    format: text
+    path: ./Ruleset/SelfBan.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/SelfBan.list
     interval: 86400
 
   Google:

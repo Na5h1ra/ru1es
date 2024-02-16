@@ -694,7 +694,7 @@ rules:
  - RULE-SET,Sony,游戏平台
  - RULE-SET,Steam,游戏平台
  - RULE-SET,Nintendo,游戏平台
-- RULE-SET,Blizzard,游戏平台
+ - RULE-SET,Blizzard,游戏平台
  - RULE-SET,EA,游戏平台
  - RULE-SET,Xbox,游戏平台
  - RULE-SET,Ubisoft,游戏平台

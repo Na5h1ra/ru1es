@@ -1,6 +1,10 @@
 # NAME: Direct
+
+# Videos
 DOMAIN-SUFFIX,goodiptv.club
-DOMAIN-SUFFIX,sp-flv.com
-DOMAIN-SUFFIX,ip.im
-DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,4khdr.cn
+DOMAIN-SUFFIX,sp-flv.com
+
+# IP & Speedtest
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,ip.im

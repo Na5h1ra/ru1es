@@ -1,259 +1,128 @@
 # NAME: OutsideMedia
+
+# TVSeries & Movies & Anime & Media Servers
+# 低端影视
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,ddys.me
+DOMAIN-SUFFIX,ddys2.me
+DOMAIN-SUFFIX,ddrk.me
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.info
+DOMAIN-SUFFIX,ddys.love
+
+# 厂长资源
+DOMAIN-SUFFIX,cz01.tv
+DOMAIN-SUFFIX,czzy.tv
+DOMAIN-SUFFIX,czz9.com
+DOMAIN-SUFFIX,czzy22.com
+DOMAIN-SUFFIX,czzy66.com
+DOMAIN-SUFFIX,czzy55.com
+DOMAIN-SUFFIX,czzy88.com
+
+# 在线之家
+DOMAIN-SUFFIX,zxzjhd.com
+DOMAIN-SUFFIX,zxzja.com
+DOMAIN-SUFFIX,zxzj.site
+# 欧乐影院
+
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,olevod.tv
+DOMAIN-SUFFIX,olemovienews.com
+# 哔嘀影视
+DOMAIN-SUFFIX,bdys.me
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,bdys10.com
+
+# Libvio
+DOMAIN-SUFFIX,libvio.app
+DOMAIN-SUFFIX,libvio.vip
+DOMAIN-SUFFIX,libvio.la
+DOMAIN-SUFFIX,libvio.com
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.fun
+DOMAIN-SUFFIX,libvio.cc
+
+# 海外看
+DOMAIN-SUFFIX,haiwaikan.com
+
+# 其它在线看
+DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,gaze.run
+DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,jiohub.top
+
+# 其它采集站
+DOMAIN-SUFFIX,911ysw.top
+DOMAIN-SUFFIX,suoniapi.com
+DOMAIN-SUFFIX,ffzyapi.com
+DOMAIN-SUFFIX,hongniuzy2.com
+DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,kczyapi.com
+DOMAIN-SUFFIX,39kan.com
+DOMAIN-SUFFIX,sdzyapi.com
+DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,wolongzyw.com
+DOMAIN-SUFFIX,ahjiuman.com
+DOMAIN-SUFFIX,huyaapi.com
+DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,p2100.net
+DOMAIN-SUFFIX,wujinapi.com
+DOMAIN-SUFFIX,subocaiji.com
+DOMAIN-SUFFIX,leshizyapi.com
+DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,moduapi.cc
+DOMAIN-SUFFIX,zuidazy.me
+DOMAIN-SUFFIX,qhzyapi.com
+DOMAIN-SUFFIX,hhzyapi.com
+DOMAIN-SUFFIX,xkanzy10.com
+DOMAIN-SUFFIX,xinlangapi.com
+DOMAIN-SUFFIX,kuaiyunzy.com
+DOMAIN-SUFFIX,fenwe078.cf
+DOMAIN-SUFFIX,kuaikanzy.net
+
+# 磁力 & 网盘 & 字幕组 & 影视导航
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,btnull.org
+DOMAIN-SUFFIX,btnull.si
+DOMAIN-SUFFIX,btnull.nu
+DOMAIN-SUFFIX,btnull.fun
+DOMAIN-SUFFIX,btnull.net
+DOMAIN-SUFFIX,pianyuan.org
+DOMAIN-SUFFIX,yinfans.me
+DOMAIN-SUFFIX,bugutv.org
+DOMAIN-SUFFIX,ainunu.com
+DOMAIN-SUFFIX,t-rex.tzfile.com
+DOMAIN-SUFFIX,susuifa.com
+DOMAIN-SUFFIX,yyets.click
+DOMAIN-SUFFIX,assrt.net
+DOMAIN-SUFFIX,srtku.com
+DOMAIN-SUFFIX,yinghe.app
+DOMAIN-SUFFIX,yinghe.tv
+DOMAIN-SUFFIX,yingheapp.com
+
+# 动漫
+# 蜜柑计划
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+# Age动漫
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,age-api.com
+# 樱花动漫
+DOMAIN-SUFFIX,iyhdmm.com
+DOMAIN-SUFFIX,yhdmba.net
+DOMAIN-SUFFIX,yhdmba.org
+# 哈哩哈哩
+DOMAIN-SUFFIX,halihali7.com
+DOMAIN-SUFFIX,halihali18.com
+DOMAIN-SUFFIX,halihali21.com
+DOMAIN-SUFFIX,halihali.org
+# 其它动漫站
+DOMAIN-SUFFIX,qdm18.com
+DOMAIN-SUFFIX,anime1.me
+DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,dogsfun.fun
+
 # Emby
-
-
-##### A #####
-
-# ACA & MisakaF
-DOMAIN-SUFFIX,emby.aca.best
-DOMAIN-SUFFIX,porn.aca.best
-
-##### B #####
-
-##### C #####
-
-# ccemby
-DOMAIN-SUFFIX,cc.ccemby.tk
-DOMAIN-SUFFIX,carryz.net
-
-# CherryEmby
-DOMAIN-SUFFIX,cherrytv.one
-
-##### D #####
-
-##### E #####
-
-# Exflux 
-DOMAIN-SUFFIX,line.emby.men
-
-# Emby餐厅
-DOMAIN-SUFFIX,mius.uk
-
-##### F #####
-
-##### G #####
-
-##### H #####
-
-# 花云
-DOMAIN-SUFFIX,emby.flowercloud
-
-##### I #####
-
-# Immtel
-DOMAIN-SUFFIX,emby.immtel.com
-
-##### J #####
-
-# jmsooo
-DOMAIN-SUFFIX,agahk1.jmsooo.com
-DOMAIN-SUFFIX,agasg1.jmsooo.com
-DOMAIN-SUFFIX,agajp1.jmsooo.com
-DOMAIN-SUFFIX,aws.jmsooo.com
-DOMAIN-SUFFIX,ntt1.jmsooo.com
-DOMAIN-SUFFIX,hinet.jmsooo.com
-DOMAIN-SUFFIX,cf1.jmsooo.com
-
-# 剧狗
-DOMAIN-SUFFIX,ju.dog
-IP-CIDR,202.61.255.248/32,no-resolve
-
-##### K #####
-
-# 卡戎
-DOMAIN-SUFFIX,charontv.com
-
-##### L #####
-
-# Land Emby
-DOMAIN-SUFFIX,emby.lcloud.wiki
-
-##### M #####
-
-# MisakaF
-DOMAIN-SUFFIX,misakaf.org
-
-# mjjemby
-DOMAIN-SUFFIX,mjjemby.org
-
-# Maying
-DOMAIN-SUFFIX,emby.maying.club
-
-# Magpie
-DOMAIN-KEYWORD,magpie
-
-##### N #####
-
-# ntRRR
-DOMAIN-SUFFIX,ntrrr.am.sb
-
-# nexitally
-DOMAIN-SUFFIX,emby.nexitally.com
-
-# Nebula
-DOMAIN-SUFFIX,direct.nebula-emby.com
-
-##### O #####
-
-# odyssey
-DOMAIN-SUFFIX,cf.odysseyplus.site
-DOMAIN-SUFFIX,agahk.odysseyplus.site
-DOMAIN-SUFFIX,agasg.odysseyplus.site
-DOMAIN-SUFFIX,ru.odysseyplus.site
-
-##### P #####
-
-# PiliPili 
-DOMAIN-SUFFIX,pilipiliultra.top
-DOMAIN-SUFFIX,pilipiliultra.com
-
-# pornemby
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,s.ii00.cc
-DOMAIN-SUFFIX,us.ii00.cc
-DOMAIN-SUFFIX,jp.ii00.cc
-
-# polo
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pololine.ml
-
-# 品云
-DOMAIN-SUFFIX,embyplus.club
-
-# paoche
-DOMAIN-SUFFIX,emby.cjpc.cc
-
-# prpr
-DOMAIN-SUFFIX,emby.prprcloud.com
-
-# 普拉斯影业
-DOMAIN-SUFFIX,emby.plusmedia.site
-DOMAIN-SUFFIX,emby-cf.plusmedia.site
-DOMAIN-SUFFIX,emby-sg.plusmedia.site
-
-##### Q #####
-
-##### R #####
-
-##### S #####
-
-# SYN
-DOMAIN-SUFFIX,stream.synn.cc
-DOMAIN-SUFFIX,stream.ntrrr.top
-
-# 私房菜Emby
-DOMAIN,notnetflix.cos.cat
-
-# 守候网络Emby
-DOMAIN-SUFFIX,emby.cn2gias.uk
-DOMAIN-SUFFIX,post.cn2gias.uk
-
-##### T #####
-
-# TreeDiagram
-DOMAIN-SUFFIX,123456.al
-
-##### U #####
-
-##### V #####
-
-##### W #####
-
-##### X #####
-
-# 熊猫
-DOMAIN-SUFFIX,embyclub.com
-DOMAIN-SUFFIX,az-hk.embyclub.com
-DOMAIN-SUFFIX,azsgp.embyclub.com
-
-# xeton
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
-
-##### Y #####
-
-# ytoo
-DOMAIN-SUFFIX,emby.ytoo.li
-
-##### Z #####
-
-##### 0-9 #####
-
-##### 未分类 #####
-
-DOMAIN-SUFFIX,emby.mdss.cloud
-DOMAIN-SUFFIX,embyserver.ga
-DOMAIN-SUFFIX,emby.nyancat.net
-DOMAIN-SUFFIX,emby.otakudrive.life
-DOMAIN-SUFFIX,emby2.otakudrive.life
-DOMAIN-SUFFIX,emby.run
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1back.emby.wtf
-DOMAIN-SUFFIX,pub2back.emby.wtf
-DOMAIN-SUFFIX,pub3back.emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,emby.p-p.men
-DOMAIN-SUFFIX,emby.aiyowei.ml
-DOMAIN-SUFFIX,gfwemby.org
-DOMAIN-SUFFIX,loseremby.org
-DOMAIN-SUFFIX,speedx.one
-DOMAIN-SUFFIX,embymv.tk
-DOMAIN-SUFFIX,bddup.com
-DOMAIN-SUFFIX,emby.cl
-DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,nivod4.tv
-DOMAIN-SUFFIX,newpppp.com
-DOMAIN-SUFFIX,freetz.top
-DOMAIN-SUFFIX,newwan.top
-DOMAIN-SUFFIX,shuipo.lol
-DOMAIN-SUFFIX,dicarerhome.com
-DOMAIN-SUFFIX,emby77.cf
-DOMAIN-SUFFIX,embyplus.org
-IP-CIDR,188.172.228.49/32,no-resolve
-DOMAIN-SUFFIX,embytv.cf
-DOMAIN-SUFFIX,zox.show
-DOMAIN-SUFFIX,acemby.org
-DOMAIN-SUFFIX,bili.rip
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,ednovas.org
-DOMAIN-SUFFIX,deja-vu.beauty
-DOMAIN-SUFFIX,studyfun.live
-DOMAIN-SUFFIX,gtlx.org
-DOMAIN-SUFFIX,9191001.xyz
-DOMAIN-SUFFIX,carlos.trade
-DOMAIN-SUFFIX,agon.cf
-DOMAIN-SUFFIX,imetyou.top
-DOMAIN-SUFFIX,goodisp.org
-DOMAIN-SUFFIX,emby77.org
-DOMAIN-SUFFIX,emby.eu.org
-DOMAIN-SUFFIX,wiri.tk
-DOMAIN-SUFFIX,285286.xyz
-DOMAIN-SUFFIX,zi0.icu
-DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,emby.kim
-DOMAIN-SUFFIX,4545.cf
-DOMAIN-SUFFIX,ggtt.cf
-DOMAIN-SUFFIX,mulgore.net
-DOMAIN-SUFFIX,happyav.eu.org
-DOMAIN-SUFFIX,emby.pro
-DOMAIN-SUFFIX,xiaoyi.one
-DOMAIN-SUFFIX,embymv.me
-DOMAIN-SUFFIX,infinityfly.top
-DOMAIN-SUFFIX,lucasmedia.top
-DOMAIN-SUFFIX,nvidia.rip
-DOMAIN-SUFFIX,emby77.org
-DOMAIN-SUFFIX,20120714.xyz
-DOMAIN-SUFFIX,gugumedia.link
-DOMAIN-SUFFIX,dicarerhome.com
-DOMAIN-SUFFIX,starcat.eu.org
-DOMAIN-SUFFIX,catlinks.co.uk
-DOMAIN-SUFFIX,emby.ws
-DOMAIN-SUFFIX,ohhhh.org
-DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,9521732.xyz
-PROCESS-NAME,com.mb.android
-PROCESS-NAME,com.miui.videoplayer
+DOMAIN-SUFFIX,magpie.bond

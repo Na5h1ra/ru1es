@@ -63,6 +63,13 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,940304.xyz
 
+#P0rn
+DOMAIN-SUFFIX,12bz.net
+DOMAIN-SUFFIX,hsex.men
+DOMAIN-SUFFIX,jiuse.icu
+DOMAIN-KEYWORD,jstv
+DOMAIN-KEYWORD,jiuse
+
 # Others
 DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,freemdict.com
@@ -75,3 +82,6 @@ DOMAIN-SUFFIX,bfvvs.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,androeed.ru
+DOMAIN-SUFFIX,yckceo.com
+DOMAIN-SUFFIX,yckceo1.com
+DOMAIN-SUFFIX,e-yck.top

@@ -645,7 +645,7 @@ rule-providers:
     behavior: classical
     format: text
     path: ./Ruleset/OpenAI.list
-    url: https://raw.githubusercontent.com/ExaAlice/Alice/main/Rule/OpenAi.list
+    url: https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list
     interval: 86400
 
   GlobalMedia:

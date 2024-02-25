@@ -1,8 +1,11 @@
 # NAME: OutsideForceHK
 
+# Life & Social 
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,gov.hk
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,hsbc.com.hk
+
+# Streaming media
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,hkanime.com

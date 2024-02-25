@@ -1,10 +1,14 @@
 # NAME: OutsideForceJP
-DOMAIN-SUFFIX,yahoo.co.jp
-# h
+
+# H
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,faleno.jp
 DOMAIN-SUFFIX,faleno.jp
 DOMAIN-KEYWORD,faleno
+
+# Others
+DOMAIN-SUFFIX,yahoo.co.jp
+
 # Japanese Learning
 DOMAIN-SUFFIX,kotoba.ne.jp
 DOMAIN-SUFFIX,goo.ne.jp
@@ -60,6 +64,7 @@ DOMAIN-SUFFIX,kakijun.jp
 DOMAIN-SUFFIX,furigana.info
 DOMAIN-SUFFIX,name-power.net
 DOMAIN-SUFFIX,nekodict.com
+
 # Monokakido Dictionary
 DOMAIN-SUFFIX,dictionarystore.com
 DOMAIN-SUFFIX,cdn77.org

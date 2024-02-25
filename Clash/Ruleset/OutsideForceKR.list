@@ -1,6 +1,10 @@
 # NAME: OutsideForceKR
+
+# Streaming media
 DOMAIN-KEYWORD,afreecatv
 DOMAIN-SUFFIX,afreecatv.com
+
+# Korean Storage Platform
 DOMAIN-SUFFIX,bunkrr.su
 DOMAIN-SUFFIX,bunkr.media
 DOMAIN-SUFFIX,bunkr.black

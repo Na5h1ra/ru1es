@@ -26,6 +26,23 @@ DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
+# Anime 相关
+
+# Bangumi番组计划
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+
+# 蜜柑计划
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+
+# 其它 & 磁力站
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,acgnx.se
+
+
 # Nanplus
 DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,south-plus

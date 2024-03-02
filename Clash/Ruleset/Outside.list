@@ -106,12 +106,34 @@ DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,jiuse.icu
 DOMAIN-KEYWORD,jstv
 DOMAIN-KEYWORD,jiuse
+DOMAIN-SUFFIX,nrt2023.com
+DOMAIN-SUFFIX,51cg.fun
+DOMAIN-SUFFIX,166.run
+DOMAIN-SUFFIX,155.fun
+DOMAIN-SUFFIX,hlbdy.me
+DOMAIN-SUFFIX,18hlw.com
+DOMAIN-SUFFIX,ltrtzlrfr.com
+DOMAIN-SUFFIX,91share.net
+DOMAIN-SUFFIX,lanrenbl.net
+DOMAIN-SUFFIX,lanren.org
+DOMAIN-SUFFIX,lanrenktaa.top
+DOMAIN-SUFFIX,84zms.com
+
+#P0rnOnline
+DOMAIN-SUFFIX,speedporn.net
+DOMAIN-SUFFIX,erome.com
+
+#P0rnT0rr3nt
+DOMAIN-SUFFIX,xxxclub.to
+
+#P0rnCDN
+DOMAIN-SUFFIX,66img.cc
+DOMAIN-SUFFIX,yuemeinv.com
 
 # Others
 DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,freemdict.com
 DOMAIN-SUFFIX,e6ex.com
-DOMAIN-SUFFIX,nrt2023.com
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,hellodk.cn

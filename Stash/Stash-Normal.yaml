@@ -1,7 +1,7 @@
 # Modified From https://github.com/Repcz/Tool and ACL4SSR
 # 覆写模块
 # 1. Script Hub: 重写 & 规则集转换，https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride
-# 2. 去除 Youtube 广告, https://script.hub/file/_start_/https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule/_end_/YoutubeAds.stoverride?type=surge-module&target=stash-stoverride
+# 2. 去除 Youtube 广告, http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin/_end_/YouTube_remove_ads.stoverride?type=loon-plugin&target=stash-stoverride&del=true
 # 3. 复写去广告(严格版), https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
 # 4. 节假日 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
 # 5. IP 信息 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride

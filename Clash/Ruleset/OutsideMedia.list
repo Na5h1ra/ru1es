@@ -47,58 +47,58 @@ DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,haiwaikan.com
 
 # 其它在线看
-DOMAIN-SUFFIX,novipnoad.net
-DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX,novipnoad.net
 
 # 其它采集站
-DOMAIN-SUFFIX,911ysw.top
-DOMAIN-SUFFIX,suoniapi.com
-DOMAIN-SUFFIX,ffzyapi.com
-DOMAIN-SUFFIX,hongniuzy2.com
-DOMAIN-SUFFIX,lziapi.com
-DOMAIN-SUFFIX,kczyapi.com
 DOMAIN-SUFFIX,39kan.com
-DOMAIN-SUFFIX,sdzyapi.com
+DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,apiyhzy.com
-DOMAIN-SUFFIX,wolongzyw.com
-DOMAIN-SUFFIX,ahjiuman.com
-DOMAIN-SUFFIX,huyaapi.com
 DOMAIN-SUFFIX,apibdzy.com
-DOMAIN-SUFFIX,p2100.net
-DOMAIN-SUFFIX,wujinapi.com
-DOMAIN-SUFFIX,subocaiji.com
-DOMAIN-SUFFIX,leshizyapi.com
-DOMAIN-SUFFIX,infuseku.xyz
-DOMAIN-SUFFIX,moduapi.cc
-DOMAIN-SUFFIX,zuidazy.me
-DOMAIN-SUFFIX,qhzyapi.com
+DOMAIN-SUFFIX,ahjiuman.com
+DOMAIN-SUFFIX,fenwe078.cf
+DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,hhzyapi.com
+DOMAIN-SUFFIX,hongniuzy2.com
+DOMAIN-SUFFIX,huyaapi.com
+DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,kczyapi.com
+DOMAIN-SUFFIX,kuaikanzy.net
+DOMAIN-SUFFIX,kuaiyunzy.com
+DOMAIN-SUFFIX,leshizyapi.com
+DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,moduapi.cc
+DOMAIN-SUFFIX,p2100.net
+DOMAIN-SUFFIX,qhzyapi.com
+DOMAIN-SUFFIX,sdzyapi.com
+DOMAIN-SUFFIX,suoniapi.com
+DOMAIN-SUFFIX,subocaiji.com
+DOMAIN-SUFFIX,wolongzyw.com
+DOMAIN-SUFFIX,wujinapi.com
 DOMAIN-SUFFIX,xkanzy10.com
 DOMAIN-SUFFIX,xinlangapi.com
-DOMAIN-SUFFIX,kuaiyunzy.com
-DOMAIN-SUFFIX,fenwe078.cf
-DOMAIN-SUFFIX,kuaikanzy.net
+DOMAIN-SUFFIX,zuidazy.me
 
 # 磁力 & 网盘 & 字幕组 & 影视导航
+DOMAIN-SUFFIX,ainunu.com
+DOMAIN-SUFFIX,assrt.net
+DOMAIN-SUFFIX,bugutv.org
 DOMAIN-SUFFIX,btnull.org
 DOMAIN-SUFFIX,btnull.si
 DOMAIN-SUFFIX,btnull.nu
 DOMAIN-SUFFIX,btnull.fun
 DOMAIN-SUFFIX,btnull.net
 DOMAIN-SUFFIX,pianyuan.org
-DOMAIN-SUFFIX,yinfans.me
-DOMAIN-SUFFIX,bugutv.org
-DOMAIN-SUFFIX,ainunu.com
-DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,susuifa.com
-DOMAIN-SUFFIX,yyets.click
-DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,srtku.com
+DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,yinghe.app
 DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
+DOMAIN-SUFFIX,yinfans.me
+DOMAIN-SUFFIX,yyets.click
 
 # 动漫
 # Age动漫

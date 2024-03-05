@@ -1,13 +1,13 @@
 # NAME: Direct
 
 # Videos
-DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,4khdr.cn
+DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,sp-flv.com
 
 # IP & Speedtest
-DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,ip.im
+DOMAIN-SUFFIX,speedtest.cn
 
 # Parsec
 # Source: https://support.parsec.app/hc/en-us/articles/4440911373325-Parsec-Connectivity-Requirements

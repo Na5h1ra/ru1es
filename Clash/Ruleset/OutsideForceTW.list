@@ -1,17 +1,17 @@
 # NAME: OutsideForceTW
 
 # GOV sites
-DOMAIN-SUFFIX,moedict.tw
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,moedict.tw
 
 # Social Media & Blogger
-DOMAIN-SUFFIX,ptt.cc
-DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,ck101.tw
-DOMAIN-SUFFIX,webptt.com
 DOMAIN-SUFFIX,disp.cc
+DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,mymypic.net
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,webptt.com
 DOMAIN-KEYWORD,dcard
 DOMAIN-KEYWORD,mobile01

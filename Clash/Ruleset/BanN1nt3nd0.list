@@ -1,0 +1,47 @@
+# NAME: BanN1nt3nd0
+# From 9oDNS on G1tlab
+
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.jp
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.tw
+DOMAIN-SUFFIX,nintendo.com.hk
+DOMAIN-SUFFIX,nintendo.com.au
+DOMAIN-SUFFIX,nintendo.co.nz
+DOMAIN-SUFFIX,nintendo.at
+DOMAIN-SUFFIX,nintendo.be
+DOMAIN-SUFFIX,nintendods.cz
+DOMAIN-SUFFIX,nintendo.dk
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.fi
+DOMAIN-SUFFIX,nintendo.fr
+DOMAIN-SUFFIX,nintendo.gr
+DOMAIN-SUFFIX,nintendo.hu
+DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendo.no
+DOMAIN-SUFFIX,nintendo.pt
+DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,nintendo.co.za
+DOMAIN-SUFFIX,nintendo.se
+DOMAIN-SUFFIX,nintendo.ch
+DOMAIN-SUFFIX,nintendo.pl
+DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+DOMAIN-SUFFIX,nintendoswitch.cn
+
+# 0riginal Redirect from 9odns on Gitlab
+#(o is 0)
+# conntest.nintendowifi.net = 95.216.149.205
+#ctest.cdn.nintendo.net = 95.216.149.205
+# 9odns.test = 95.216.149.205
+# Wifi Check on N1nt3nd0
+DOMAIN-SUFFIX,conntest.nintendowifi.net
+DOMAIN-SUFFIX,ctest.cdn.nintendo.net
+DOMAIN-SUFFIX,90dns.test

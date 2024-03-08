@@ -26,6 +26,12 @@ DOMAIN-SUFFIX,valoplant.gg
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
+# Gal
+DOMAIN-SUFFIX,shinnku.com
+DOMAIN-SUFFIX,fapforfun.net
+DOMAIN-SUFFIX,ggbases.com
+DOMAIN-SUFFIX,qingjuacg.top
+
 # Anime 相关
 # Bangumi番组计划
 DOMAIN-SUFFIX,bgm.tv
@@ -120,7 +126,8 @@ DOMAIN-SUFFIX,lanrenktaa.top
 DOMAIN-SUFFIX,linzijun.app
 DOMAIN-SUFFIX,ltrtzlrfr.com
 DOMAIN-SUFFIX,monsnode.com
-DOMAIN-SUFFIX,nrt2023.com
+DOMAIN-SUFFIX,nrt2023.com\
+DOMAIN-SUFFIX,showgirlx.net
 DOMAIN-SUFFIX,simpcity.su
 DOMAIN-KEYWORD,jstv
 DOMAIN-KEYWORD,jiuse

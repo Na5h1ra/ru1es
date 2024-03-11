@@ -757,8 +757,8 @@ rules:
  - RULE-SET,OutsideForceKR,韩国网站
  - RULE-SET,OutsideForceUS,美国网站
  - RULE-SET,OpenAI,美国网站
- - RULE-SET,GlobalMedia,🌍 国外媒体
- - RULE-SET,Emby,🌍 国外媒体
+ - RULE-SET,GlobalMedia,国外媒体
+ - RULE-SET,Emby,国外媒体
  - RULE-SET,OutsideMedia,国外媒体
  - RULE-SET,ProxyGFWlist,地区选择
  - RULE-SET,ChinaDomain,全球直连

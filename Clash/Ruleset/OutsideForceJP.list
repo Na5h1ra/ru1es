@@ -33,11 +33,13 @@ DOMAIN-SUFFIX,jisho.org
 DOMAIN-SUFFIX,jitenon.jp
 DOMAIN-SUFFIX,jigen.net
 DOMAIN-SUFFIX,jlogos.com
+DOMAIN-SUFFIX,jpeigo.jp
 DOMAIN-SUFFIX,kanjitisiki.com
 DOMAIN-SUFFIX,kanjipedia.jp
 DOMAIN-SUFFIX,kakijun.jp
 DOMAIN-SUFFIX,kanjijiten.net
 DOMAIN-SUFFIX,kaku-navi.com
+DOMAIN-SUFFIX,kendenblog.com
 DOMAIN-SUFFIX,kenkyusha.co.jp
 DOMAIN-SUFFIX,kodensha.jp
 DOMAIN-SUFFIX,kotoba.ne.jp
@@ -65,6 +67,9 @@ DOMAIN-SUFFIX,yakuru.net
 DOMAIN-SUFFIX,yomikatawa.com
 DOMAIN-SUFFIX,yojijyukugo.com
 DOMAIN-SUFFIX,zokugo-dict.com
+
+# Image & Audio & Video CDN
+
 
 # Monokakido Dictionary
 DOMAIN-SUFFIX,cdn77.org

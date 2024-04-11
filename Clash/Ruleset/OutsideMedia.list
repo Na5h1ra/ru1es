@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,zxzj.site
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olemovienews.com
+
 # 哔嘀影视
 DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
@@ -101,35 +102,63 @@ DOMAIN-SUFFIX,yingheapp.com
 DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,yyets.click
 
-# 动漫
+# 漫画站
+DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,cartoonmad.com
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,czmanga.com
+DOMAIN-SUFFIX,gufengmh9.com
+DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mhx12.com
+DOMAIN-SUFFIX,komiic.com
+DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,yymanhua.com
+
+# 在线动漫站
 # Age动漫
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,age.tv
 DOMAIN-SUFFIX,agefans.com
 DOMAIN-SUFFIX,age-api.com
+
 # 樱花动漫
 DOMAIN-SUFFIX,iyhdmm.com
 DOMAIN-SUFFIX,yhdmba.net
 DOMAIN-SUFFIX,yhdmba.org
+
 # 哈哩哈哩
 DOMAIN-SUFFIX,halihali7.com
 DOMAIN-SUFFIX,halihali18.com
 DOMAIN-SUFFIX,halihali21.com
 DOMAIN-SUFFIX,halihali.org
-# 其它动漫站
+
+# 其它在线动漫站
 DOMAIN-SUFFIX,2kdm.com
+DOMAIN-SUFFIX,5dm.link
 DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,anime1.me
+DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,anfuns.cc
 DOMAIN-SUFFIX,catw.moe
+DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
+DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,dogsfun.fun
+DOMAIN-SUFFIX,fanshudm.com
 DOMAIN-SUFFIX,girigirilove.com
 DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,gugufan.com
 DOMAIN-SUFFIX,gxdm.me
+DOMAIN-SUFFIX,gxdm01.org
+DOMAIN-SUFFIX,hmacg.cn
+DOMAIN-SUFFIX,huazidm.com
+DOMAIN-SUFFIX,invbo.top
 DOMAIN-SUFFIX,lffun.com
 DOMAIN-SUFFIX,lldm.net
+DOMAIN-SUFFIX,lzacg.org
+DOMAIN-SUFFIX,mgnacg.com
+DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,moefun.net
 DOMAIN-SUFFIX,mutefun.cn
 DOMAIN-SUFFIX,mutedm.com
@@ -137,8 +166,39 @@ DOMAIN-SUFFIX,mutefun.tv
 DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,mikudm.com
 DOMAIN-SUFFIX,nicohub.cc
+DOMAIN-SUFFIX,nyafun.net
 DOMAIN-SUFFIX,qdm18.com
 DOMAIN-SUFFIX,xfani.com
+DOMAIN-SUFFIX,xiuluodm.com
+
+# Anime 相关
+# Bangumi番组计划
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+
+# 蜜柑计划
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,mikanime.tv
+
+# Anime 论坛 & 导航 & 字幕组 & 磁力站 & 其它
+DOMAIN-SUFFIX,404.website
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,acgbox.link
+DOMAIN-SUFFIX,acgbus.com
+DOMAIN-SUFFIX,acgdh.cc
+DOMAIN-SUFFIX,acgnx.se
+DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,bgmlist.com
+DOMAIN-SUFFIX,dmguo.org
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,fitacg.com
+DOMAIN-SUFFIX,hysub.net
+DOMAIN-SUFFIX,kamigami.org
+DOMAIN-SUFFIX,kisssub.org
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,vcb-s.com
+DOMAIN,867258173.ysepan.com
 
 # Emby
 DOMAIN-SUFFIX,magpie.bond

@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,zuidazy.me
 
 # 磁力 & 网盘 & 字幕组 & 影视导航
+# 
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,bugutv.org
@@ -196,9 +197,55 @@ DOMAIN-SUFFIX,fitacg.com
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
 DOMAIN-SUFFIX,kisssub.org
+DOMAIN-SUFFIX,lilithraws.org
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN,867258173.ysepan.com
+
+# GalGame
+DOMAIN-SUFFIX,2dfan.com
+DOMAIN-SUFFIX,2djgame.net
+DOMAIN-SUFFIX,acggw.club
+DOMAIN-SUFFIX,acgngames.net
+DOMAIN-SUFFIX,amemei-lists.top
+DOMAIN-SUFFIX,cngal.org
+DOMAIN-SUFFIX,ddfan.org
+DOMAIN-SUFFIX,ddfan.top
+DOMAIN-SUFFIX,fan2d.lol
+DOMAIN-SUFFIX,fapforfun.net
+DOMAIN-SUFFIX,fufugal.com
+DOMAIN-SUFFIX,galccg.com
+DOMAIN-SUFFIX,galcg.org
+DOMAIN-SUFFIX,gallibrary.pw
+DOMAIN-SUFFIX,galgamer.moe
+DOMAIN-SUFFIX,galge.top
+DOMAIN-SUFFIX,galxp.com
+DOMAIN-SUFFIX,galzy.eu.org
+DOMAIN-SUFFIX,ggbases.com
+DOMAIN-SUFFIX,gogalgame.com
+DOMAIN-SUFFIX,kdays.net
+DOMAIN-SUFFIX,kfpromax.com
+DOMAIN-SUFFIX,kfmax.com
+DOMAIN-SUFFIX,kungal.com
+DOMAIN-SUFFIX,llgal.xyz
+DOMAIN-SUFFIX,pcmoe.net
+DOMAIN-SUFFIX,qingjuacg.top
+DOMAIN-SUFFIX,sakustar.top
+DOMAIN-SUFFIX,saop.cc
+DOMAIN-SUFFIX,seikuu.com
+DOMAIN-SUFFIX,shinnku.com
+DOMAIN-SUFFIX,skyrivers.org
+DOMAIN-SUFFIX,soraacg.com
+DOMAIN-SUFFIX,steamgalgame.com
+DOMAIN-SUFFIX,sumisora.net
+DOMAIN-SUFFIX,tiangal.com
+DOMAIN-SUFFIX,touchgal.org
+DOMAIN-SUFFIX,ttloli.com
+DOMAIN-SUFFIX,t-satoru.top
+DOMAIN-SUFFIX,wafuwafu.com
+DOMAIN-SUFFIX,xxacg.net
+DOMAIN-SUFFIX,xiayuge.top
+DOMAIN-SUFFIX,xiayuge1.top
 
 # Emby
 DOMAIN-SUFFIX,magpie.bond

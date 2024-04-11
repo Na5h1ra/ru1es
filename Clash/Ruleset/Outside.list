@@ -26,35 +26,6 @@ DOMAIN-SUFFIX,valoplant.gg
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
-# Gal
-DOMAIN-SUFFIX,cngal.org
-DOMAIN-SUFFIX,fapforfun.net
-DOMAIN-SUFFIX,fufugal.com
-DOMAIN-SUFFIX,galcg.org
-DOMAIN-SUFFIX,galzy.eu.org
-DOMAIN-SUFFIX,ggbases.com
-DOMAIN-SUFFIX,kfmax.com
-DOMAIN-SUFFIX,llgal.xyz
-DOMAIN-SUFFIX,qingjuacg.top
-DOMAIN-SUFFIX,shinnku.com
-DOMAIN-SUFFIX,steamgalgame.com
-DOMAIN-SUFFIX,ttloli.com
-
-# Anime 相关
-# Bangumi番组计划
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,bangumi.tv
-
-# 蜜柑计划
-DOMAIN-SUFFIX,mikanani.me
-DOMAIN-SUFFIX,mikanime.tv
-
-# 磁力站 & 其它
-DOMAIN-SUFFIX,acgnx.se
-DOMAIN-SUFFIX,bangumi.moe
-DOMAIN-SUFFIX,dmhy.org
-DOMAIN-SUFFIX,nyaa.si
-
 
 # Notion
 # From https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list
@@ -89,7 +60,6 @@ DOMAIN-KEYWORD,spring-plus
 DOMAIN-KEYWORD,summer-plus
 DOMAIN-KEYWORD,white-plus
 
-
 # Airport
 DOMAIN-SUFFIX,flexline0.com
 DOMAIN-SUFFIX,flexline1.com
@@ -100,7 +70,6 @@ DOMAIN-SUFFIX,stentvessel.club
 DOMAIN-SUFFIX,to-ytoo.xyz
 DOMAIN-SUFFIX,v2tun.us
 DOMAIN-SUFFIX,v2tun.com
-
 
 # Outside Image & Audio & Video CDN
 DOMAIN-SUFFIX,940304.xyz

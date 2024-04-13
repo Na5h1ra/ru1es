@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,ddys.love
 
 # 厂长资源
 DOMAIN-SUFFIX,cz01.tv
+DOMAIN-SUFFIX,cz01.vip
+DOMAIN-SUFFIX,czys03.com
 DOMAIN-SUFFIX,czzy.tv
 DOMAIN-SUFFIX,czz9.com
 DOMAIN-SUFFIX,czzy22.com
@@ -32,23 +34,33 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olemovienews.com
 
 # 哔嘀影视
+DOMAIN-SUFFIX,52bdys.com
 DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,bde4.icu
+DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
+DOMAIN-SUFFIX,yjys.me
 
 # Libvio
 DOMAIN-SUFFIX,libvio.app
-DOMAIN-SUFFIX,libvio.vip
-DOMAIN-SUFFIX,libvio.la
-DOMAIN-SUFFIX,libvio.com
-DOMAIN-SUFFIX,libvio.me
-DOMAIN-SUFFIX,libvio.fun
 DOMAIN-SUFFIX,libvio.cc
+DOMAIN-SUFFIX,libvio.com
+DOMAIN-SUFFIX,libvio.fun
+DOMAIN-SUFFIX,libvio.la
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.pro
+DOMAIN-SUFFIX,libvio.pw
+DOMAIN-SUFFIX,libvio.vip
+DOMAIN-SUFFIX,libviohd.com
+DOMAIN-SUFFIX,libfabu.com
+DOMAIN-SUFFIX,ifabu.vip
 
 # 海外看
 DOMAIN-SUFFIX,haiwaikan.com
 
 # 其它在线看
+DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,jiohub.top
@@ -84,7 +96,6 @@ DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,zuidazy.me
 
 # 磁力 & 网盘 & 字幕组 & 影视导航
-# 
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,bugutv.org
@@ -118,9 +129,10 @@ DOMAIN-SUFFIX,yymanhua.com
 
 # 在线动漫站
 # Age动漫
-DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,age-api.com
 
 # 樱花动漫
@@ -131,6 +143,8 @@ DOMAIN-SUFFIX,yhdmba.org
 # 哈哩哈哩
 DOMAIN-SUFFIX,halihali7.com
 DOMAIN-SUFFIX,halihali18.com
+DOMAIN-SUFFIX,halihali28.com
+DOMAIN-SUFFIX,halihali29.com
 DOMAIN-SUFFIX,halihali21.com
 DOMAIN-SUFFIX,halihali.org
 

@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,ddys.love
 # 厂长资源
 DOMAIN-SUFFIX,cz01.tv
 DOMAIN-SUFFIX,cz01.vip
+DOMAIN-SUFFIX,cz233.com
 DOMAIN-SUFFIX,czys03.com
 DOMAIN-SUFFIX,czzy.tv
 DOMAIN-SUFFIX,czz9.com
@@ -38,6 +39,7 @@ DOMAIN-SUFFIX,52bdys.com
 DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bde4.icu
+DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
 DOMAIN-SUFFIX,yjys.me
@@ -59,9 +61,10 @@ DOMAIN-SUFFIX,ifabu.vip
 # 海外看
 DOMAIN-SUFFIX,haiwaikan.com
 
-# 其它在线看
+# 其它在线站
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,4kvm.site
 DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,jiohub.top
 DOMAIN-SUFFIX,novipnoad.net
@@ -185,6 +188,7 @@ DOMAIN-SUFFIX,nyafun.net
 DOMAIN-SUFFIX,qdm18.com
 DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
+
 
 # Anime 相关
 # Bangumi番组计划

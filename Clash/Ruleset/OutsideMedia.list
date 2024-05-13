@@ -1,6 +1,7 @@
 # NAME: OutsideMedia
 
 # TVSeries & Movies & Anime & Media Servers
+
 # 低端影视
 DOMAIN-SUFFIX,ddys.tv
 DOMAIN-SUFFIX,ddys.me
@@ -18,6 +19,7 @@ DOMAIN-SUFFIX,cz233.com
 DOMAIN-SUFFIX,czys.top
 DOMAIN-SUFFIX,czys03.com
 DOMAIN-SUFFIX,czz9.com
+DOMAIN-SUFFIX,czzy.site
 DOMAIN-SUFFIX,czzy.top
 DOMAIN-SUFFIX,czzy.tv
 DOMAIN-SUFFIX,czzy22.com
@@ -67,6 +69,7 @@ DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.site
+DOMAIN-SUFFIX,cupfox.love
 DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,jiohub.top
 DOMAIN-SUFFIX,mcoun.com

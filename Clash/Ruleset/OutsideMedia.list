@@ -106,7 +106,8 @@ DOMAIN-SUFFIX,xkanzy10.com
 DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,zuidazy.me
 
-# 磁力 & 网盘 & 字幕组 & 影视导航
+# 磁力 & 网盘资源站 & 字幕组 & 影视导航
+DOMAIN-SUFFIX,0dog.shop
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,bugutv.org
@@ -115,15 +116,44 @@ DOMAIN-SUFFIX,btnull.si
 DOMAIN-SUFFIX,btnull.nu
 DOMAIN-SUFFIX,btnull.fun
 DOMAIN-SUFFIX,btnull.net
+DOMAIN-SUFFIX,chaospace.cc
+DOMAIN-SUFFIX,duanjuku.top
+DOMAIN-SUFFIX,dp88.net
+DOMAIN-SUFFIX,fanxinzhui.com
+DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,kuafuzys.com
+DOMAIN-SUFFIX,mj028.cn
+DOMAIN-SUFFIX,nmme.xyz
+DOMAIN-SUFFIX,nzmz.xyz
+DOMAIN-SUFFIX,pan666.net
 DOMAIN-SUFFIX,pianyuan.org
-DOMAIN-SUFFIX,susuifa.com
+DOMAIN-SUFFIX,pioz.cn
+DOMAIN-SUFFIX,ppxzy.ink
+DOMAIN-SUFFIX,rrdynb.com
 DOMAIN-SUFFIX,srtku.com
+DOMAIN-SUFFIX,star2.cn
+DOMAIN-SUFFIX,susuifa.com
 DOMAIN-SUFFIX,t-rex.tzfile.com
+DOMAIN-SUFFIX,tnhzmz.com
+DOMAIN-SUFFIX,ttysfx.com
+DOMAIN-SUFFIX,tvku.vip
+DOMAIN-SUFFIX,uuoozz.com
+DOMAIN-SUFFIX,wanwansub.com
+DOMAIN-SUFFIX,wogg.link
+DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,wogg.xyz
+DOMAIN-SUFFIX,xiaouj.cn
+DOMAIN-SUFFIX,xinjufang.com
+DOMAIN-SUFFIX,xunso.fun
+DOMAIN-SUFFIX,xzys.fun
+DOMAIN-SUFFIX,xzyshd.com
 DOMAIN-SUFFIX,yinghe.app
 DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
 DOMAIN-SUFFIX,yinfans.me
+DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yyets.click
+DOMAIN-SUFFIX,zimuxia.cn
 
 # 漫画站
 DOMAIN-SUFFIX,baozimh.com

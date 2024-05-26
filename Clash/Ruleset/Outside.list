@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,valoplant.gg
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 
-
 # Notion
 # From https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list
 DOMAIN,http-inputs-notion.splunkcloud.com
@@ -87,7 +86,6 @@ DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,webflow.com
 
-
 # Others
 DOMAIN-SUFFIX,androeed.ru
 DOMAIN-SUFFIX,bfvvs.com
@@ -102,3 +100,77 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,yckceo1.com
+
+
+
+
+# NAME: P0rn
+
+#P0rn
+DOMAIN-SUFFIX,155.fun
+DOMAIN-SUFFIX,166.run
+DOMAIN-SUFFIX,18hlw.com
+DOMAIN-SUFFIX,51cg.fun
+DOMAIN-SUFFIX,84zms.com
+DOMAIN-SUFFIX,91share.net
+DOMAIN-SUFFIX,hlbdy.me
+DOMAIN-SUFFIX,hsex.men
+DOMAIN-SUFFIX,jiuse.icu
+DOMAIN-SUFFIX,lanrenbl.net
+DOMAIN-SUFFIX,lanren.org
+DOMAIN-SUFFIX,lanrenktaa.top
+DOMAIN-SUFFIX,linzijun.app
+DOMAIN-SUFFIX,ltrtzlrfr.com
+DOMAIN-SUFFIX,monsnode.com
+DOMAIN-SUFFIX,nrt2023.com\
+DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,simpcity.su
+DOMAIN-KEYWORD,jstv
+DOMAIN-KEYWORD,jiuse
+
+#P0rnOnline
+DOMAIN-SUFFIX,avbebe.com
+DOMAIN-SUFFIX,erome.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hentaianimezone.com
+DOMAIN-SUFFIX,hentaimama.io
+DOMAIN-SUFFIX,hotfapy.com
+DOMAIN-SUFFIX,rule34video.com
+DOMAIN-SUFFIX,speedporn.net
+DOMAIN-SUFFIX,sxyprn.net
+DOMAIN-SUFFIX,youporn.com
+
+#P0rnCDN
+DOMAIN-SUFFIX,34cdn.com
+DOMAIN-SUFFIX,38cdn.com
+DOMAIN-SUFFIX,66img.cc
+DOMAIN-SUFFIX,adultiptv.net
+DOMAIN-SUFFIX,avstatic.com
+DOMAIN-SUFFIX,bytebwq.com
+DOMAIN-SUFFIX,cdn2020.com
+DOMAIN-SUFFIX,cvhlscdn.com
+DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,maa1808.com
+DOMAIN-SUFFIX,maa1809.com
+DOMAIN-SUFFIX,rhsj520.com
+DOMAIN-SUFFIX,siwazywcdn2.com
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,yongaomy.com
+DOMAIN-SUFFIX,yuemeinv.com
+
+#P0rnT0rr3nt
+DOMAIN-SUFFIX,xxxclub.to
+
+#P0rnNovel
+DOMAIN-SUFFIX,12bz.net
+DOMAIN-SUFFIX,alhs.link
+DOMAIN-SUFFIX,alhs.live
+DOMAIN-SUFFIX,alhs.xyz
+DOMAIN-SUFFIX,bgme.bid
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,esjzone.cc
+DOMAIN-SUFFIX,houhuayuan.vip
+DOMAIN-SUFFIX,innocent.love
+DOMAIN-SUFFIX,mirror.0w0.bid
+DOMAIN-SUFFIX,rbq.desi
+DOMAIN-SUFFIX,tepis.me

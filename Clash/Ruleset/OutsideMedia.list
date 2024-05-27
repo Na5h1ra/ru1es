@@ -303,14 +303,42 @@ DOMAIN,yinghu.netlify.app
 
 
 # 漫画站
+# Some Sources are From https://github.com/keiyoushi/extensions
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,92mh.com
+DOMAIN-SUFFIX,bakamh.com
 DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,baozimh.org
+DOMAIN-SUFFIX,boylove.cc
+DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,cartoonmad.com
 DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,comicabc.com
 DOMAIN-SUFFIX,copymanga.site
 DOMAIN-SUFFIX,copymanga.tv
 DOMAIN-SUFFIX,czmanga.com
+DOMAIN-SUFFIX,darpou.com
+DOMAIN-SUFFIX,didamanhua.com
 DOMAIN-SUFFIX,gufengmh9.com
+DOMAIN-SUFFIX,hanman18.com
+DOMAIN-SUFFIX,hanman.cyou
 DOMAIN-SUFFIX,hitomi.la
+DOMAIN-SUFFIX,hm01.lol
+DOMAIN-SUFFIX,hm02.lol
+DOMAIN-SUFFIX,hm04.lol
+DOMAIN-SUFFIX,hm05.lol
+DOMAIN-SUFFIX,hm06.lol
+DOMAIN-SUFFIX,hm07.lol
+DOMAIN-SUFFIX,hm08.lol
+DOMAIN-SUFFIX,hm09.lol
+DOMAIN-SUFFIX,hm1.lol
+DOMAIN-SUFFIX,hm10.lol
+DOMAIN-SUFFIX,hm17.lol
+DOMAIN-SUFFIX,hm18.lol
+DOMAIN-SUFFIX,hm19.lol
+DOMAIN-SUFFIX,hm2.lol
+DOMAIN-SUFFIX,hm3.lol
+DOMAIN-SUFFIX,liumanhua.com
 DOMAIN-SUFFIX,jmapinode.biz
 DOMAIN-SUFFIX,jmapinode.vip
 DOMAIN-SUFFIX,jmapinode.xyz
@@ -319,15 +347,26 @@ DOMAIN-SUFFIX,ikmmh.com
 DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,manhuadb.com
 DOMAIN-SUFFIX,mhx12.com
+DOMAIN-SUFFIX,miaoshangmanhua.com
 DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,noy.asia
+DOMAIN-SUFFIX,noy1.top
 DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,roum15.xyz
+DOMAIN-SUFFIX,wnacg.date
+DOMAIN-SUFFIX,wnbbs.top
+DOMAIN-SUFFIX,xmanhua.com
+DOMAIN-SUFFIX,yidan.cc
+DOMAIN-SUFFIX,yidan.in
 DOMAIN-SUFFIX,yymanhua.com
+DOMAIN-SUFFIX,zerobyw24.com
 
 # Manga image CDN
-# 禁漫天堂
 DOMAIN-SUFFIX,jmapiproxy1.cc
 DOMAIN-SUFFIX,jmapiproxy1.monster
 DOMAIN-SUFFIX,jmapiproxy2.cc

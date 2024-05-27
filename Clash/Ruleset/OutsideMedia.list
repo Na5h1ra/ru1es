@@ -155,18 +155,6 @@ DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zimuxia.cn
 
-# 漫画站
-DOMAIN-SUFFIX,baozimh.com
-DOMAIN-SUFFIX,cartoonmad.com
-DOMAIN-SUFFIX,colamanga.com
-DOMAIN-SUFFIX,czmanga.com
-DOMAIN-SUFFIX,gufengmh9.com
-DOMAIN-SUFFIX,manben.com
-DOMAIN-SUFFIX,mangacopy.com
-DOMAIN-SUFFIX,mhx12.com
-DOMAIN-SUFFIX,komiic.com
-DOMAIN-SUFFIX,kox.moe
-DOMAIN-SUFFIX,yymanhua.com
 
 # 在线动漫站
 # Age动漫
@@ -226,6 +214,10 @@ DOMAIN-SUFFIX,nyafun.net
 DOMAIN-SUFFIX,qdm18.com
 DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
+
+# Emby
+DOMAIN-SUFFIX,magpie.bond
+DOMAIN-SUFFIX,i109.com
 
 
 # Anime 相关
@@ -310,6 +302,34 @@ DOMAIN-SUFFIX,xiayuge1.top
 DOMAIN,yinghu.netlify.app
 
 
-# Emby
-DOMAIN-SUFFIX,magpie.bond
-DOMAIN-SUFFIX,i109.com
+# 漫画站
+DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,cartoonmad.com
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,copymanga.site
+DOMAIN-SUFFIX,copymanga.tv
+DOMAIN-SUFFIX,czmanga.com
+DOMAIN-SUFFIX,gufengmh9.com
+DOMAIN-SUFFIX,hitomi.la
+DOMAIN-SUFFIX,jmapinode.biz
+DOMAIN-SUFFIX,jmapinode.vip
+DOMAIN-SUFFIX,jmapinode.xyz
+DOMAIN-SUFFIX,jmapinodeudzn.xyz
+DOMAIN-SUFFIX,ikmmh.com
+DOMAIN-SUFFIX,komiic.com
+DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,mhx12.com
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,yymanhua.com
+
+# Manga image CDN
+# 禁漫天堂
+DOMAIN-SUFFIX,jmapiproxy1.cc
+DOMAIN-SUFFIX,jmapiproxy1.monster
+DOMAIN-SUFFIX,jmapiproxy2.cc
+DOMAIN-SUFFIX,jmapiproxy3.cc
+DOMAIN-SUFFIX,jmapiproxy4.cc

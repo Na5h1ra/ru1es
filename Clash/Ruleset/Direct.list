@@ -16,4 +16,10 @@ DOMAIN-SUFFIX,parsecgaming.com
 DOMAIN-SUFFIX,parsecusercontent.com
 PROCESS-NAME,parsecd.exe
 
-# Others
+# Pixman
+# https://hub.docker.com/r/pixman/pixman
+# Source: https://pixman.io/topics/17
+IP-CIDR,183.206.0.0/15,DIRECT
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn

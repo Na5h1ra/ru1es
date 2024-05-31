@@ -1,14 +1,23 @@
 # NAME: OutsideForceJP
 
-# H
-DOMAIN-SUFFIX,faleno.jp
-DOMAIN-SUFFIX,faleno.jp
-DOMAIN-SUFFIX,fuzoku.jp
-DOMAIN-SUFFIX,mgstage.com
-DOMAIN-KEYWORD,faleno
+# Monokakido Dictionary
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,dictionarystore.com
+DOMAIN-SUFFIX,monokakido.jp
 
-# Others
-DOMAIN-SUFFIX,yahoo.co.jp
+# Image & Audio & Video CDN
+
+# Niconico
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Niconico/Niconico.list
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
 
 # Japanese Learning
 DOMAIN-SUFFIX,aichi-u.ac.jp
@@ -68,10 +77,11 @@ DOMAIN-SUFFIX,yomikatawa.com
 DOMAIN-SUFFIX,yojijyukugo.com
 DOMAIN-SUFFIX,zokugo-dict.com
 
-# Image & Audio & Video CDN
+# Others
 
-
-# Monokakido Dictionary
-DOMAIN-SUFFIX,cdn77.org
-DOMAIN-SUFFIX,dictionarystore.com
-DOMAIN-SUFFIX,monokakido.jp
+# H
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,fuzoku.jp
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-KEYWORD,faleno

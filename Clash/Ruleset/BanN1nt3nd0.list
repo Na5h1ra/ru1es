@@ -37,9 +37,9 @@ DOMAIN-SUFFIX,nintendoswitch.com.cn
 DOMAIN-SUFFIX,nintendoswitch.cn
 
 # 0riginal Redirect from 9odns on Gitlab
-#(o is 0)
+# (o is 0)
 # conntest.nintendowifi.net = 95.216.149.205
-#ctest.cdn.nintendo.net = 95.216.149.205
+# ctest.cdn.nintendo.net = 95.216.149.205
 # 9odns.test = 95.216.149.205
 # Wifi Check on N1nt3nd0
 DOMAIN-SUFFIX,conntest.nintendowifi.net

@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,parsecgaming.com
 DOMAIN-SUFFIX,parsecusercontent.com
-PROCESS-NAME,parsecd.exe
+PROCESS-NAME,parsecd
 
 # Pixman
 # https://hub.docker.com/r/pixman/pixman
@@ -23,3 +23,33 @@ IP-CIDR,183.206.0.0/15,DIRECT
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
+
+# 以下规则是对 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 的补充
+PROCESS-NAME,amuled
+PROCESS-NAME,aria2c
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,BaiduNetdisk
+PROCESS-NAME,BitComet
+PROCESS-NAME,DownloadService
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,HMSCoreContainer
+PROCESS-NAME,HUAWEI Cloud
+PROCESS-NAME,Motrix
+PROCESS-NAME,NetTransport
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,tailscaled
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,ToDesk
+PROCESS-NAME,UUBooster
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper

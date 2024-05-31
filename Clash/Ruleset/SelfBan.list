@@ -1,5 +1,5 @@
 # NAME: SelfBan
-#From https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/App-Activation.list
+# Source: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/App-Activation.list
 
 # Adobe online activation domains
 DOMAIN-SUFFIX,3dns-1.adobe.com

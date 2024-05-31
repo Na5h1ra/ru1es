@@ -78,6 +78,9 @@ DOMAIN-SUFFIX,nicohub.net
 DOMAIN-SUFFIX,novipnoad.net
 
 # 其它采集站
+# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
+# 已按字母顺序排序  Sorted in alphabetical order
+# 未包含视频播放CDN服务器  Video CDNs are not included
 DOMAIN-SUFFIX,39kan.com
 DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,apiyhzy.com

@@ -69,13 +69,29 @@ DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.site
 DOMAIN-SUFFIX,boluoxiaozhan.com
+DOMAIN-SUFFIX,cddys.me
 DOMAIN-SUFFIX,cupfox.love
+DOMAIN-SUFFIX,dami5tv.com
+DOMAIN-SUFFIX,damifi.com
+DOMAIN-SUFFIX,damiflix.com
+DOMAIN-SUFFIX,damiq.online
+DOMAIN-SUFFIX,damit.cc
+DOMAIN-SUFFIX,damivid.com
+DOMAIN-SUFFIX,dsxys.pro
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,fuju1.tv
 DOMAIN-SUFFIX,gaze.run
+DOMAIN-SUFFIX,gimy.ai
 DOMAIN-SUFFIX,hanjukankan.com
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX,kekys.com
+DOMAIN-SUFFIX,keke10.app
+DOMAIN-SUFFIX,keke12.com
+DOMAIN-SUFFIX,keke13.com
+DOMAIN-SUFFIX,keke14.com
+DOMAIN-SUFFIX,keke9.app
+DOMAIN-SUFFIX,keke9.com
 DOMAIN-SUFFIX,kmeiju.cc
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
@@ -172,15 +188,22 @@ DOMAIN-SUFFIX,zimuxia.cn
 # 在线动漫站
 # Age动漫
 DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.app
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,agefans.com
 DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,age-api.com
+DOMAIN-SUFFIX,age-spa.com
 
 # 樱花动漫
 DOMAIN-SUFFIX,iyhdmm.com
+DOMAIN-SUFFIX,iyinghua.io
 DOMAIN-SUFFIX,yhdmba.net
 DOMAIN-SUFFIX,yhdmba.org
+DOMAIN-SUFFIX,yhdm.so
+DOMAIN-SUFFIX,yinhuadm.cc
+DOMAIN-SUFFIX,yinhuadm.vip
+
 
 # 哈哩哈哩
 DOMAIN-SUFFIX,halihali7.com
@@ -193,15 +216,27 @@ DOMAIN-SUFFIX,halihali.org
 # 其它在线动漫站
 DOMAIN-SUFFIX,2kdm.com
 DOMAIN-SUFFIX,5dm.link
+DOMAIN-SUFFIX,70kankan.com
+DOMAIN-SUFFIX,9527wu.com
 DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,bimiacg.icu
+DOMAIN-SUFFIX,bimiacg4.net
 DOMAIN-SUFFIX,catw.moe
 DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
+DOMAIN-SUFFIX,cycanime.com
 DOMAIN-SUFFIX,cycdm01.top
+DOMAIN-SUFFIX,dm.92cj.com
+DOMAIN-SUFFIX,dm.g916.com
+DOMAIN-SUFFIX,dm84.me
+DOMAIN-SUFFIX,dm84.site
 DOMAIN-SUFFIX,dogsfun.fun
+DOMAIN-SUFFIX,dqsj.top
+DOMAIN-SUFFIX,eacg.net
+DOMAIN-SUFFIX,eacg1.com
 DOMAIN-SUFFIX,fanshudm.com
 DOMAIN-SUFFIX,girigirilove.com
 DOMAIN-SUFFIX,gxdm01.org
@@ -211,9 +246,18 @@ DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,hmacg.cn
 DOMAIN-SUFFIX,huazidm.com
 DOMAIN-SUFFIX,invbo.top
+DOMAIN-SUFFIX,k6dm.com
+DOMAIN-SUFFIX,k9dm.com
+DOMAIN-SUFFIX,kt30.com
+DOMAIN-SUFFIX,kudm.net
+DOMAIN-SUFFIX,kudm.vip
+DOMAIN-SUFFIX,kudm8.com
 DOMAIN-SUFFIX,lffun.com
 DOMAIN-SUFFIX,lldm.net
+DOMAIN-SUFFIX,lmm52.com
 DOMAIN-SUFFIX,lzacg.org
+DOMAIN-SUFFIX,mandaom.com
+DOMAIN-SUFFIX,mandaow.com
 DOMAIN-SUFFIX,mgnacg.com
 DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,moefun.net
@@ -222,9 +266,15 @@ DOMAIN-SUFFIX,mutedm.com
 DOMAIN-SUFFIX,mutefun.tv
 DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,mikudm.com
+DOMAIN-SUFFIX,mxdm.tv
+DOMAIN-SUFFIX,mxdm4.com
 DOMAIN-SUFFIX,nicohub.cc
+DOMAIN-SUFFIX,nicotv.bet
 DOMAIN-SUFFIX,nyafun.net
+DOMAIN-SUFFIX,psdcat.com
 DOMAIN-SUFFIX,qdm18.com
+DOMAIN-SUFFIX,qkan9.com
+DOMAIN-SUFFIX,senfun.in
 DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
 
@@ -314,7 +364,7 @@ DOMAIN-SUFFIX,wafuwafu.com
 DOMAIN-SUFFIX,xxacg.net
 DOMAIN-SUFFIX,xiayuge.top
 DOMAIN-SUFFIX,xiayuge1.top
-DOMAIN,yinghu.netlify.app
+DOMAIN-SUFFIX,yinghu.netlify.app
 
 
 # 漫画站
@@ -323,18 +373,27 @@ DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,92mh.com
 DOMAIN-SUFFIX,bakamh.com
 DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,baozimh.one
 DOMAIN-SUFFIX,baozimh.org
 DOMAIN-SUFFIX,boylove.cc
+DOMAIN-SUFFIXbq8.org
 DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,cartoonmad.com
 DOMAIN-SUFFIX,colamanga.com
 DOMAIN-SUFFIX,comicabc.com
+DOMAIN-SUFFIX,cocomanga.org
 DOMAIN-SUFFIX,copymanga.site
 DOMAIN-SUFFIX,copymanga.tv
 DOMAIN-SUFFIX,czmanga.com
 DOMAIN-SUFFIX,darpou.com
 DOMAIN-SUFFIX,didamanhua.com
+DOMAIN-SUFFIX,dingmanhua.com
+DOMAIN-SUFFIXdongman.la
 DOMAIN-SUFFIX,gufengmh9.com
+DOMAIN-SUFFIX,godamh.com
+DOMAIN-SUFFIX,godamanga.art
+DOMAIN-SUFFIX,godamanga.com
+DOMAIN-SUFFIX,godamanga.site
 DOMAIN-SUFFIX,hanman18.com
 DOMAIN-SUFFIX,hanman.cyou
 DOMAIN-SUFFIX,hitomi.la
@@ -362,6 +421,7 @@ DOMAIN-SUFFIX,ikmmh.com
 DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIXmanhw.com
 DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,manhuabika.com

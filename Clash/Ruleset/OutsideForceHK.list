@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,hsbc.com.hk
 # Streaming media
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,hkanime.com
+DOMAIN-SUFFIX,hkanime.com.hk
+DOMAIN-KEYWORD,hkanime
+
+# Media & Image CDN
+DOMAIN-SUFFIX,hk.swarmcloud.net

@@ -68,14 +68,22 @@ DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.site
+DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,cupfox.love
+DOMAIN-SUFFIX,duboku.tv
+DOMAIN-SUFFIX,fuju1.tv
 DOMAIN-SUFFIX,gaze.run
+DOMAIN-SUFFIX,hanjukankan.com
+DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX,kmeiju.cc
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
 DOMAIN-SUFFIX,nicohub.cc
 DOMAIN-SUFFIX,nicohub.net
 DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,zhaifufabu.com
+DOMAIN-SUFFIX,zhaifujidi.com
 
 # 其它采集站
 # Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
@@ -124,8 +132,10 @@ DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,dp88.net
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,hdmoli.pro
 DOMAIN-SUFFIX,kuafuzys.com
 DOMAIN-SUFFIX,mj028.cn
+DOMAIN-SUFFIX,molicp.com
 DOMAIN-SUFFIX,nmme.xyz
 DOMAIN-SUFFIX,nzmz.xyz
 DOMAIN-SUFFIX,pan666.net
@@ -245,10 +255,12 @@ DOMAIN-SUFFIX,bgmlist.com
 DOMAIN-SUFFIX,dmguo.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fitacg.com
+DOMAIN-SUFFIX,hmacg.cn
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
 DOMAIN-SUFFIX,kisssub.org
 DOMAIN-SUFFIX,lilithraws.org
+DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN,867258173.ysepan.com

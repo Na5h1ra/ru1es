@@ -26,16 +26,21 @@ DOMAIN-SUFFIX,yangshipin.cn
 
 # 以下规则是对 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 的补充
 PROCESS-NAME,amuled
+PROCESS-NAME,amuled.exe
 PROCESS-NAME,aria2c
 PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BaiduNetdisk
 PROCESS-NAME,BitComet
+PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DownloadService
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,HMSCoreContainer
+PROCESS-NAME,HMSCoreContainer.exe
 PROCESS-NAME,HUAWEI Cloud
+PROCESS-NAME,HUAWEI Cloud.exe
 PROCESS-NAME,Motrix
+PROCESS-NAME,Motrix.exe
 PROCESS-NAME,NetTransport
 PROCESS-NAME,qbittorrent*
 PROCESS-NAME,qBittorrent
@@ -44,11 +49,12 @@ PROCESS-NAME,SunloginClient_Desktop
 PROCESS-NAME,SunloginClient_Helper
 PROCESS-NAME,tailscaled
 PROCESS-NAME,Thunder
-PROCESS-NAME,ThunderVIP
+PROCESS-NAME,ThunderVIP.exe
 PROCESS-NAME,Transmission
 PROCESS-NAME,transmission-daemon
 PROCESS-NAME,transmission-qt
 PROCESS-NAME,ToDesk
+PROCESS-NAME,ToDesk.exe
 PROCESS-NAME,UUBooster
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent

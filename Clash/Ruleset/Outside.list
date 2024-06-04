@@ -1,32 +1,24 @@
 # NAME: Outside
 
-# Game
-DOMAIN-SUFFIX,acgrip.com
-DOMAIN-SUFFIX,alphacoders.com
-DOMAIN-SUFFIX,blitz.gg
-DOMAIN-SUFFIX,dak.gg
-DOMAIN-SUFFIX,fandom.com
-DOMAIN-SUFFIX,gamer520.blog
-DOMAIN-SUFFIX,gamer520.com
-DOMAIN-SUFFIX,kingdomarchives.com
-DOMAIN-SUFFIX,lineupsvalorant.com
-DOMAIN-SUFFIX,mobalytics.gg
-DOMAIN-SUFFIX,prosettings.net
-DOMAIN-SUFFIX,pubglookup.com
-DOMAIN-SUFFIX,switch618.com
-DOMAIN-SUFFIX,tracker.gg
-DOMAIN-SUFFIX,xxxxx525.com
-DOMAIN-SUFFIX,xxxxx528.com
-DOMAIN-SUFFIX,xxxxx520.cam
-DOMAIN-SUFFIX,xxxxx520.com
-DOMAIN-SUFFIX,yyrtt.com
-DOMAIN-SUFFIX,vlr.gg
-DOMAIN-SUFFIX,valking.gg
-DOMAIN-SUFFIX,valorantfiles.com
-DOMAIN-SUFFIX,valorant-api.com
-DOMAIN-SUFFIX,valoplant.gg
-DOMAIN-KEYWORD,hltv
-DOMAIN-KEYWORD,liquipedia
+# Dropbox
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Dropbox/Dropbox.list
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropbox.zendesk.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 
 # Notion
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list
@@ -46,6 +38,54 @@ DOMAIN-SUFFIX,hub5pnc.sandai.net
 DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
+
+# Docker
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+
+# Wikimedia
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikimedia/Wikimedia.list
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,toolforge.org
+DOMAIN-SUFFIX,w.wiki
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediacloud.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,wmcloud.org
+DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,wmfusercontent.org
+
+# Wikipedia
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikipedia/Wikipedia.list
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 
 # Nanplus
 DOMAIN-KEYWORD,blue-plus
@@ -95,7 +135,6 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
 
 # Others
-DOMAIN-SUFFIX,androeed.ru
 DOMAIN-SUFFIX,bfvvs.com
 DOMAIN-SUFFIX,e6ex.com
 DOMAIN-SUFFIX,e-yck.top

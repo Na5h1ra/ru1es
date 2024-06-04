@@ -641,13 +641,6 @@ rule-providers:
     url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.list/_end_/OutsideMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
-  ProxyGFWlist:
-    type: http
-    behavior: classical
-    path: ./Ruleset/ProxyGFWlist.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list/_end_/ProxyGFWlist.list?type=rule-set&target=stash-rule-set
-    interval: 86400
-
   ChinaDomain:
     type: http
     behavior: classical
@@ -715,7 +708,6 @@ rules:
  - RULE-SET,GlobalMedia,国外媒体
  - RULE-SET,Emby,国外媒体
  - RULE-SET,OutsideMedia,国外媒体
- - RULE-SET,ProxyGFWlist,地区选择
  - RULE-SET,ChinaDomain,全球直连
  - RULE-SET,ChinaCompanyIp,全球直连
  - RULE-SET,Download,全球直连

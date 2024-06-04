@@ -29,12 +29,19 @@ DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzy88.com
 
 # 在线之家
+DOMAIN-SUFFIX,1993s.top
 DOMAIN-SUFFIX,zxzjhd.com
 DOMAIN-SUFFIX,zxzja.com
 DOMAIN-SUFFIX,zxzj.site
+DOMAIN-SUFFIX,zxzj.org
+DOMAIN-SUFFIX,zxzj.pro
+DOMAIN-SUFFIX,zxzj.vip
 
 # 欧乐影院
-
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olehdtv.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,iole.tv
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevod.tv
 
@@ -46,6 +53,7 @@ DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
 DOMAIN-SUFFIX,yjys.me
+DOMAIN-SUFFIX,yjys.top
 
 # Libvio
 DOMAIN-SUFFIX,libvio.app
@@ -67,9 +75,11 @@ DOMAIN-SUFFIX,haiwaikan.com
 # 其它在线站
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,4kvm.pro
 DOMAIN-SUFFIX,4kvm.site
 DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,cddys.me
+DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,cupfox.love
 DOMAIN-SUFFIX,dami5tv.com
 DOMAIN-SUFFIX,damifi.com

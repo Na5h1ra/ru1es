@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,porcore.com
 DOMAIN-SUFFIX,rule34video.com
 
 # P0rn Online
+DOMAIN,18av.mm-cg.com
 DOMAIN-SUFFIX,18sex.org
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,920share.com
@@ -44,8 +45,8 @@ DOMAIN-SUFFIX,hplives.com
 DOMAIN-SUFFIX,iijav.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,japteenx.com
 DOMAIN-SUFFIX,jav.guru
-DOMAIN-SUFFIX,jav-for.me
 DOMAIN-SUFFIX,jav01.cc
 DOMAIN-SUFFIX,jav777.xyz
 DOMAIN-SUFFIX,javbangers.com
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,javdove.com
 DOMAIN-SUFFIX,javdragon.org
 DOMAIN-SUFFIX,javfc2.net
 DOMAIN-SUFFIX,javfinder.ai
+DOMAIN-SUFFIX,jav-for.me
 DOMAIN-SUFFIX,javfree.sh
 DOMAIN-SUFFIX,javfull.net
 DOMAIN-SUFFIX,javfun.me
@@ -72,7 +74,6 @@ DOMAIN-SUFFIX,javopen.co
 DOMAIN-SUFFIX,javseen.tv
 DOMAIN-SUFFIX,javsky.tv
 DOMAIN-SUFFIX,javsup.com
-DOMAIN-SUFFIX,japteenx.com
 DOMAIN-SUFFIX,kink.com
 DOMAIN-SUFFIX,kissjav.li
 DOMAIN-SUFFIX,macjav.com
@@ -94,24 +95,24 @@ DOMAIN-SUFFIX,speedporn.net
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,sxyprn.net
 DOMAIN-SUFFIX,taiav.com
-DOMAIN-SUFFIX,thtmod7.com
 DOMAIN-SUFFIX,theav.xyz
 DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,thtmod7.com
 DOMAIN-SUFFIX,tktube.com
 DOMAIN-SUFFIX,upjav.cc
-DOMAIN-SUFFIX,watchjavonline.com
 DOMAIN-SUFFIX,vjav.com
+DOMAIN-SUFFIX,watchjavonline.com
 DOMAIN-SUFFIX,youav.com
 DOMAIN-SUFFIX,youavhub.com
 DOMAIN-SUFFIX,youjav.net
 DOMAIN-SUFFIX,youporn.com
 
-DOMAIN,18av.mm-cg.com
 
 # P0rn Database  Thumbnail & Trailer & Wiki
+DOMAIN,etigoya955.blog.fc2.com
 DOMAIN-SUFFIX,3xplanet.com
-DOMAIN-SUFFIX,avsox.click
 DOMAIN-SUFFIX,airav.wiki
+DOMAIN-SUFFIX,avsox.click
 DOMAIN-SUFFIX,blogjav.net
 DOMAIN-SUFFIX,buscdn.shop
 DOMAIN-SUFFIX,busdmm.art
@@ -138,10 +139,8 @@ DOMAIN-SUFFIX,seejav.shop
 DOMAIN-SUFFIX,sougouwiki.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,xcity.jp
-DOMAIN-SUFFIX,xxxclub.to
 DOMAIN-SUFFIX,xslist.org
-DOMAIN,etigoya955.blog.fc2.com
-
+DOMAIN-SUFFIX,xxxclub.to
 
 # P0rn CDN
 DOMAIN-SUFFIX,34cdn.com
@@ -163,14 +162,15 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,yongaomy.com
 DOMAIN-SUFFIX,yuemeinv.com
 
+
 # P0rn Novel
 DOMAIN-SUFFIX,12bz.net
 DOMAIN-SUFFIX,alhs.link
 DOMAIN-SUFFIX,alhs.live
 DOMAIN-SUFFIX,alhs.xyz
-DOMAIN-SUFFIX,biqulou.info
 DOMAIN-SUFFIX,bgme.bid
 DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,biqulou.info
 DOMAIN-SUFFIX,esjzone.cc
 DOMAIN-SUFFIX,halfts.com
 DOMAIN-SUFFIX,houhuayuan.vip
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,tepis.me
 
 
 # Hardc0re & Trans
+DOMAIN,sql.jinjier.art
 DOMAIN-SUFFIX,analvids.com
 DOMAIN-SUFFIX,bdsmlr.com
 DOMAIN-SUFFIX,bdsmtest.org
@@ -195,7 +196,6 @@ DOMAIN-SUFFIX,sissy.game
 DOMAIN-SUFFIX,tgirls.xxx
 DOMAIN-SUFFIX,trannyvideosx.com
 DOMAIN-SUFFIX,transfixed.com
-DOMAIN,sql.jinjier.art
 
 # 0nlyfans & Tw1tter Leaks
 # Source: thep0rndude.com
@@ -205,11 +205,11 @@ DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,dirtyship.com
 DOMAIN-SUFFIX,erothots.co
 DOMAIN-SUFFIX,fans-here.com
+DOMAIN-SUFFIX,fansteek.com
 DOMAIN-SUFFIX,fapeza.com
 DOMAIN-SUFFIX,fapfappy.com
 DOMAIN-SUFFIX,fapfolder.club
 DOMAIN-SUFFIX,fapopedia.net
-DOMAIN-SUFFIX,fansteek.com
 DOMAIN-SUFFIX,findhername.net
 DOMAIN-SUFFIX,gotanynudes.com
 DOMAIN-SUFFIX,hornysimp.com
@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,thothub.to
 DOMAIN-SUFFIX,thothub.vip
 DOMAIN-SUFFIX,thotslife.com
 
+
 # CGHLW
 DOMAIN-SUFFIX,155.fun
 DOMAIN-SUFFIX,166.run
@@ -240,6 +241,8 @@ DOMAIN-SUFFIX,hlbdy.me
 DOMAIN-SUFFIX,nrt2023.com
 
 # 91GC
+DOMAIN,dizhi66.github.io
+DOMAIN,dizhi88.gitbook.io
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,hsex.icu
@@ -247,8 +250,6 @@ DOMAIN-SUFFIX,hsex.men
 DOMAIN-SUFFIX,jiuse.icu
 DOMAIN-SUFFIX,jsav2.com
 DOMAIN-SUFFIX,jsav3.com
-DOMAIN,dizhi66.github.io
-DOMAIN,dizhi88.gitbook.io
 
 # FULI
 DOMAIN-SUFFIX,84zms.com
@@ -257,18 +258,19 @@ DOMAIN-SUFFIX,lanrenbl.net
 DOMAIN-SUFFIX,lanrenktaa.top
 
 # Magzines & Coser & Photosets
-DOMAIN-SUFFIX,showgirlx.net
-DOMAIN-SUFFIX,xiuren.org
+DOMAIN,censored.booru.org
 DOMAIN-SUFFIX,everia.club
 DOMAIN-SUFFIX,micmicidol.club
-DOMAIN,censored.booru.org
+DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,xiuren.org
+
 
 # Others (Inside)
 DOMAIN-SUFFIX,cosersets.com
 DOMAIN-SUFFIX,nanrenvip.cc
-DOMAIN-SUFFIX,vipfanhao.com
 DOMAIN-SUFFIX,uuribao.net
 DOMAIN-SUFFIX,uuribao.org
+DOMAIN-SUFFIX,vipfanhao.com
 
 # Others (Outside)
 DOMAIN-SUFFIX,avsubtitles.com

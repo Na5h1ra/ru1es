@@ -334,6 +334,7 @@ DOMAIN-SUFFIX,amemei-lists.top
 DOMAIN-SUFFIX,cngal.org
 DOMAIN-SUFFIX,ddfan.org
 DOMAIN-SUFFIX,ddfan.top
+DOMAIN-SUFFIX,erogame.space
 DOMAIN-SUFFIX,fan2d.lol
 DOMAIN-SUFFIX,fapforfun.net
 DOMAIN-SUFFIX,fufugal.com
@@ -374,13 +375,29 @@ DOMAIN-SUFFIX,wafuwafu.com
 DOMAIN-SUFFIX,xxacg.net
 DOMAIN-SUFFIX,xiayuge.top
 DOMAIN-SUFFIX,xiayuge1.top
-DOMAIN-SUFFIX,yinghu.netlify.app
+DOMAIN-SUFFIX,yngal.com
+DOMAIN,yinghu.netlify.app
 
+# Alist ACG 网盘
+DOMAIN,05fx.022016.xyz
+DOMAIN,1ov3.top
+DOMAIN,acgdb.de
+DOMAIN,al.chirmyram.com
+DOMAIN,alist.amemoes.com.cn
+DOMAIN,bangumi.sakiko.top
+DOMAIN,sakakirio.com
+DOMAIN,sunshineboy.link
+DOMAIN,pan.cycg.xyz
+DOMAIN,pan.jlbx.xyz
+DOMAIN,pan.roxylib.com
+DOMAIN,www.galzy.eu.org
+DOMAIN,zi0.cc
 
 # 漫画站
 # Some Sources are From https://github.com/keiyoushi/extensions
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,92mh.com
+DOMAIN-SUFFIX,ahri8.top
 DOMAIN-SUFFIX,bakamh.com
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,baozimh.one
@@ -422,6 +439,7 @@ DOMAIN-SUFFIX,hm18.lol
 DOMAIN-SUFFIX,hm19.lol
 DOMAIN-SUFFIX,hm2.lol
 DOMAIN-SUFFIX,hm3.lol
+DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,liumanhua.com
 DOMAIN-SUFFIX,jmapinode.biz
 DOMAIN-SUFFIX,jmapinode.vip
@@ -442,7 +460,10 @@ DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,noy.asia
 DOMAIN-SUFFIX,noy1.top
 DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,readcomiconline.li
+DOMAIN-SUFFIX,readcomicsonline.ru
 DOMAIN-SUFFIX,roum15.xyz
+DOMAIN-SUFFIX,vol.moe
 DOMAIN-SUFFIX,wnacg.date
 DOMAIN-SUFFIX,wnbbs.top
 DOMAIN-SUFFIX,xmanhua.com
@@ -461,7 +482,9 @@ DOMAIN-SUFFIX,mangafuna.xyz
 DOMAIN-SUFFIX,qy0.ru
 DOMAIN-SUFFIX,tmsmh.com
 
-
+# ASMR
+DOMAIN-SUFFIX,asmr-300.com
+DOMAIN-SUFFIX,asmrgay.com
 
 # 直播平台
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitch/Twitch.list

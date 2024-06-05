@@ -9,9 +9,11 @@ DOMAIN-SUFFIX,ungrounded.net
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 
 # Game Websites
+DOMAIN-KEYWORD,hltv
+DOMAIN-KEYWORD,liquipedia
 DOMAIN-SUFFIX,acgrip.com
-DOMAIN-SUFFIX,androeed.ru
 DOMAIN-SUFFIX,alphacoders.com
+DOMAIN-SUFFIX,androeed.ru
 DOMAIN-SUFFIX,blitz.gg
 DOMAIN-SUFFIX,dak.gg
 DOMAIN-SUFFIX,fandom.com
@@ -24,15 +26,13 @@ DOMAIN-SUFFIX,prosettings.net
 DOMAIN-SUFFIX,pubglookup.com
 DOMAIN-SUFFIX,switch618.com
 DOMAIN-SUFFIX,tracker.gg
-DOMAIN-SUFFIX,xxxxx525.com
-DOMAIN-SUFFIX,xxxxx528.com
+DOMAIN-SUFFIX,valking.gg
+DOMAIN-SUFFIX,valoplant.gg
+DOMAIN-SUFFIX,valorant-api.com
+DOMAIN-SUFFIX,valorantfiles.com
+DOMAIN-SUFFIX,vlr.gg
 DOMAIN-SUFFIX,xxxxx520.cam
 DOMAIN-SUFFIX,xxxxx520.com
+DOMAIN-SUFFIX,xxxxx525.com
+DOMAIN-SUFFIX,xxxxx528.com
 DOMAIN-SUFFIX,yyrtt.com
-DOMAIN-SUFFIX,vlr.gg
-DOMAIN-SUFFIX,valking.gg
-DOMAIN-SUFFIX,valorantfiles.com
-DOMAIN-SUFFIX,valorant-api.com
-DOMAIN-SUFFIX,valoplant.gg
-DOMAIN-KEYWORD,hltv
-DOMAIN-KEYWORD,liquipedia

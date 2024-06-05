@@ -5,6 +5,15 @@ DOMAIN-SUFFIX,4khdr.cn
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,sp-flv.com
 
+# Podcast
+DOMAIN-SUFFIX,fyfy.fm
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xyzfm.space
+DOMAIN,fyfy.herecdn.com
+
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
 DOMAIN-SUFFIX,speedtest.cn

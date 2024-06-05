@@ -3,14 +3,14 @@
 # TVSeries & Movies & Anime & Media Servers
 
 # 低端影视
-DOMAIN-SUFFIX,ddys.tv
-DOMAIN-SUFFIX,ddys.me
-DOMAIN-SUFFIX,ddys2.me
 DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,ddys.mov
-DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.love
+DOMAIN-SUFFIX,ddys.me
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.tv
+DOMAIN-SUFFIX,ddys2.me
 
 # 厂长资源
 DOMAIN-SUFFIX,cz01.tv
@@ -30,25 +30,25 @@ DOMAIN-SUFFIX,czzy88.com
 
 # 在线之家
 DOMAIN-SUFFIX,1993s.top
-DOMAIN-SUFFIX,zxzjhd.com
-DOMAIN-SUFFIX,zxzja.com
-DOMAIN-SUFFIX,zxzj.site
 DOMAIN-SUFFIX,zxzj.org
 DOMAIN-SUFFIX,zxzj.pro
+DOMAIN-SUFFIX,zxzj.site
 DOMAIN-SUFFIX,zxzj.vip
+DOMAIN-SUFFIX,zxzja.com
+DOMAIN-SUFFIX,zxzjhd.com
 
 # 欧乐影院
+DOMAIN-SUFFIX,iole.tv
 DOMAIN-SUFFIX,olehd.com
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
-DOMAIN-SUFFIX,iole.tv
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevod.tv
 
 # 哔嘀影视
 DOMAIN-SUFFIX,52bdys.com
-DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bde4.icu
+DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,yjys.me
 DOMAIN-SUFFIX,yjys.top
 
 # Libvio
+DOMAIN-SUFFIX,ifabu.vip
+DOMAIN-SUFFIX,libfabu.com
 DOMAIN-SUFFIX,libvio.app
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,libvio.com
@@ -66,8 +68,6 @@ DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,libvio.pw
 DOMAIN-SUFFIX,libvio.vip
 DOMAIN-SUFFIX,libviohd.com
-DOMAIN-SUFFIX,libfabu.com
-DOMAIN-SUFFIX,ifabu.vip
 
 # 海外看
 DOMAIN-SUFFIX,haiwaikan.com
@@ -95,13 +95,13 @@ DOMAIN-SUFFIX,gimy.ai
 DOMAIN-SUFFIX,hanjukankan.com
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jiohub.top
-DOMAIN-SUFFIX,kekys.com
 DOMAIN-SUFFIX,keke10.app
 DOMAIN-SUFFIX,keke12.com
 DOMAIN-SUFFIX,keke13.com
 DOMAIN-SUFFIX,keke14.com
 DOMAIN-SUFFIX,keke9.app
 DOMAIN-SUFFIX,keke9.com
+DOMAIN-SUFFIX,kekys.com
 DOMAIN-SUFFIX,kmeiju.cc
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
@@ -117,9 +117,9 @@ DOMAIN-SUFFIX,zhaifujidi.com
 # 未包含视频播放CDN服务器  Video CDNs are not included
 DOMAIN-SUFFIX,39kan.com
 DOMAIN-SUFFIX,911ysw.top
-DOMAIN-SUFFIX,apiyhzy.com
-DOMAIN-SUFFIX,apibdzy.com
 DOMAIN-SUFFIX,ahjiuman.com
+DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,apiyhzy.com
 DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,hhzyapi.com
@@ -135,27 +135,27 @@ DOMAIN-SUFFIX,moduapi.cc
 DOMAIN-SUFFIX,p2100.net
 DOMAIN-SUFFIX,qhzyapi.com
 DOMAIN-SUFFIX,sdzyapi.com
-DOMAIN-SUFFIX,suoniapi.com
 DOMAIN-SUFFIX,subocaiji.com
+DOMAIN-SUFFIX,suoniapi.com
 DOMAIN-SUFFIX,wolongzyw.com
 DOMAIN-SUFFIX,wujinapi.com
-DOMAIN-SUFFIX,xkanzy10.com
 DOMAIN-SUFFIX,xinlangapi.com
+DOMAIN-SUFFIX,xkanzy10.com
 DOMAIN-SUFFIX,zuidazy.me
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
-DOMAIN-SUFFIX,bugutv.org
-DOMAIN-SUFFIX,btnull.org
-DOMAIN-SUFFIX,btnull.si
-DOMAIN-SUFFIX,btnull.nu
 DOMAIN-SUFFIX,btnull.fun
 DOMAIN-SUFFIX,btnull.net
+DOMAIN-SUFFIX,btnull.nu
+DOMAIN-SUFFIX,btnull.org
+DOMAIN-SUFFIX,btnull.si
+DOMAIN-SUFFIX,bugutv.org
 DOMAIN-SUFFIX,chaospace.cc
-DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,dp88.net
+DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,hdmoli.pro
@@ -172,8 +172,8 @@ DOMAIN-SUFFIX,rrdynb.com
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,star2.cn
 DOMAIN-SUFFIX,susuifa.com
-DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,tnhzmz.com
+DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,ttysfx.com
 DOMAIN-SUFFIX,tvku.vip
 DOMAIN-SUFFIX,uuoozz.com
@@ -186,10 +186,10 @@ DOMAIN-SUFFIX,xinjufang.com
 DOMAIN-SUFFIX,xunso.fun
 DOMAIN-SUFFIX,xzys.fun
 DOMAIN-SUFFIX,xzyshd.com
+DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,yinghe.app
 DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
-DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zimuxia.cn
@@ -198,40 +198,39 @@ DOMAIN-SUFFIX,zimuxia.cn
 # 在线动漫站
 # Age动漫
 DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,age-api.com
+DOMAIN-SUFFIX,age-spa.com
 DOMAIN-SUFFIX,agedm.app
 DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,agefans.com
 DOMAIN-SUFFIX,agemys.org
-DOMAIN-SUFFIX,age-api.com
-DOMAIN-SUFFIX,age-spa.com
 
 # 樱花动漫
 DOMAIN-SUFFIX,iyhdmm.com
 DOMAIN-SUFFIX,iyinghua.io
+DOMAIN-SUFFIX,yhdm.so
 DOMAIN-SUFFIX,yhdmba.net
 DOMAIN-SUFFIX,yhdmba.org
-DOMAIN-SUFFIX,yhdm.so
 DOMAIN-SUFFIX,yinhuadm.cc
 DOMAIN-SUFFIX,yinhuadm.vip
 
-
 # 哈哩哈哩
-DOMAIN-SUFFIX,halihali7.com
+DOMAIN-SUFFIX,halihali.org
 DOMAIN-SUFFIX,halihali18.com
+DOMAIN-SUFFIX,halihali21.com
 DOMAIN-SUFFIX,halihali28.com
 DOMAIN-SUFFIX,halihali29.com
-DOMAIN-SUFFIX,halihali21.com
-DOMAIN-SUFFIX,halihali.org
+DOMAIN-SUFFIX,halihali7.com
 
 # 其它在线动漫站
 DOMAIN-SUFFIX,2kdm.com
 DOMAIN-SUFFIX,5dm.link
 DOMAIN-SUFFIX,70kankan.com
 DOMAIN-SUFFIX,9527wu.com
-DOMAIN-SUFFIX,aowu.tv
+DOMAIN-SUFFIX,anfuns.cc
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
-DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,bimiacg.icu
 DOMAIN-SUFFIX,bimiacg4.net
 DOMAIN-SUFFIX,catw.moe
@@ -249,9 +248,9 @@ DOMAIN-SUFFIX,eacg.net
 DOMAIN-SUFFIX,eacg1.com
 DOMAIN-SUFFIX,fanshudm.com
 DOMAIN-SUFFIX,girigirilove.com
-DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,gugufan.com
 DOMAIN-SUFFIX,gxdm.me
+DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,hmacg.cn
 DOMAIN-SUFFIX,huazidm.com
@@ -269,13 +268,13 @@ DOMAIN-SUFFIX,lzacg.org
 DOMAIN-SUFFIX,mandaom.com
 DOMAIN-SUFFIX,mandaow.com
 DOMAIN-SUFFIX,mgnacg.com
+DOMAIN-SUFFIX,mikudm.com
+DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,moefun.net
-DOMAIN-SUFFIX,mutefun.cn
 DOMAIN-SUFFIX,mutedm.com
+DOMAIN-SUFFIX,mutefun.cn
 DOMAIN-SUFFIX,mutefun.tv
-DOMAIN-SUFFIX,mitang.tv
-DOMAIN-SUFFIX,mikudm.com
 DOMAIN-SUFFIX,mxdm.tv
 DOMAIN-SUFFIX,mxdm4.com
 DOMAIN-SUFFIX,nicohub.cc
@@ -289,8 +288,8 @@ DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
 
 # Emby
-DOMAIN-SUFFIX,magpie.bond
 DOMAIN-SUFFIX,i109.com
+DOMAIN-SUFFIX,magpie.bond
 
 
 # Anime 相关
@@ -303,6 +302,7 @@ DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,mikanime.tv
 
 # Anime 论坛 & 导航 & 字幕组 & 磁力站 & 其它
+DOMAIN,867258173.ysepan.com
 DOMAIN-SUFFIX,404.website
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acgbox.link
@@ -323,9 +323,9 @@ DOMAIN-SUFFIX,lilithraws.org
 DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,vcb-s.com
-DOMAIN,867258173.ysepan.com
 
 # GalGame
+DOMAIN,yinghu.netlify.app
 DOMAIN-SUFFIX,2dfan.com
 DOMAIN-SUFFIX,2djgame.net
 DOMAIN-SUFFIX,acggw.club
@@ -340,16 +340,16 @@ DOMAIN-SUFFIX,fapforfun.net
 DOMAIN-SUFFIX,fufugal.com
 DOMAIN-SUFFIX,galccg.com
 DOMAIN-SUFFIX,galcg.org
-DOMAIN-SUFFIX,gallibrary.pw
 DOMAIN-SUFFIX,galgamer.moe
 DOMAIN-SUFFIX,galge.top
+DOMAIN-SUFFIX,gallibrary.pw
 DOMAIN-SUFFIX,galxp.com
 DOMAIN-SUFFIX,galzy.eu.org
 DOMAIN-SUFFIX,ggbases.com
 DOMAIN-SUFFIX,gogalgame.com
 DOMAIN-SUFFIX,kdays.net
-DOMAIN-SUFFIX,kfpromax.com
 DOMAIN-SUFFIX,kfmax.com
+DOMAIN-SUFFIX,kfpromax.com
 DOMAIN-SUFFIX,kungal.com
 DOMAIN-SUFFIX,llgal.xyz
 DOMAIN-SUFFIX,pcmoe.net
@@ -369,14 +369,13 @@ DOMAIN-SUFFIX,touchgal.moe
 DOMAIN-SUFFIX,touchgal.net
 DOMAIN-SUFFIX,touchgal.one
 DOMAIN-SUFFIX,touchgal.org
-DOMAIN-SUFFIX,ttloli.com
 DOMAIN-SUFFIX,t-satoru.top
+DOMAIN-SUFFIX,ttloli.com
 DOMAIN-SUFFIX,wafuwafu.com
-DOMAIN-SUFFIX,xxacg.net
 DOMAIN-SUFFIX,xiayuge.top
 DOMAIN-SUFFIX,xiayuge1.top
+DOMAIN-SUFFIX,xxacg.net
 DOMAIN-SUFFIX,yngal.com
-DOMAIN,yinghu.netlify.app
 
 # Alist ACG 网盘
 DOMAIN,05fx.022016.xyz
@@ -385,11 +384,11 @@ DOMAIN,acgdb.de
 DOMAIN,al.chirmyram.com
 DOMAIN,alist.amemoes.com.cn
 DOMAIN,bangumi.sakiko.top
-DOMAIN,sakakirio.com
-DOMAIN,sunshineboy.link
 DOMAIN,pan.cycg.xyz
 DOMAIN,pan.jlbx.xyz
 DOMAIN,pan.roxylib.com
+DOMAIN,sakakirio.com
+DOMAIN,sunshineboy.link
 DOMAIN,www.galzy.eu.org
 DOMAIN,zi0.cc
 
@@ -406,9 +405,9 @@ DOMAIN-SUFFIX,boylove.cc
 DOMAIN-SUFFIX,bq8.org
 DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,cartoonmad.com
+DOMAIN-SUFFIX,cocomanga.org
 DOMAIN-SUFFIX,colamanga.com
 DOMAIN-SUFFIX,comicabc.com
-DOMAIN-SUFFIX,cocomanga.org
 DOMAIN-SUFFIX,copymanga.site
 DOMAIN-SUFFIX,copymanga.tv
 DOMAIN-SUFFIX,czmanga.com
@@ -416,13 +415,13 @@ DOMAIN-SUFFIX,darpou.com
 DOMAIN-SUFFIX,didamanhua.com
 DOMAIN-SUFFIX,dingmanhua.com
 DOMAIN-SUFFIX,dongman.la
-DOMAIN-SUFFIX,gufengmh9.com
-DOMAIN-SUFFIX,godamh.com
 DOMAIN-SUFFIX,godamanga.art
 DOMAIN-SUFFIX,godamanga.com
 DOMAIN-SUFFIX,godamanga.site
-DOMAIN-SUFFIX,hanman18.com
+DOMAIN-SUFFIX,godamh.com
+DOMAIN-SUFFIX,gufengmh9.com
 DOMAIN-SUFFIX,hanman.cyou
+DOMAIN-SUFFIX,hanman18.com
 DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,hm01.lol
 DOMAIN-SUFFIX,hm02.lol
@@ -439,21 +438,21 @@ DOMAIN-SUFFIX,hm18.lol
 DOMAIN-SUFFIX,hm19.lol
 DOMAIN-SUFFIX,hm2.lol
 DOMAIN-SUFFIX,hm3.lol
-DOMAIN-SUFFIX,kox.moe
-DOMAIN-SUFFIX,liumanhua.com
+DOMAIN-SUFFIX,ikmmh.com
 DOMAIN-SUFFIX,jmapinode.biz
 DOMAIN-SUFFIX,jmapinode.vip
 DOMAIN-SUFFIX,jmapinode.xyz
 DOMAIN-SUFFIX,jmapinodeudzn.xyz
-DOMAIN-SUFFIX,ikmmh.com
 DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,liumanhua.com
 DOMAIN-SUFFIX,manben.com
-DOMAIN-SUFFIX,manhw.com
 DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,manhuadb.com
+DOMAIN-SUFFIX,manhw.com
 DOMAIN-SUFFIX,mhx12.com
 DOMAIN-SUFFIX,miaoshangmanhua.com
 DOMAIN-SUFFIX,nhentai.net

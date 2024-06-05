@@ -29,8 +29,8 @@ PROCESS-NAME,parsecd
 # https://hub.docker.com/r/pixman/pixman
 # Source: https://pixman.io/topics/17
 IP-CIDR,183.206.0.0/15,DIRECT
-DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,yangshipin.cn
 
 # 以下规则是对 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 的补充

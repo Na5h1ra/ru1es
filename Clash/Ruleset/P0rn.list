@@ -1,49 +1,81 @@
 # NAME: P0rn
 
-#P0rnDaily
-DOMAIN-SUFFIX,155.fun
-DOMAIN-SUFFIX,166.run
-DOMAIN-SUFFIX,18hlw.com
-DOMAIN-SUFFIX,51cg.fun
-DOMAIN-SUFFIX,84zms.com
-DOMAIN-SUFFIX,91share.net
-DOMAIN-SUFFIX,hlbdy.me
-DOMAIN-SUFFIX,hsex.men
-DOMAIN-SUFFIX,jiuse.icu
-DOMAIN-SUFFIX,lanrenbl.net
-DOMAIN-SUFFIX,lanren.org
-DOMAIN-SUFFIX,lanrenktaa.top
-DOMAIN-SUFFIX,linzijun.app
-DOMAIN-SUFFIX,ltrtzlrfr.com
-DOMAIN-SUFFIX,monsnode.com
-DOMAIN-SUFFIX,nrt2023.com\
-DOMAIN-SUFFIX,showgirlx.net
-DOMAIN-SUFFIX,simpcity.su
-DOMAIN-KEYWORD,jstv
-DOMAIN-KEYWORD,jiuse
-
-#P0rnOnline
+# P0rn Anime
+DOMAIN-SUFFIX,1anime.me
 DOMAIN-SUFFIX,avbebe.com
-DOMAIN-SUFFIX,erome.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hentaianimezone.com
 DOMAIN-SUFFIX,hentaimama.io
-DOMAIN-SUFFIX,hotfapy.com
+DOMAIN-SUFFIX,porcore.com
 DOMAIN-SUFFIX,rule34video.com
+
+# P0rn Online
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,avple.tv
+DOMAIN-SUFFIX,cableav.tv
+DOMAIN-SUFFIX,digitalplayground.com
+DOMAIN-SUFFIX,fakehub.com
+DOMAIN-SUFFIX,forhertube.com
+DOMAIN-SUFFIX,ggjav.com
+DOMAIN-SUFFIX,jav.guru
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,javfc2.net
+DOMAIN-SUFFIX,javgg.net
+DOMAIN-SUFFIX,javmenu.com
+DOMAIN-SUFFIX,javmost.com
+DOMAIN-SUFFIX,kink.com
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,mm18vc.com
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,netflav5.com
+DOMAIN-SUFFIX,njav.tv
+DOMAIN-SUFFIX,pissvids.com
 DOMAIN-SUFFIX,speedporn.net
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,sxyprn.net
+DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,youporn.com
 
-#P0rnCDN
+# P0rn Novel
+DOMAIN-SUFFIX,12bz.net
+DOMAIN-SUFFIX,alhs.link
+DOMAIN-SUFFIX,alhs.live
+DOMAIN-SUFFIX,alhs.xyz
+DOMAIN-SUFFIX,biqulou.info
+DOMAIN-SUFFIX,bgme.bid
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,esjzone.cc
+DOMAIN-SUFFIX,halfts.com
+DOMAIN-SUFFIX,houhuayuan.vip
+DOMAIN-SUFFIX,innocent.love
+DOMAIN-SUFFIX,mirror.0w0.bid
+DOMAIN-SUFFIX,rbq.desi
+DOMAIN-SUFFIX,rrshu8.com
+DOMAIN-SUFFIX,shubaoju.cc
+DOMAIN-SUFFIX,tepis.me
+
+# P0rn Database
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javhoo.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,javtxt.com
+DOMAIN-SUFFIX,xslist.org
+DOMAIN,etigoya955.blog.fc2.com
+
+# P0rn CDN
 DOMAIN-SUFFIX,34cdn.com
 DOMAIN-SUFFIX,38cdn.com
 DOMAIN-SUFFIX,66img.cc
 DOMAIN-SUFFIX,adultiptv.net
 DOMAIN-SUFFIX,avstatic.com
+DOMAIN-SUFFIX,bigcloud.click
 DOMAIN-SUFFIX,bytebwq.com
 DOMAIN-SUFFIX,cdn2020.com
 DOMAIN-SUFFIX,cvhlscdn.com
 DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,jiuse2.cloud
 DOMAIN-SUFFIX,maa1808.com
 DOMAIN-SUFFIX,maa1809.com
 DOMAIN-SUFFIX,rhsj520.com
@@ -52,19 +84,62 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,yongaomy.com
 DOMAIN-SUFFIX,yuemeinv.com
 
-#P0rnT0rr3nt
+# P0rn T0rr3nt
 DOMAIN-SUFFIX,xxxclub.to
 
-#P0rnNovel
-DOMAIN-SUFFIX,12bz.net
-DOMAIN-SUFFIX,alhs.link
-DOMAIN-SUFFIX,alhs.live
-DOMAIN-SUFFIX,alhs.xyz
-DOMAIN-SUFFIX,bgme.bid
-DOMAIN-SUFFIX,bgme.me
-DOMAIN-SUFFIX,esjzone.cc
-DOMAIN-SUFFIX,houhuayuan.vip
-DOMAIN-SUFFIX,innocent.love
-DOMAIN-SUFFIX,mirror.0w0.bid
-DOMAIN-SUFFIX,rbq.desi
-DOMAIN-SUFFIX,tepis.me
+# Hardc0re & Trans
+DOMAIN-SUFFIX,analvids.com
+DOMAIN-SUFFIX,bdsmlr.com
+DOMAIN-SUFFIX,bdsmtest.org
+DOMAIN-SUFFIX,becomingfemme.com
+DOMAIN-SUFFIX,gekiyasukun.com
+DOMAIN-SUFFIX,genderxfilms.com
+DOMAIN-SUFFIX,pervtherapy.com
+DOMAIN-SUFFIX,pure-ts.com
+DOMAIN-SUFFIX,sissy.game
+DOMAIN-SUFFIX,tgirls.xxx
+DOMAIN-SUFFIX,trannyvideosx.com
+DOMAIN-SUFFIX,transfixed.com
+DOMAIN,sql.jinjier.art
+
+# CGHLW
+DOMAIN-SUFFIX,155.fun
+DOMAIN-SUFFIX,166.run
+DOMAIN-SUFFIX,18hlw.com
+DOMAIN-SUFFIX,51cg.fun
+DOMAIN-SUFFIX,91share.net
+DOMAIN-SUFFIX,hlbdy.me
+DOMAIN-SUFFIX,nrt2023.com
+
+# 91GC
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,91porny.com
+DOMAIN-SUFFIX,hsex.icu
+DOMAIN-SUFFIX,hsex.men
+DOMAIN-SUFFIX,jiuse.icu
+DOMAIN-SUFFIX,jsav2.com
+DOMAIN-SUFFIX,jsav3.com
+DOMAIN,dizhi66.github.io
+DOMAIN,dizhi88.gitbook.io
+
+# FULI
+DOMAIN-SUFFIX,84zms.com
+DOMAIN-SUFFIX,lanren.org
+DOMAIN-SUFFIX,lanrenbl.net
+DOMAIN-SUFFIX,lanrenktaa.top
+
+# Others (Inside)
+DOMAIN-SUFFIX,cosersets.com
+DOMAIN-SUFFIX,nanrenvip.cc
+DOMAIN-SUFFIX,vipfanhao.com
+
+# Others (Outside)
+DOMAIN-SUFFIX,avsubtitles.com
+DOMAIN-SUFFIX,coomer.su
+DOMAIN-SUFFIX,erome.com
+DOMAIN-SUFFIX,monsnode.com
+DOMAIN-SUFFIX,playno1.com
+DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,simpcity.su
+DOMAIN-SUFFIX,sougouwiki.com
+DOMAIN,censored.booru.org

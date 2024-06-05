@@ -221,6 +221,11 @@ DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
 
+# RSS Burner Provider
+DOMAIN-SUFFIX,feedburner.com
+DOMAIN-SUFFIX,feedex.net
+DOMAIN-SUFFIX,rssforever.com
+
 # Others
 DOMAIN-SUFFIX,bfvvs.com
 DOMAIN-SUFFIX,e6ex.com

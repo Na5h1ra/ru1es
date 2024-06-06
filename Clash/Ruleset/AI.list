@@ -1,0 +1,100 @@
+# NAME: AI
+# Updated : 2024-06-06 
+
+# OpenAI
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list & https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02 & 2024-04-29
+# 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com , 有些网站也用CF认证 , CF域名和其它网站域名不在同一个地区 , 有时会无限验证
+# 去除了stripe.com , 有些网站也用stripe支付 , 可能会导致其它网站出问题
+# 上述域名在Outside.list 中 , 优先生效 , 此处已注释
+# DOMAIN-SUFFIX,challenges.cloudflare.com
+# DOMAIN-SUFFIX,stripe.com
+# DOMAIN,static.cloudflareinsights.com
+
+AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus-),(DOMAIN-SUFFIX,webpubsub.azure.com))
+DOMAIN,api.statsig.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,cdn.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,ios.chat.openai.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-KEYWORD,openaicom-api
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,turn.livekit.cloud
+
+# Copilot
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02
+DOMAIN,api.githubcopilot.com
+DOMAIN,bat.bing.com
+DOMAIN,c.bing.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN,www.bingapis.com
+DOMAIN-SUFFIX,clarity.ms
+
+# Gemini
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02
+DOMAIN,ai.google.dev
+DOMAIN,aida.googleapis.com
+DOMAIN,aistudio.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,makersuite.google.com
+
+# Claude
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+
+# JetBrains AI
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Meta
+# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-05-30 & 2024-06-02
+DOMAIN,imagine.meta.com
+DOMAIN-SUFFIX,meta.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai

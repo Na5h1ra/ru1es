@@ -1,50 +1,91 @@
 # NAME: SelfBan
-# Source: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/App-Activation.list
 
-# Adobe online activation domains
+# Source: https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/App-Activation.list & https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdobeActivation/AdobeActivation.list
+# Ad0be online activation domains
+DOMAIN-SUFFIX,1b9khekel6.adobe.io
+DOMAIN-SUFFIX,3dns.adobe.com
 DOMAIN-SUFFIX,3dns-1.adobe.com
 DOMAIN-SUFFIX,3dns-2.adobe.com
 DOMAIN-SUFFIX,3dns-3.adobe.com
 DOMAIN-SUFFIX,3dns-4.adobe.com
 DOMAIN-SUFFIX,3dns-5.adobe.com
-DOMAIN-SUFFIX,3dns.adobe.com
-DOMAIN-SUFFIX,activate-sea.adobe.com
-DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,9ngulmtgqi.adobe.io
 DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,activate.wip.adobe.com
 DOMAIN-SUFFIX,activate.wip1.adobe.com
 DOMAIN-SUFFIX,activate.wip2.adobe.com
 DOMAIN-SUFFIX,activate.wip3.adobe.com
 DOMAIN-SUFFIX,activate.wip4.adobe.com
+DOMAIN-SUFFIX,activate-sea.adobe.com
+DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,adobe.demdex.net
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.tt.omtrdc.net
+DOMAIN-SUFFIX,adobedc.demdex.net
+DOMAIN-SUFFIX,adobe-dns.adobe.com
+DOMAIN-SUFFIX,adobe-dns-01.adobe.com
 DOMAIN-SUFFIX,adobe-dns-1.adobe.com
 DOMAIN-SUFFIX,adobe-dns-2.adobe.com
 DOMAIN-SUFFIX,adobe-dns-3.adobe.com
 DOMAIN-SUFFIX,adobe-dns-4.adobe.com
-DOMAIN-SUFFIX,adobe-dns.adobe.com
-DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobeereg.com
+DOMAIN-SUFFIX,adobeid-na1.services.adobe.com
+DOMAIN-SUFFIX,assets.adobedtm.com
+DOMAIN-SUFFIX,auth.services.adobe.com
+DOMAIN-SUFFIX,auth-cloudfront.prod.ims.adobejanus.com
+DOMAIN-SUFFIX,bam.nr-data.net
+DOMAIN-SUFFIX,cai-splunk-proxy.adobe.io
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,cc-cdn.adobe.com
+DOMAIN-SUFFIX,cc-cdn.adobe.com.edgekey.net
+DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com
+DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com.edgekey.net
+DOMAIN-SUFFIX,cn-assets.adobedtm.com.edgekey.net
+DOMAIN-SUFFIX,crl.verisign.net
 DOMAIN-SUFFIX,crl.versign.net
+DOMAIN-SUFFIX,crlog-crcn.adobe.com
+DOMAIN-SUFFIX,crs.cr.adobe.com
+DOMAIN-SUFFIX,edgeproxy-irl1.cloud.adobe.io
 DOMAIN-SUFFIX,ereg.adobe.com
 DOMAIN-SUFFIX,ereg.wip.adobe.com
 DOMAIN-SUFFIX,ereg.wip1.adobe.com
 DOMAIN-SUFFIX,ereg.wip2.adobe.com
 DOMAIN-SUFFIX,ereg.wip3.adobe.com
 DOMAIN-SUFFIX,ereg.wip4.adobe.com
+DOMAIN-SUFFIX,ethos.ethos02-prod-irl1.ethos.adobe.net
+DOMAIN-SUFFIX,genuine.adobe.com
+DOMAIN-SUFFIX,geo2.adobe.com
 DOMAIN-SUFFIX,hl2rcv.adobe.com
 DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+DOMAIN-SUFFIX,ic.adobe.io
+DOMAIN-SUFFIX,k.sni.global.fastly.net
+DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,lcs-robs.adobe.io
 DOMAIN-SUFFIX,lm.licenses.adobe.com
 DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
 DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
 DOMAIN-SUFFIX,ood.opsource.net
 DOMAIN-SUFFIX,practivate.adobe
 DOMAIN-SUFFIX,practivate.adobe.com
 DOMAIN-SUFFIX,practivate.adobe.ipp
 DOMAIN-SUFFIX,practivate.adobe.newoa
 DOMAIN-SUFFIX,practivate.adobe.ntp
+DOMAIN-SUFFIX,prod.adobegenuine.com
+DOMAIN-SUFFIX,pv2bqhsp36w.prod.cloud.adobe.io
+DOMAIN-SUFFIX,services.prod.ims.adobejanus.com
+DOMAIN-SUFFIX,ssl-delivery.adobe.com.edgekey.net
+DOMAIN-SUFFIX,sstats.adobe.com
+DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net
+DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
+DOMAIN-SUFFIX,uds.licenses.adobe.com
+DOMAIN-SUFFIX,use-stls.adobe.com.edgesuite.net
 DOMAIN-SUFFIX,wip.adobe.com
 DOMAIN-SUFFIX,wip1.adobe.com
 DOMAIN-SUFFIX,wip2.adobe.com
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wip4.adobe.com
+DOMAIN-SUFFIX,workflow-ui-prod.licensingstack.com
 DOMAIN-SUFFIX,wwis-dubc1-vip100.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip101.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip102.adobe.com
@@ -142,16 +183,16 @@ DOMAIN-SUFFIX,wwis-dubc1-vip97.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip98.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip99.adobe.com
 
-# Autodesk
+# Aut0desk
 DOMAIN,docs.autodesk.com
 DOMAIN,genuine-software2.autodesk.com
 DOMAIN,help.autodesk.com
 DOMAIN,ipm-aem.autodesk.com
 DOMAIN,update.delivery.autodesk.com
 
-# Connectify
-DOMAIN-SUFFIX,updates.connectify.me
+# C0nnectify
 DOMAIN-SUFFIX,activate.connectify.me
 DOMAIN-SUFFIX,d1.connectify.me
 DOMAIN-SUFFIX,d2.connectify.me
 DOMAIN-SUFFIX,d3.connectify.me
+DOMAIN-SUFFIX,updates.connectify.me

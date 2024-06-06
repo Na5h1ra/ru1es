@@ -4,9 +4,9 @@
 # OpenAI
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list & https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list
 # Source Updated Time: 2024-05-30 & 2024-06-02 & 2024-04-29
-# È¥³ıÁËchallenges.cloudflare.com ºÍ static.cloudflareinsights.com , ÓĞĞ©ÍøÕ¾Ò²ÓÃCFÈÏÖ¤ , CFÓòÃûºÍÆäËüÍøÕ¾ÓòÃû²»ÔÚÍ¬Ò»¸öµØÇø , ÓĞÊ±»áÎŞÏŞÑéÖ¤
-# È¥³ıÁËstripe.com , ÓĞĞ©ÍøÕ¾Ò²ÓÃstripeÖ§¸¶ , ¿ÉÄÜ»áµ¼ÖÂÆäËüÍøÕ¾³öÎÊÌâ
-# ÉÏÊöÓòÃûÔÚOutside.list ÖĞ , ÓÅÏÈÉúĞ§ , ´Ë´¦ÒÑ×¢ÊÍ
+# å»é™¤äº†challenges.cloudflare.com å’Œ static.cloudflareinsights.com,æœ‰äº›ç½‘ç«™ä¹Ÿç”¨CFè®¤è¯,CFåŸŸåå’Œå…¶å®ƒç½‘ç«™åŸŸåä¸åœ¨åŒä¸€ä¸ªåœ°åŒº,æœ‰æ—¶ä¼šæ— é™éªŒè¯
+# å»é™¤äº†stripe.com,æœ‰äº›ç½‘ç«™ä¹Ÿç”¨stripeæ”¯ä»˜,å¯èƒ½ä¼šå¯¼è‡´å…¶å®ƒç½‘ç«™å‡ºé—®é¢˜
+# ä¸Šè¿°åŸŸååœ¨Outside.listä¸­,ä¼˜å…ˆç”Ÿæ•ˆ,æ­¤å¤„å·²æ³¨é‡Š
 # DOMAIN-SUFFIX,challenges.cloudflare.com
 # DOMAIN-SUFFIX,stripe.com
 # DOMAIN,static.cloudflareinsights.com

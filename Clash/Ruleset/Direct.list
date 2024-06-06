@@ -37,8 +37,8 @@ DOMAIN-SUFFIX,yangshipin.cn
 PROCESS-NAME,amuled
 PROCESS-NAME,amuled.exe
 PROCESS-NAME,aria2c
-PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BaiduNetdisk
+PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BitComet
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DownloadService
@@ -51,20 +51,20 @@ PROCESS-NAME,HUAWEI Cloud.exe
 PROCESS-NAME,Motrix
 PROCESS-NAME,Motrix.exe
 PROCESS-NAME,NetTransport
-PROCESS-NAME,qbittorrent*
 PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent*
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,SunloginClient_Desktop
 PROCESS-NAME,SunloginClient_Helper
 PROCESS-NAME,tailscaled
 PROCESS-NAME,Thunder
 PROCESS-NAME,ThunderVIP.exe
+PROCESS-NAME,ToDesk
+PROCESS-NAME,ToDesk.exe
 PROCESS-NAME,Transmission
 PROCESS-NAME,transmission-daemon
 PROCESS-NAME,transmission-qt
-PROCESS-NAME,ToDesk
-PROCESS-NAME,ToDesk.exe
-PROCESS-NAME,UUBooster
 PROCESS-NAME,uTorrent
+PROCESS-NAME,UUBooster
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper

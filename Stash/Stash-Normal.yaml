@@ -1,7 +1,7 @@
 # Modified From https://github.com/Repcz/Tool and ACL4SSR
 # 覆写模块
 # 1. Script Hub: 重写 & 规则集转换，https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.stash.stoverride
-# 2. 去除 Youtube 广告, http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin/_end_/YouTube_remove_ads.stoverride?type=loon-plugin&target=stash-stoverride&del=true
+# 2. 去除 Youtube 广告, https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin/_end_/YouTube_remove_ads.stoverride?type=loon-plugin&target=stash-stoverride&del=true
 # 3. 复写去广告(严格版), https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
 # 4. 节假日 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/timecard.stoverride
 # 5. IP 信息 Tile 面板, https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/ipcheck.stoverride
@@ -498,49 +498,49 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/Blizzard.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list/_end_/Blizzard.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list/_end_/Blizzard.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   EA:
     type: http
     behavior: classical
     path: ./Ruleset/EA.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list/_end_/EA.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list/_end_/EA.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Xbox:
     type: http
     behavior: classical
     path: ./Ruleset/Xbox.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list/_end_/Xbox.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list/_end_/Xbox.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Ubisoft:
     type: http
     behavior: classical
     path: ./Ruleset/Ubisoft.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list/_end_/UBI.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list/_end_/UBI.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Gog:
     type: http
     behavior: classical
     path: ./Ruleset/Gog.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list/_end_/Gog.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list/_end_/Gog.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Rockstar:
     type: http
     behavior: classical
     path: ./Ruleset/Rockstar.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.list/_end_/Rockstar.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.list/_end_/Rockstar.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideGames:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideGames.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   YouTube:
@@ -617,21 +617,21 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OpenAI.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list/_end_/OpenAI.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/AI.list/_end_/AI.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GlobalMedia:
     type: http
     behavior: classical
     path: ./Ruleset/GlobalMedia.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list/_end_/GlobalMedia.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list/_end_/GlobalMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Emby:
     type: http
     behavior: classical
     path: ./Ruleset/Emby.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list/_end_/Emby.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list/_end_/Emby.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideMedia:

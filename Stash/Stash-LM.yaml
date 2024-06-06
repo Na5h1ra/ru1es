@@ -578,7 +578,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideGames.yaml
-    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   YouTube:

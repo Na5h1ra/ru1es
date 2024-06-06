@@ -647,7 +647,7 @@ rule-providers:
     behavior: classical
     format: text
     path: ./Ruleset/OpenAI.list
-    url: https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list
+    url: https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/AI.list
     interval: 86400
 
   GlobalMedia:

@@ -655,7 +655,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OpenAI.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list/_end_/OpenAI.list?type=rule-set&target=stash-rule-set
+    url: http://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/AI.list/_end_/AI.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GlobalMedia:

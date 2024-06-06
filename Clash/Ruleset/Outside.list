@@ -204,6 +204,8 @@ DOMAIN-SUFFIX,v2tun-163cdn.top
 DOMAIN-SUFFIX,940304.xyz
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,nocookie.net
 DOMAIN-SUFFIX,owcdn.net
 DOMAIN-SUFFIX,sm.ms
@@ -225,6 +227,24 @@ DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedex.net
 DOMAIN-SUFFIX,rssforever.com
+DOMAIN-SUFFIX,rss.com
+
+# V2ex
+DOMAIN-SUFFIX,sov2ex.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN,v2ex.appspot.com
+
+# GPT api 转发站
+DOMAIN-SUFFIX,0o0.live
+DOMAIN-SUFFIX,aikey.one
+DOMAIN-SUFFIX,b3n.fun
+DOMAIN-SUFFIX,closeai-asia.com
+DOMAIN-SUFFIX,freegpt.art
+DOMAIN-SUFFIX,gptapi.us
+DOMAIN-SUFFIX,gptdos.com
+DOMAIN-SUFFIX,kksj.org
+DOMAIN-SUFFIX,nio.gs
+DOMAIN-SUFFIX,openrouter.ai
 
 # Others
 DOMAIN-SUFFIX,bfvvs.com
@@ -236,6 +256,7 @@ DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,picsum.photos
+DOMAIN-SUFFIX,snipaste.com
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,yckceo1.com

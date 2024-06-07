@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevod.tv
+DOMAIN-SUFFIX,olevod7.com
 
 # 哔嘀影视
 DOMAIN-SUFFIX,52bdys.com
@@ -77,8 +78,11 @@ DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
 DOMAIN-SUFFIX,4kvm.site
+DOMAIN-SUFFIX,bei5dy.com
 DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,cddys.me
+DOMAIN-SUFFIX,cdnkan.top
+DOMAIN-SUFFIX,changmengyun.com
 DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,cupfox.love
 DOMAIN-SUFFIX,dami5tv.com
@@ -87,7 +91,9 @@ DOMAIN-SUFFIX,damiflix.com
 DOMAIN-SUFFIX,damiq.online
 DOMAIN-SUFFIX,damit.cc
 DOMAIN-SUFFIX,damivid.com
+DOMAIN-SUFFIX,dsxys.com
 DOMAIN-SUFFIX,dsxys.pro
+DOMAIN-SUFFIX,duboku.io
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,fuju1.tv
 DOMAIN-SUFFIX,gaze.run
@@ -108,20 +114,30 @@ DOMAIN-SUFFIX,mkvdo.com
 DOMAIN-SUFFIX,nicohub.cc
 DOMAIN-SUFFIX,nicohub.net
 DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,nycvod.com
+DOMAIN-SUFFIX,odivod.com
+DOMAIN-SUFFIX,olevod7.com
+DOMAIN-SUFFIX,physvod.com
+DOMAIN-SUFFIX,pupvod.com
 DOMAIN-SUFFIX,zhaifufabu.com
 DOMAIN-SUFFIX,zhaifujidi.com
+DOMAIN-SUFFIX,zhuijumi.cc
 
 # 其它采集站
-# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
+# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list & https://gitbox520.github.io/gao/vp.json
 # 已按字母顺序排序  Sorted in alphabetical order
 # 未包含视频播放CDN服务器  Video CDNs are not included
+DOMAIN-SUFFIX,1080zyku.com
 DOMAIN-SUFFIX,39kan.com
 DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,ahjiuman.com
 DOMAIN-SUFFIX,apibdzy.com
 DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,feisuzyapi.com
 DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,ffzyapi.com
+DOMAIN-SUFFIX,fszy1.com
+DOMAIN-SUFFIX,guangsuapi.com
 DOMAIN-SUFFIX,hhzyapi.com
 DOMAIN-SUFFIX,hongniuzy2.com
 DOMAIN-SUFFIX,huyaapi.com
@@ -137,16 +153,21 @@ DOMAIN-SUFFIX,qhzyapi.com
 DOMAIN-SUFFIX,sdzyapi.com
 DOMAIN-SUFFIX,subocaiji.com
 DOMAIN-SUFFIX,suoniapi.com
+DOMAIN-SUFFIX,tiankongapi.com
+DOMAIN-SUFFIX,ukuapi.com
 DOMAIN-SUFFIX,wolongzyw.com
 DOMAIN-SUFFIX,wujinapi.com
 DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,xkanzy10.com
+DOMAIN-SUFFIX,yhzy.cc
 DOMAIN-SUFFIX,zuidazy.me
+
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
+DOMAIN-SUFFIX,bqrdh.com
 DOMAIN-SUFFIX,btnull.fun
 DOMAIN-SUFFIX,btnull.net
 DOMAIN-SUFFIX,btnull.nu
@@ -159,15 +180,21 @@ DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,hdmoli.pro
+DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
+DOMAIN-SUFFIX,meijumi.net
 DOMAIN-SUFFIX,mj028.cn
+DOMAIN-SUFFIX,mjmtv.top
+DOMAIN-SUFFIX,mjmtv.vip
 DOMAIN-SUFFIX,molicp.com
 DOMAIN-SUFFIX,nmme.xyz
 DOMAIN-SUFFIX,nzmz.xyz
 DOMAIN-SUFFIX,pan666.net
+DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,pioz.cn
 DOMAIN-SUFFIX,ppxzy.ink
+DOMAIN-SUFFIX,res.yunpan.win
 DOMAIN-SUFFIX,rrdynb.com
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,star2.cn
@@ -175,14 +202,18 @@ DOMAIN-SUFFIX,susuifa.com
 DOMAIN-SUFFIX,tnhzmz.com
 DOMAIN-SUFFIX,t-rex.tzfile.com
 DOMAIN-SUFFIX,ttysfx.com
+DOMAIN-SUFFIX,tudou.lvdoui.top
 DOMAIN-SUFFIX,tvku.vip
 DOMAIN-SUFFIX,uuoozz.com
 DOMAIN-SUFFIX,wanwansub.com
+DOMAIN-SUFFIX,weixine.net
+DOMAIN-SUFFIX,wobge.run.goorm.io
 DOMAIN-SUFFIX,wogg.link
 DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,wogg.xyz
 DOMAIN-SUFFIX,xiaouj.cn
 DOMAIN-SUFFIX,xinjufang.com
+DOMAIN-SUFFIX,xpanpan.site
 DOMAIN-SUFFIX,xunso.fun
 DOMAIN-SUFFIX,xzys.fun
 DOMAIN-SUFFIX,xzyshd.com
@@ -190,8 +221,10 @@ DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,yinghe.app
 DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
+DOMAIN-SUFFIX,yingso.fun
 DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yyets.click
+DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn
 
 

@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,turn.livekit.cloud
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
+IP-ASN,20473
 
 # Copilot
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list

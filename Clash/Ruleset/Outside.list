@@ -10,6 +10,8 @@ DOMAIN,static.cloudflareinsights.com
 
 # GPT api 转发站
 DOMAIN-SUFFIX,0o0.live
+DOMAIN-SUFFIX,aigcapi.io
+DOMAIN-SUFFIX,aigcapi.me
 DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,aikey.one
 DOMAIN-SUFFIX,b3n.fun

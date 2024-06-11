@@ -343,7 +343,6 @@ DOMAIN-SUFFIX,bgmlist.com
 DOMAIN-SUFFIX,dmguo.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fitacg.com
-DOMAIN-SUFFIX,hmacg.cn
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
 DOMAIN-SUFFIX,kisssub.org
@@ -351,6 +350,7 @@ DOMAIN-SUFFIX,lilithraws.org
 DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,yuc.wiki
 
 # GalGame
 DOMAIN,yinghu.netlify.app

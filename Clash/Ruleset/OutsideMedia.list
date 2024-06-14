@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,cddys.me
 DOMAIN-SUFFIX,cdnkan.top
 DOMAIN-SUFFIX,changmengyun.com
+DOMAIN-SUFFIX,colafun.com
 DOMAIN-SUFFIX,cupfox.app
 DOMAIN-SUFFIX,cupfox.love
 DOMAIN-SUFFIX,dami5tv.com
@@ -125,23 +126,31 @@ DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
 # 其它采集站
-# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list & https://gitbox520.github.io/gao/vp.json
+# Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
+# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
 # 已按字母顺序排序  Sorted in alphabetical order
 # 未包含视频播放CDN服务器  Video CDNs are not included
 DOMAIN-SUFFIX,1080zyku.com
+DOMAIN-SUFFIX,360zy.com
 DOMAIN-SUFFIX,39kan.com
+DOMAIN-SUFFIX,49zyw.com
+DOMAIN-SUFFIX,540734621.xyz
 DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,ahjiuman.com
+DOMAIN-SUFFIX,ahjiuman.com
 DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,apilyzy.com
+DOMAIN-SUFFIX,apittzy.com
 DOMAIN-SUFFIX,apiyhzy.com
 DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,cttv.vip
 DOMAIN-SUFFIX,feisuzyapi.com
 DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,fszy1.com
 DOMAIN-SUFFIX,guangsuapi.com
 DOMAIN-SUFFIX,heimuer.tv
-DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,heimuer.xyz
 DOMAIN-SUFFIX,hhzyapi.com
 DOMAIN-SUFFIX,hongniuzy2.com
 DOMAIN-SUFFIX,huyaapi.com
@@ -152,24 +161,39 @@ DOMAIN-SUFFIX,jszyapi.com
 DOMAIN-SUFFIX,kczyapi.com
 DOMAIN-SUFFIX,kuaikanzy.net
 DOMAIN-SUFFIX,kuaiyunzy.com
+DOMAIN-SUFFIX,kuakezy1.com
+DOMAIN-SUFFIX,lbapi9.com
 DOMAIN-SUFFIX,leshizyapi.com
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,moduapi.cc
 DOMAIN-SUFFIX,moduzy.com
+DOMAIN-SUFFIX,niuniuzy.me
 DOMAIN-SUFFIX,p2100.net
 DOMAIN-SUFFIX,qhzyapi.com
 DOMAIN-SUFFIX,sdzyapi.com
+DOMAIN-SUFFIX,slapibf.com
 DOMAIN-SUFFIX,subocaiji.com
 DOMAIN-SUFFIX,suoniapi.com
+DOMAIN-SUFFIX,tangrenjie.tv
 DOMAIN-SUFFIX,tiankongapi.com
 DOMAIN-SUFFIX,ukuapi.com
 DOMAIN-SUFFIX,wolongzy.cc
 DOMAIN-SUFFIX,wolongzyw.com
 DOMAIN-SUFFIX,wujinapi.com
+DOMAIN-SUFFIX,xiaohuangrentv.com
 DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,xkanzy10.com
+DOMAIN-SUFFIX,xzcjz.com
+DOMAIN-SUFFIX,yayazy.net
 DOMAIN-SUFFIX,yhzy.cc
+DOMAIN-SUFFIX,ykapi.net
 DOMAIN-SUFFIX,zuidazy.me
+DOMAIN,api.niuniuzy.me
+DOMAIN,cj.yayazy.net
+DOMAIN,gwcms.cttv.vip
+DOMAIN,iqyi.xiaohuangrentv.com
+DOMAIN,ys9.cttv.vip
+DOMAIN,yyff.540734621.xyz
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop
@@ -231,6 +255,7 @@ DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
 DOMAIN-SUFFIX,yingso.fun
 DOMAIN-SUFFIX,yulinshufa.cn
+DOMAIN-SUFFIX,yunpan1.cc
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn

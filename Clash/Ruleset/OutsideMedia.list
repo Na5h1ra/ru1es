@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,libviohd.com
 DOMAIN-SUFFIX,haiwaikan.com
 
 # 其它在线站
+DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
@@ -99,6 +100,7 @@ DOMAIN-SUFFIX,fuju1.tv
 DOMAIN-SUFFIX,gaze.run
 DOMAIN-SUFFIX,gimy.ai
 DOMAIN-SUFFIX,hanjukankan.com
+DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jiohub.top
 DOMAIN-SUFFIX,keke10.app
@@ -111,6 +113,8 @@ DOMAIN-SUFFIX,kekys.com
 DOMAIN-SUFFIX,kmeiju.cc
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,nivod5.com
 DOMAIN-SUFFIX,novipnoad.net
 DOMAIN-SUFFIX,nycvod.com
 DOMAIN-SUFFIX,odivod.com
@@ -130,21 +134,28 @@ DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,ahjiuman.com
 DOMAIN-SUFFIX,apibdzy.com
 DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,bfzyapi.com
 DOMAIN-SUFFIX,feisuzyapi.com
 DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,fszy1.com
 DOMAIN-SUFFIX,guangsuapi.com
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,heimuer.tv
 DOMAIN-SUFFIX,hhzyapi.com
 DOMAIN-SUFFIX,hongniuzy2.com
 DOMAIN-SUFFIX,huyaapi.com
+DOMAIN-SUFFIX,ikunzyapi.com
 DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,inmi.app
+DOMAIN-SUFFIX,jszyapi.com
 DOMAIN-SUFFIX,kczyapi.com
 DOMAIN-SUFFIX,kuaikanzy.net
 DOMAIN-SUFFIX,kuaiyunzy.com
 DOMAIN-SUFFIX,leshizyapi.com
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,moduapi.cc
+DOMAIN-SUFFIX,moduzy.com
 DOMAIN-SUFFIX,p2100.net
 DOMAIN-SUFFIX,qhzyapi.com
 DOMAIN-SUFFIX,sdzyapi.com
@@ -152,13 +163,13 @@ DOMAIN-SUFFIX,subocaiji.com
 DOMAIN-SUFFIX,suoniapi.com
 DOMAIN-SUFFIX,tiankongapi.com
 DOMAIN-SUFFIX,ukuapi.com
+DOMAIN-SUFFIX,wolongzy.cc
 DOMAIN-SUFFIX,wolongzyw.com
 DOMAIN-SUFFIX,wujinapi.com
 DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,xkanzy10.com
 DOMAIN-SUFFIX,yhzy.cc
 DOMAIN-SUFFIX,zuidazy.me
-
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop

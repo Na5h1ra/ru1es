@@ -151,41 +151,6 @@ proxy-groups:
       - 地区选择
       - DIRECT
 
-  - name: 香港网站
-    type: select
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
-    proxies:
-      - 香港节点
-      - 地区选择
-
-  - name: 台湾网站
-    type: select
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
-    proxies:
-      - 台湾节点
-      - 地区选择
-
-  - name: 日本网站
-    type: select
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
-    proxies:
-      - 日本节点
-      - 地区选择
-
-  - name: 韩国网站
-    type: select
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
-    proxies:
-      - 韩国节点
-      - 地区选择
-
-  - name: 美国网站
-    type: select
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
-    proxies:
-      - 美国节点
-      - 地区选择
-
   - name: 国外媒体
     type: select
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
@@ -238,6 +203,41 @@ proxy-groups:
       - 香港节点
       - 美国节点
       - 日本节点
+      - 地区选择
+
+  - name: 香港网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
+    proxies:
+      - 香港节点
+      - 地区选择
+
+  - name: 台湾网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
+    proxies:
+      - 台湾节点
+      - 地区选择
+
+  - name: 日本网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
+    proxies:
+      - 日本节点
+      - 地区选择
+
+  - name: 韩国网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
+    proxies:
+      - 韩国节点
+      - 地区选择
+
+  - name: 美国网站
+    type: select
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+    proxies:
+      - 美国节点
       - 地区选择
 
   - name: 全球直连

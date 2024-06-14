@@ -128,7 +128,6 @@ DOMAIN-SUFFIX,zhuijumi.cc
 # 其它采集站
 # Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
 # Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
-# 已按字母顺序排序  Sorted in alphabetical order
 # 未包含视频播放CDN服务器  Video CDNs are not included
 DOMAIN-SUFFIX,1080zyku.com
 DOMAIN-SUFFIX,360zy.com
@@ -260,6 +259,10 @@ DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn
 
+# 刮削 & 海报 & 观看记录
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
 
 # 在线动漫站
 # Age动漫
@@ -565,6 +568,7 @@ DOMAIN-SUFFIX,soundcloud.com
 
 
 # 直播平台
+# Twitch
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitch/Twitch.list
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net

@@ -36,6 +36,35 @@ DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,yangshipin.cn
 
+# Synology
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,dsmunas.net
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
+# 我不是矿神 套件源
+DOMAIN-SUFFIX,imnks.com
+# NAS 相关
+DOMAIN,wiki.slarker.me
+DOMAIN-SUFFIX,gxnas.com
+DOMAIN-SUFFIX,jackiewu.top
+DOMAIN-SUFFIX,mi-d.cn
+DOMAIN-SUFFIX,nas50.cn
+DOMAIN-SUFFIX,rrorg.cn
+
 # 以下规则是对 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 的补充
 PROCESS-NAME,amuled
 PROCESS-NAME,amuled.exe

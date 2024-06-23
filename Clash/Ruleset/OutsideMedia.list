@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,czys.top
 DOMAIN-SUFFIX,czys03.com
 DOMAIN-SUFFIX,czz9.com
 DOMAIN-SUFFIX,czzy.site
-# DOMAIN-SUFFIX,czzy.top
+#  DOMAIN-SUFFIX,czzy.top
 DOMAIN-SUFFIX,czzy.tv
 DOMAIN-SUFFIX,czzy22.com
 DOMAIN-SUFFIX,czzy55.com
@@ -396,17 +396,21 @@ DOMAIN-SUFFIX,mikanime.tv
 
 # Anime 论坛 & 导航 & 字幕组 & 磁力站 & 其它
 DOMAIN,867258173.ysepan.com
+DOMAIN,dongmanhuayuan.myheartsite.com
 DOMAIN-SUFFIX,404.website
 DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,acg123.co
 DOMAIN-SUFFIX,acgbox.link
 DOMAIN-SUFFIX,acgbus.com
 DOMAIN-SUFFIX,acgdh.cc
+DOMAIN-SUFFIX,acgndog.com
 DOMAIN-SUFFIX,acgnx.se
 DOMAIN-SUFFIX,acgrip.com
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,bgmlist.com
 DOMAIN-SUFFIX,dmguo.org
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,fitacg.com
 DOMAIN-SUFFIX,fitacg.com
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
@@ -416,6 +420,7 @@ DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,yuc.wiki
+
 
 # GalGame
 DOMAIN,yinghu.netlify.app

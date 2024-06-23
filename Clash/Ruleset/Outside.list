@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,openrouter.ai
 # Unraid
 DOMAIN-SUFFIX,unraid.net
 
-# Docker及衍生站
+# Docker & 容器站
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list & https://taimatsu.xlog.app/china-mirror-proxy
 # Source: https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6 & https://github.com/DaoCloud/public-image-mirror
 DOMAIN,d1q6f0aelx0por.cloudfront.net

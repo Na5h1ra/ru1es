@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,libviohd.com
 DOMAIN-SUFFIX,haiwaikan.com
 
 # 其它在线站
-DOMAIN-SUFFIX,360kan.com
+## DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro

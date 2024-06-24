@@ -1,22 +1,5 @@
 # NAME: Direct
 
-# Videos
-DOMAIN-SUFFIX,goodiptv.club
-DOMAIN-SUFFIX,sp-flv.com
-
-# 影视网站
-DOMAIN-SUFFIX,4khdr.cn
-DOMAIN-SUFFIX,czzy.top
-
-# Podcast
-DOMAIN-SUFFIX,fyfy.fm
-DOMAIN-SUFFIX,lizhi.fm
-DOMAIN-SUFFIX,xiaoyuzhoufm.com
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xyzcdn.net
-DOMAIN-SUFFIX,xyzfm.space
-DOMAIN,fyfy.herecdn.com
-
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
 DOMAIN-SUFFIX,speedtest.cn
@@ -27,14 +10,6 @@ DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,parsecgaming.com
 DOMAIN-SUFFIX,parsecusercontent.com
 PROCESS-NAME,parsecd
-
-# Pixman
-# https://hub.docker.com/r/pixman/pixman
-# Source: https://pixman.io/topics/17
-IP-CIDR,183.206.0.0/15,DIRECT
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,gitv.tv
-DOMAIN-SUFFIX,yangshipin.cn
 
 # Synology
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list

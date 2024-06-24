@@ -1,0 +1,26 @@
+# NAME: InsideMedia
+
+# Videos
+DOMAIN-SUFFIX,goodiptv.club
+DOMAIN-SUFFIX,sp-flv.com
+
+# 影视网站
+DOMAIN-SUFFIX,4khdr.cn
+DOMAIN-SUFFIX,czzy.top
+
+# Podcast
+DOMAIN-SUFFIX,fyfy.fm
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xyzfm.space
+DOMAIN,fyfy.herecdn.com
+
+# Pixman
+# https://hub.docker.com/r/pixman/pixman
+# Source: https://pixman.io/topics/17
+IP-CIDR,183.206.0.0/15,DIRECT
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,yangshipin.cn

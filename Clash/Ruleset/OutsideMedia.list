@@ -341,12 +341,14 @@ DOMAIN-SUFFIX,dqsj.top
 DOMAIN-SUFFIX,eacg.net
 DOMAIN-SUFFIX,eacg1.com
 DOMAIN-SUFFIX,fanshudm.com
+DOMAIN-SUFFIX,fqdm.cc
 DOMAIN-SUFFIX,girigirilove.com
 DOMAIN-SUFFIX,gugufan.com
 DOMAIN-SUFFIX,gxdm.me
 DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,huazidm.com
 DOMAIN-SUFFIX,invbo.top
+DOMAIN-SUFFIX,jibi.cc
 DOMAIN-SUFFIX,k6dm.com
 DOMAIN-SUFFIX,k9dm.com
 DOMAIN-SUFFIX,kt30.com
@@ -582,17 +584,43 @@ DOMAIN-SUFFIX,tmsmh.com
 
 # ASMR
 DOMAIN-SUFFIX,asmr-300.com
+DOMAIN-SUFFIX,asmrbox.xyz
 DOMAIN-SUFFIX,asmrgay.com
+DOMAIN-SUFFIX,rainkmc.com
 
 
 # 杂志写真 & Coser图集
 DOMAIN,censored.booru.org
+DOMAIN,danbooru.donmai.us
+DOMAIN-SUFFIX,anime-pictures.net
+DOMAIN-SUFFIX,chnci.cc
 DOMAIN-SUFFIX,cosersets.com
+DOMAIN-SUFFIX,coshz.com
+DOMAIN-SUFFIX,cosplay8.com
+DOMAIN-SUFFIX,cosplayla.com
+DOMAIN-SUFFIX,cosz.com
+DOMAIN-SUFFIX,dimtown.com
 DOMAIN-SUFFIX,everia.club
+DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,hentaiclub.net
+DOMAIN-SUFFIX,jdlingyu.com
+DOMAIN-SUFFIX,konachan.com
+DOMAIN-SUFFIX,lsptu16.com
 DOMAIN-SUFFIX,micmicidol.club
 DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,someacg.top
+DOMAIN-SUFFIX,sshs.lol
+DOMAIN-SUFFIX,sshs.pw
+DOMAIN-SUFFIX,tbib.org
+DOMAIN-SUFFIX,tulr.pro
+DOMAIN-SUFFIX,worldcosplay.net
 DOMAIN-SUFFIX,xiuren.org
 DOMAIN-SUFFIX,yifanhune.com
+
+# 手办
+DOMAIN-SUFFIX,78dm.net
+DOMAIN-SUFFIX,hpoi.net
+DOMAIN-SUFFIX,mowanmi.com
 
 
 # Podcast

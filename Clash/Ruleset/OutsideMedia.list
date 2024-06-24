@@ -403,24 +403,29 @@ DOMAIN,dongmanhuayuan.myheartsite.com
 DOMAIN-SUFFIX,404.website
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acg123.co
+DOMAIN-SUFFIX,acg17.com
 DOMAIN-SUFFIX,acgbox.link
 DOMAIN-SUFFIX,acgbus.com
 DOMAIN-SUFFIX,acgdh.cc
 DOMAIN-SUFFIX,acgndog.com
 DOMAIN-SUFFIX,acgnx.se
 DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,airota.net
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,bgmlist.com
+DOMAIN-SUFFIX,dhr.moe
 DOMAIN-SUFFIX,dmguo.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fitacg.com
 DOMAIN-SUFFIX,fitacg.com
+DOMAIN-SUFFIX,hexieshe.com
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
 DOMAIN-SUFFIX,kisssub.org
 DOMAIN-SUFFIX,lilithraws.org
 DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,pusacgn.org
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,yuc.wiki
 
@@ -592,8 +597,12 @@ DOMAIN-SUFFIX,rainkmc.com
 # 杂志写真 & Coser图集
 DOMAIN,censored.booru.org
 DOMAIN,danbooru.donmai.us
+DOMAIN,censored.booru.org
+DOMAIN,danbooru.donmai.us
 DOMAIN-SUFFIX,anime-pictures.net
+DOMAIN-SUFFIX,chinagirlol.cc
 DOMAIN-SUFFIX,chnci.cc
+DOMAIN-SUFFIX,ciyuandao.com
 DOMAIN-SUFFIX,cosersets.com
 DOMAIN-SUFFIX,coshz.com
 DOMAIN-SUFFIX,cosplay8.com
@@ -607,11 +616,13 @@ DOMAIN-SUFFIX,jdlingyu.com
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,lsptu16.com
 DOMAIN-SUFFIX,micmicidol.club
+DOMAIN-SUFFIX,pandadiu.com
 DOMAIN-SUFFIX,showgirlx.net
 DOMAIN-SUFFIX,someacg.top
 DOMAIN-SUFFIX,sshs.lol
 DOMAIN-SUFFIX,sshs.pw
 DOMAIN-SUFFIX,tbib.org
+DOMAIN-SUFFIX,toy-people.com
 DOMAIN-SUFFIX,tulr.pro
 DOMAIN-SUFFIX,worldcosplay.net
 DOMAIN-SUFFIX,xiuren.org

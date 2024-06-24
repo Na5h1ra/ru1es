@@ -320,6 +320,7 @@ DOMAIN-SUFFIX,70kankan.com
 DOMAIN-SUFFIX,9527wu.com
 DOMAIN-SUFFIX,995dm.com
 DOMAIN-SUFFIX,9ciyuan.com
+DOMAIN-SUFFIX,acgfta.com
 DOMAIN-SUFFIX,anfuns.cc
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
@@ -582,6 +583,16 @@ DOMAIN-SUFFIX,tmsmh.com
 # ASMR
 DOMAIN-SUFFIX,asmr-300.com
 DOMAIN-SUFFIX,asmrgay.com
+
+
+# 杂志写真 & Coser图集
+DOMAIN,censored.booru.org
+DOMAIN-SUFFIX,cosersets.com
+DOMAIN-SUFFIX,everia.club
+DOMAIN-SUFFIX,micmicidol.club
+DOMAIN-SUFFIX,showgirlx.net
+DOMAIN-SUFFIX,xiuren.org
+DOMAIN-SUFFIX,yifanhune.com
 
 
 # Podcast

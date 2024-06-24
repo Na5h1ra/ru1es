@@ -401,6 +401,7 @@ DOMAIN-SUFFIX,mikanime.tv
 DOMAIN,867258173.ysepan.com
 DOMAIN,dongmanhuayuan.myheartsite.com
 DOMAIN-SUFFIX,404.website
+DOMAIN-SUFFIX,acg.gy
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acg123.co
 DOMAIN-SUFFIX,acg17.com
@@ -418,6 +419,9 @@ DOMAIN-SUFFIX,dmguo.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,fitacg.com
 DOMAIN-SUFFIX,fitacg.com
+DOMAIN-SUFFIX,gmgard.com
+DOMAIN-SUFFIX,hacg.me
+DOMAIN-SUFFIX,hacg.mov
 DOMAIN-SUFFIX,hexieshe.com
 DOMAIN-SUFFIX,hysub.net
 DOMAIN-SUFFIX,kamigami.org
@@ -426,6 +430,7 @@ DOMAIN-SUFFIX,lilithraws.org
 DOMAIN-SUFFIX,miluxing.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,pusacgn.org
+DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,yuc.wiki
 
@@ -458,6 +463,7 @@ DOMAIN-SUFFIX,kfmax.com
 DOMAIN-SUFFIX,kfpromax.com
 DOMAIN-SUFFIX,kungal.com
 DOMAIN-SUFFIX,llgal.xyz
+DOMAIN-SUFFIX,mikocon.com
 DOMAIN-SUFFIX,pcmoe.net
 DOMAIN-SUFFIX,qingjuacg.top
 DOMAIN-SUFFIX,sakustar.top
@@ -482,6 +488,7 @@ DOMAIN-SUFFIX,xiayuge.top
 DOMAIN-SUFFIX,xiayuge1.top
 DOMAIN-SUFFIX,xxacg.net
 DOMAIN-SUFFIX,yngal.com
+DOMAIN-SUFFIX,zodgame.xyz
 
 # Alist ACG 网盘
 DOMAIN,05fx.022016.xyz
@@ -615,6 +622,7 @@ DOMAIN-SUFFIX,hentaiclub.net
 DOMAIN-SUFFIX,jdlingyu.com
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,lsptu16.com
+DOMAIN-SUFFIX,medibang.com
 DOMAIN-SUFFIX,micmicidol.club
 DOMAIN-SUFFIX,pandadiu.com
 DOMAIN-SUFFIX,showgirlx.net

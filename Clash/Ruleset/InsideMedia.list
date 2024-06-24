@@ -1,12 +1,12 @@
 # NAME: InsideMedia
 
-# Videos
+# 影视网站
+DOMAIN-SUFFIX,360kan.com
+DOMAIN-SUFFIX,4khdr.cn
+DOMAIN-SUFFIX,czzy.top
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,sp-flv.com
 
-# 影视网站
-DOMAIN-SUFFIX,4khdr.cn
-DOMAIN-SUFFIX,czzy.top
 
 # Podcast
 DOMAIN-SUFFIX,fyfy.fm
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xyzfm.space
 DOMAIN,fyfy.herecdn.com
+
 
 # Pixman
 # https://hub.docker.com/r/pixman/pixman

@@ -17,9 +17,7 @@ DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,920share.com
 DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,av01.tv
-DOMAIN-SUFFIX,av01.tv
 DOMAIN-SUFFIX,av1688.cc
-DOMAIN-SUFFIX,avbebe.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avhbo.com
 DOMAIN-SUFFIX,avjoy.me
@@ -140,7 +138,6 @@ DOMAIN-SUFFIX,sougouwiki.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,xcity.jp
 DOMAIN-SUFFIX,xslist.org
-DOMAIN-SUFFIX,xxxclub.to
 
 # P0rn CDN
 DOMAIN-SUFFIX,34cdn.com
@@ -425,7 +422,6 @@ DOMAIN-SUFFIX,lwread.com
 DOMAIN-SUFFIX,lwxs11.com
 DOMAIN-SUFFIX,maa1802.com
 DOMAIN-SUFFIX,maa1807.com
-DOMAIN-SUFFIX,maa1808.com
 DOMAIN-SUFFIX,maizixueyuan.com
 DOMAIN-SUFFIX,miaodu5.com
 DOMAIN-SUFFIX,mifengxs.com
@@ -602,6 +598,7 @@ DOMAIN-SUFFIX,zuoyou2.com
 
 # Hardc0re & Trans
 DOMAIN,sql.jinjier.art
+DOMAIN-SUFFIX,abv.jp
 DOMAIN-SUFFIX,analvids.com
 DOMAIN-SUFFIX,bdsmlr.com
 DOMAIN-SUFFIX,bdsmtest.org
@@ -648,7 +645,19 @@ DOMAIN-SUFFIX,thothub.to
 DOMAIN-SUFFIX,thothub.vip
 DOMAIN-SUFFIX,thotslife.com
 
-# 论坛
+# P0rn T0rrent
+DOMAIN-SUFFIX,u9a9.com
+DOMAIN-SUFFIX,u9a9.link
+DOMAIN-SUFFIX,u9a9.me
+DOMAIN-SUFFIX,u9a9.net
+DOMAIN-SUFFIX,u9a9.org
+DOMAIN-SUFFIX,u9a9.ru
+DOMAIN-SUFFIX,u9a9.xyz
+DOMAIN-SUFFIX,u9a9e.xyz
+DOMAIN-SUFFIX,u9a9f.xyz
+DOMAIN-SUFFIX,xxxclub.to
+
+# WK Forum
 DOMAIN-SUFFIX,jd123789.xyz
 DOMAIN-SUFFIX,qq88888.xyz
 DOMAIN-SUFFIX,snow9797.xyz
@@ -666,7 +675,22 @@ DOMAIN-SUFFIX,166.run
 DOMAIN-SUFFIX,18hlw.com
 DOMAIN-SUFFIX,51cg.fun
 DOMAIN-SUFFIX,91share.net
+DOMAIN-SUFFIX,h4maz1.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz1.ki7jke.com
+DOMAIN-SUFFIX,h4maz2.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz2.ki7jke.com
+DOMAIN-SUFFIX,h4maz3.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz3.ki7jke.com
+DOMAIN-SUFFIX,h4maz4.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz4.ki7jke.com
+DOMAIN-SUFFIX,h4maz5.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz5.ki7jke.com
+DOMAIN-SUFFIX,h4maz6.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz6.ki7jke.com
+DOMAIN-SUFFIX,h4maz7.hzj3ihd.com
+DOMAIN-SUFFIX,h4maz8.hzj3ihd.com
 DOMAIN-SUFFIX,hlbdy.me
+DOMAIN-SUFFIX,ibdy26.com
 DOMAIN-SUFFIX,nrt2023.com
 
 # 91GC
@@ -686,6 +710,12 @@ DOMAIN-SUFFIX,84zms.com
 DOMAIN-SUFFIX,lanren.org
 DOMAIN-SUFFIX,lanrenbl.net
 DOMAIN-SUFFIX,lanrenktaa.top
+DOMAIN-SUFFIX,tiaokan.info
+DOMAIN-SUFFIX,tiaokan.ws
+DOMAIN-SUFFIX,tiaokanwang.info
+DOMAIN-SUFFIX,tiaokanwang.life
+DOMAIN-SUFFIX,tiaokanwang.org
+DOMAIN-SUFFIX,tiaokanwang.xyz
 
 
 # Others (Inside)

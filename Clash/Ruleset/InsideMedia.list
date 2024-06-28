@@ -1,9 +1,15 @@
 # NAME: InsideMedia
 
-# 影视网站
+# TVSeries & Movies & Anime & Media Servers
+
+# 在线站
 DOMAIN-SUFFIX,360kan.com
-DOMAIN-SUFFIX,4khdr.cn
 DOMAIN-SUFFIX,czzy.top
+
+# 磁力 & 网盘资源站 & 字幕组 & 影视导航
+DOMAIN-SUFFIX,4khdr.cn
+
+# 影视相关
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,sp-flv.com
 

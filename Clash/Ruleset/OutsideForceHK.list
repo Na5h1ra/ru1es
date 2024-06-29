@@ -15,3 +15,12 @@ DOMAIN-KEYWORD,hkanime
 
 # Media & Image CDN
 DOMAIN-SUFFIX,hk.swarmcloud.net
+
+# myTVSUPER
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/myTVSUPER/myTVSUPER.list
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive

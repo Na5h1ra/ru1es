@@ -105,9 +105,9 @@ DOMAIN-SUFFIX,webflow.com
 # https://hub.docker.com/r/pixman/pixman
 # Source: https://pixman.io/topics/17
 DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,orz-7.com
 
 # RSS Burner Provider
 DOMAIN-SUFFIX,feedburner.com

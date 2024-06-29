@@ -27,7 +27,10 @@ DOMAIN,fyfy.herecdn.com
 # Pixman
 # https://hub.docker.com/r/pixman/pixman
 # Source: https://pixman.io/topics/17
-IP-CIDR,183.206.0.0/15,DIRECT
 DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,yangshipin.cn

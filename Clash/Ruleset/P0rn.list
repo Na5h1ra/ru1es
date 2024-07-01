@@ -1,5 +1,44 @@
 # NAME: P0rn
 
+# 日本事务所 & 经纪公司
+DOMAIN-SUFFIX,8man.jp
+DOMAIN-SUFFIX,arrowsweb.net
+DOMAIN-SUFFIX,attractive-llc.net
+DOMAIN-SUFFIX,bambi.ne.jp
+DOMAIN-SUFFIX,capsule.bz
+DOMAIN-SUFFIX,cmore.jp
+DOMAIN-SUFFIX,mines-pro.jp
+DOMAIN-SUFFIX,t-powers.co.jp
+DOMAIN-SUFFIX,wish-promotion.jp
+
+# 日本厂牌
+DOMAIN-SUFFIX,attackers.net
+DOMAIN-SUFFIX,av-e-body.com
+DOMAIN-SUFFIX,befreebe.com
+DOMAIN-SUFFIX,bi-av.com
+DOMAIN-SUFFIX,dahlia-av.jp
+DOMAIN-SUFFIX,dasdas.jp
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,fitch-av.com
+DOMAIN-SUFFIX,honnaka.jp
+DOMAIN-SUFFIX,ideapocket.com
+DOMAIN-SUFFIX,indies-av.co.jp
+DOMAIN-SUFFIX,kawaiikawaii.jp
+DOMAIN-SUFFIX,kirakira-av.com
+DOMAIN-SUFFIX,km-produce.com
+DOMAIN-SUFFIX,madonna-av.com
+DOMAIN-SUFFIX,miman.jp
+DOMAIN-SUFFIX,mko-labo.net
+DOMAIN-SUFFIX,moodyz.com
+DOMAIN-SUFFIX,muku.tv
+DOMAIN-SUFFIX,mutekimuteki.com
+DOMAIN-SUFFIX,oppai-av.com
+DOMAIN-SUFFIX,premium-beauty.com
+## DOMAIN-SUFFIX,prestige-av.com //需要日本IP
+DOMAIN-SUFFIX,s1s1s1.com
+DOMAIN-SUFFIX,tameikegoro.jp
+DOMAIN-SUFFIX,wanz-factory.com
+
 # P0rn Anime
 DOMAIN-SUFFIX,1anime.me
 DOMAIN-SUFFIX,avbebe.com
@@ -107,6 +146,7 @@ DOMAIN-SUFFIX,youjav.net
 DOMAIN-SUFFIX,youporn.com
 
 # P0rn Database & Thumbnail & Trailer & Wiki
+# sougouwiki.com 及 seesaawiki.jp 用于查询演员曾用名
 DOMAIN,etigoya955.blog.fc2.com
 DOMAIN-SUFFIX,3xplanet.com
 DOMAIN-SUFFIX,airav.wiki
@@ -134,6 +174,7 @@ DOMAIN-SUFFIX,maddawgjav.net
 DOMAIN-SUFFIX,maxjav.com
 DOMAIN-SUFFIX,onejav.com
 DOMAIN-SUFFIX,seejav.shop
+DOMAIN-SUFFIX,seesaawiki.jp
 DOMAIN-SUFFIX,sougouwiki.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,xcity.jp

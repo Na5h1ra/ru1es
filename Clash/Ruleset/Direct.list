@@ -62,13 +62,11 @@ DOMAIN-SUFFIX,rrorg.cn
 # 以下规则是对 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list 的补充
 PROCESS-NAME,amuled
 PROCESS-NAME,amuled.exe
-PROCESS-NAME,aria2c
 PROCESS-NAME,BaiduNetdisk
 PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,BitComet
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,DownloadService
-PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,HMSCoreContainer
 PROCESS-NAME,HMSCoreContainer.exe

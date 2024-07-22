@@ -132,7 +132,42 @@ DOMAIN-SUFFIX,zhaifufabu.com
 DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
-
+# 伪CMS源
+# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV
+# 重复规则已被注释
+### 文才 ###
+DOMAIN,api.zeqaht.com
+### 速訊影院 ###
+DOMAIN,hd.suxun.site
+### 兩個BT ###
+# DOMAIN-SUFFIX,bttwo.net
+# DOMAIN-SUFFIX,bttwo.org
+# DOMAIN-SUFFIX,bttwo.vip
+# DOMAIN-SUFFIX,bttwoo.com
+### 燒火電影 ###
+DOMAIN-SUFFIX,saohuo.org
+DOMAIN-SUFFIX,saohuo.tv
+DOMAIN-SUFFIX,saohuo.us
+DOMAIN-SUFFIX,shdy2.com
+DOMAIN-SUFFIX,shdy5.us
+### 素白白影視 ###
+DOMAIN-SUFFIX,subaibai.com
+DOMAIN-SUFFIX,subaibai.vip
+DOMAIN-SUFFIX,subaibaiys.com
+### anfuns ###
+# DOMAIN-SUFFIX,anfuns.cc
+### 耐看點播 ###
+DOMAIN-SUFFIX,nkvod.com
+### 韓劇看看 ###
+# DOMAIN-SUFFIX,hanjukankan.com
+### 短劇天堂 ###
+DOMAIN-SUFFIX,duanjutt.tv
+### 美劇星球 ###
+# DOMAIN-SUFFIX,kmeiju.cc
+### timimg ###
+DOMAIN-SUFFIX,timizy.top
+### 其它 ###
+DOMAIN-SUFFIX,dsakf23665.com
 
 # 其它采集站
 # Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json

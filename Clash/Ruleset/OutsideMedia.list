@@ -125,20 +125,19 @@ DOMAIN-SUFFIX,nycvod.com
 DOMAIN-SUFFIX,odivod.com
 DOMAIN-SUFFIX,physvod.com
 DOMAIN-SUFFIX,pupvod.com
-DOMAIN-SUFFIX,saohuo.tv
 DOMAIN-SUFFIX,shapp.us
-DOMAIN-SUFFIX,shdy2.com
 DOMAIN-SUFFIX,subaibai.com
 DOMAIN-SUFFIX,subaibai.vip
-DOMAIN-SUFFIX,subaibaiys.com
 DOMAIN-SUFFIX,zhaifufabu.com
 DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
+
+
 # 其它采集站
 # Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
 # Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
-# 未包含视频播放CDN服务器  Video CDNs are not included
+# 未包含视频播放和图片CDN服务器
 DOMAIN-SUFFIX,1080zyku.com
 DOMAIN-SUFFIX,360zy.com
 DOMAIN-SUFFIX,39kan.com
@@ -147,11 +146,25 @@ DOMAIN-SUFFIX,540734621.xyz
 DOMAIN-SUFFIX,911ysw.top
 DOMAIN-SUFFIX,ahjiuman.com
 DOMAIN-SUFFIX,aliys.cn
+DOMAIN-SUFFIX,api.niuniuzy.me
+DOMAIN-SUFFIX,api.ukuapi.com
+DOMAIN-SUFFIX,api.wujinapi.com
+DOMAIN-SUFFIX,api.xinlangapi.com
+DOMAIN-SUFFIX,api.ylzy.me
 DOMAIN-SUFFIX,apibdzy.com
 DOMAIN-SUFFIX,apilyzy.com
 DOMAIN-SUFFIX,apittzy.com
 DOMAIN-SUFFIX,apiyhzy.com
+DOMAIN-SUFFIX,app.dybfun.com
 DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,caiji.kczyapi.com
+DOMAIN-SUFFIX,caiji.moduapi.cc
+DOMAIN-SUFFIX,cj.ffzyapi.com
+DOMAIN-SUFFIX,cj.json.icu
+DOMAIN-SUFFIX,cj.lziapi.com
+DOMAIN-SUFFIX,cj.vodimg.top
+DOMAIN-SUFFIX,cj.yayazy.net
+DOMAIN-SUFFIX,collect.wolongzyw.com
 DOMAIN-SUFFIX,cttv.vip
 DOMAIN-SUFFIX,dybfun.com
 DOMAIN-SUFFIX,feidaozy.com
@@ -160,6 +173,7 @@ DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,fszy1.com
 DOMAIN-SUFFIX,guangsuapi.com
+DOMAIN-SUFFIX,gwcms.cttv.vip
 DOMAIN-SUFFIX,heimuer.tv
 DOMAIN-SUFFIX,heimuer.xyz
 DOMAIN-SUFFIX,hhzyapi.com
@@ -169,7 +183,9 @@ DOMAIN-SUFFIX,hw8.live
 DOMAIN-SUFFIX,ikunzyapi.com
 DOMAIN-SUFFIX,infuseku.xyz
 DOMAIN-SUFFIX,inmi.app
+DOMAIN-SUFFIX,iqyi.xiaohuangrentv.com
 DOMAIN-SUFFIX,jinyingzy.com
+DOMAIN-SUFFIX,json.heimuer.xyz
 DOMAIN-SUFFIX,json.icu
 DOMAIN-SUFFIX,jszyapi.com
 DOMAIN-SUFFIX,kczyapi.com
@@ -181,11 +197,11 @@ DOMAIN-SUFFIX,leshiapi.com
 DOMAIN-SUFFIX,leshizyapi.com
 DOMAIN-SUFFIX,lililili.cc
 DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,m3u8.apiyhzy.com
 DOMAIN-SUFFIX,mdzyapi.com
 DOMAIN-SUFFIX,moduapi.cc
 DOMAIN-SUFFIX,moduzy.com
 DOMAIN-SUFFIX,niuniuzy.me
-DOMAIN-SUFFIX,nkvod.com
 DOMAIN-SUFFIX,okzyw9.com
 DOMAIN-SUFFIX,p2100.net
 DOMAIN-SUFFIX,qhzyapi.com
@@ -211,11 +227,9 @@ DOMAIN-SUFFIX,ykapi.net
 DOMAIN-SUFFIX,ylzy.me
 DOMAIN-SUFFIX,zpsps.com
 DOMAIN-SUFFIX,zuidazy.me
-DOMAIN,api.niuniuzy.me
-DOMAIN,api.zeqaht.com
+DOMAIN-SUFFIX,zy.xiaomaomi.cc
 DOMAIN,cj.yayazy.net
 DOMAIN,gwcms.cttv.vip
-DOMAIN,hd.suxun.site
 DOMAIN,iqyi.xiaohuangrentv.com
 DOMAIN,ppvod01.blbtgg.com
 DOMAIN,ys9.cttv.vip

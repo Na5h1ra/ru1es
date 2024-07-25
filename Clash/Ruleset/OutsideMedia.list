@@ -166,7 +166,7 @@ DOMAIN-SUFFIX,duanjutt.tv
 ## timimg
 DOMAIN-SUFFIX,timizy.top
 ## 其它
-# DOMAIN,dsakf23665.com
+DOMAIN,dsakf23665.com
 
 # 其它采集站
 # Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
@@ -337,6 +337,7 @@ DOMAIN-SUFFIX,zimuxia.cn
 # 刮削 & 海报 & 周边 & 影音动漫评分
 # Apple 流媒体封面获取     https://bendodson.com/projects/itunes-artwork-finder
 # Y0utube 视频区域限制查询  https://polsy.org.uk/stuff/ytrestrict.cgi
+# 美剧背景音乐查询 https://www.tunefind.com
 DOMAIN-SUFFIX,allmusic.com
 DOMAIN-SUFFIX,anidb.net
 DOMAIN-SUFFIX,anilist.co
@@ -544,7 +545,7 @@ DOMAIN-SUFFIX,yuc.wiki
 DOMAIN-SUFFIX,zfsya.com
 
 
-# GalGame & 黄油
+# GalGame 相关
 DOMAIN,yinghu.netlify.app
 DOMAIN-SUFFIX,05fx.glitch.me
 DOMAIN-SUFFIX,2dfan.com

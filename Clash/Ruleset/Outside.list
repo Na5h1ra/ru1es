@@ -137,6 +137,11 @@ DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,yckceo1.com
 DOMAIN,demo.unlock-music.dev
 DOMAIN,um-react.netlify.app
+## 邮票目录
+DOMAIN-SUFFIX,chinesestamp.cn
+DOMAIN-SUFFIX,stampworld.com
+## 世界各国货币样式目录
+DOMAIN-SUFFIX,numista.com
 
 
 

@@ -404,7 +404,11 @@ DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,bimiacg.icu
+DOMAIN-SUFFIX,bimiacg10.net
+DOMAIN-SUFFIX,bimiacg11.net
+DOMAIN-SUFFIX,bimiacg12.net
 DOMAIN-SUFFIX,bimiacg4.net
+DOMAIN-SUFFIX,bimiacg5.net
 DOMAIN-SUFFIX,catw.moe
 DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
@@ -412,10 +416,13 @@ DOMAIN-SUFFIX,cycanime.com
 DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,dm84.me
 DOMAIN-SUFFIX,dm84.site
+DOMAIN-SUFFIX,dmla7.com
+DOMAIN-SUFFIX,dmmiku.com
 DOMAIN-SUFFIX,dogsfun.fun
 DOMAIN-SUFFIX,dqsj.top
 DOMAIN-SUFFIX,eacg.net
 DOMAIN-SUFFIX,eacg1.com
+DOMAIN-SUFFIX,ebb.io
 DOMAIN-SUFFIX,fanshudm.com
 DOMAIN-SUFFIX,fantuandm.com
 DOMAIN-SUFFIX,fantuantv.com
@@ -442,6 +449,7 @@ DOMAIN-SUFFIX,lmm52.com
 DOMAIN-SUFFIX,lvfan.fun
 DOMAIN-SUFFIX,mandaom.com
 DOMAIN-SUFFIX,mandaow.com
+DOMAIN-SUFFIX,mfan.tv
 DOMAIN-SUFFIX,mgnacg.com
 DOMAIN-SUFFIX,mikudm.com
 DOMAIN-SUFFIX,mitang.tv
@@ -453,6 +461,7 @@ DOMAIN-SUFFIX,mutefun.tv
 DOMAIN-SUFFIX,mwcy.net
 DOMAIN-SUFFIX,mxdm.tv
 DOMAIN-SUFFIX,mxdm4.com
+DOMAIN-SUFFIX,myself-bbs.com
 DOMAIN-SUFFIX,nicohub.cc
 DOMAIN-SUFFIX,nicohub.net
 DOMAIN-SUFFIX,nicotv.bet
@@ -630,6 +639,7 @@ DOMAIN,zi0.cc
 # Some Sources are From https://github.com/keiyoushi/extensions
 DOMAIN-SUFFIX,177pica.com
 DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,2animx.com
 DOMAIN-SUFFIX,92mh.com
 DOMAIN-SUFFIX,ahri8.top
 DOMAIN-SUFFIX,bakamh.com

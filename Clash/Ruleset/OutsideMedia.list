@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
 DOMAIN-SUFFIX,4kvm.site
+DOMAIN-SUFFIX,993dy.com
 DOMAIN-SUFFIX,bei5dy.com
 DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,bttwo.net
@@ -103,6 +104,7 @@ DOMAIN-SUFFIX,duboku.io
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,fuju1.tv
 DOMAIN-SUFFIX,gaze.run
+DOMAIN-SUFFIX,ghw9zwp5.com
 DOMAIN-SUFFIX,gimy.ai
 DOMAIN-SUFFIX,hanjukankan.com
 DOMAIN-SUFFIX,histar.tv
@@ -271,6 +273,7 @@ DOMAIN,yyff.540734621.xyz
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop
+DOMAIN-SUFFIX,2bt0.com
 DOMAIN-SUFFIX,ainunu.com
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,bqrdh.com
@@ -286,9 +289,11 @@ DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,hdmoli.pro
+DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
 DOMAIN-SUFFIX,meijumi.net
+DOMAIN-SUFFIX,mini4k.com
 DOMAIN-SUFFIX,mj028.cn
 DOMAIN-SUFFIX,mjmtv.top
 DOMAIN-SUFFIX,mjmtv.vip
@@ -299,14 +304,15 @@ DOMAIN-SUFFIX,pan666.net
 DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,pioz.cn
+DOMAIN-SUFFIX,pkmkv.com
 DOMAIN-SUFFIX,ppxzy.ink
 DOMAIN-SUFFIX,res.yunpan.win
 DOMAIN-SUFFIX,rrdynb.com
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,star2.cn
 DOMAIN-SUFFIX,susuifa.com
-DOMAIN-SUFFIX,tnhzmz.com
 DOMAIN-SUFFIX,t-rex.tzfile.com
+DOMAIN-SUFFIX,tnhzmz.com
 DOMAIN-SUFFIX,ttysfx.com
 DOMAIN-SUFFIX,tudou.lvdoui.top
 DOMAIN-SUFFIX,tvku.vip
@@ -333,6 +339,7 @@ DOMAIN-SUFFIX,yunpan1.cc
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn
+
 
 # 刮削 & 海报 & 周边 & 影音动漫评分
 # Apple 流媒体封面获取     https://bendodson.com/projects/itunes-artwork-finder
@@ -455,6 +462,7 @@ DOMAIN-SUFFIX,mikudm.com
 DOMAIN-SUFFIX,mitang.tv
 DOMAIN-SUFFIX,moefun.net
 DOMAIN-SUFFIX,mtacg.tv
+DOMAIN-SUFFIX,mute01.com
 DOMAIN-SUFFIX,mutedm.com
 DOMAIN-SUFFIX,mutefun.cn
 DOMAIN-SUFFIX,mutefun.tv

@@ -56,12 +56,12 @@ IP-ASN,20473,no-resolve
 
 # Copilot
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-05-30 & 2024-06-02
+# Source Updated Time: 2024-07-25 & 2024-07-28
 DOMAIN,api.githubcopilot.com
 DOMAIN,bat.bing.com
 DOMAIN,c.bing.com
-DOMAIN,copilot.microsoft.com
 DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN,www.bingapis.com
@@ -69,7 +69,7 @@ DOMAIN-SUFFIX,clarity.ms
 
 # Gemini
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-05-30 & 2024-06-02
+# Source Updated Time: 2024-07-25 & 2024-07-28
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
 DOMAIN,aistudio.google.com
@@ -81,7 +81,7 @@ DOMAIN,makersuite.google.com
 
 # Claude
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-05-30 & 2024-06-02
+# Source Updated Time: 2024-07-25 & 2024-07-28
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 IP-CIDR,160.79.104.0/23,no-resolve
@@ -89,13 +89,13 @@ IP-CIDR6,2607:6bc0::/48,no-resolve
 
 # JetBrains AI
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-05-30 & 2024-06-02
+# Source Updated Time: 2024-07-25 & 2024-07-28
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 
 # Meta
 # Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-05-30 & 2024-06-02
+# Source Updated Time: 2024-07-25 & 2024-07-28
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 

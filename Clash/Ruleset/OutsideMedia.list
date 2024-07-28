@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-07-28
+# Updated: 2024-07-29
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -484,8 +484,8 @@ DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
 
 # Emby
-DOMAIN-SUFFIX,i109.com
-DOMAIN-SUFFIX,magpie.bond
+## DOMAIN-SUFFIX,i109.com
+## DOMAIN-SUFFIX,magpie.bond
 
 
 # Anime 相关
@@ -816,6 +816,17 @@ DOMAIN-SUFFIX,firstory.me
 DOMAIN-SUFFIX,typlog.com
 DOMAIN-SUFFIX,typlog.io
 DOMAIN-SUFFIX,soundcloud.com
+
+# Pixman
+# https://hub.docker.com/r/pixman/pixman
+# Source: https://pixman.io/topics/17
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,thetvapp.to
+
 
 # 直播平台
 # Twitch

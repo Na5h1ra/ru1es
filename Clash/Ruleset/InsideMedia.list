@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,gcable.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,yangshipin.cn
+IP-CIDR,183.206.0.0/15,no-resolve
+IP-CIDR,27.36.0.0/14,no-resolve
+IP-CIDR,183.238.66.0/24,no-resolve

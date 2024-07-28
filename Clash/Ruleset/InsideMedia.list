@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2024-07-28
+# Updated: 2024-07-29
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,gcable.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,yangshipin.cn

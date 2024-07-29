@@ -821,6 +821,7 @@ DOMAIN-SUFFIX,soundcloud.com
 # https://hub.docker.com/r/pixman/pixman
 # Source: https://pixman.io/topics/17
 DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,ofiii.com

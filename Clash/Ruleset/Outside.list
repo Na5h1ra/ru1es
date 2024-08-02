@@ -4,6 +4,7 @@
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
 # stripe.com ,有些网站也用stripe支付,可能会导致其它网站出问题
+# 单独使用api没问题，但使用客户端可能需要Outside和OutsideForceUS两个规则使用相同的节点
 # 上述域名在AI.list中已注释,有需要可将AI.list中此三行去除,并将此处注释掉
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,stripe.com
@@ -11,6 +12,7 @@ DOMAIN,static.cloudflareinsights.com
 
 # GPT api 转发站
 DOMAIN-SUFFIX,0o0.live
+DOMAIN-SUFFIX,ai.jaze.top
 DOMAIN-SUFFIX,aigcapi.io
 DOMAIN-SUFFIX,aigcapi.me
 DOMAIN-SUFFIX,aihubmix.com
@@ -80,7 +82,6 @@ DOMAIN-KEYWORD,white-plus
 
 # Airport
 DOMAIN-SUFFIX,flexline0.com
-DOMAIN-SUFFIX,flexline0.com
 DOMAIN-SUFFIX,flexline1.com
 DOMAIN-SUFFIX,oxycontin.top
 DOMAIN-SUFFIX,stentvessel.club
@@ -128,6 +129,7 @@ DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,picsum.photos
+DOMAIN-SUFFIX,send.djazz.se
 DOMAIN-SUFFIX,snipaste.com
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,yckceo.com

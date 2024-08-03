@@ -119,6 +119,9 @@ DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN,v2ex.appspot.com
 
+# Anki
+DOMAIN-SUFFIX,ankiweb.net
+
 # Others
 DOMAIN-SUFFIX,bfvvs.com
 DOMAIN-SUFFIX,e6ex.com

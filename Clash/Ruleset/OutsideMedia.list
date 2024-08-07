@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-08-03
+# Updated: 2024-08-07
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -493,9 +493,10 @@ DOMAIN-SUFFIX,senfun.in
 DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xiuluodm.com
 
-# Emby
+# Emby & Jellyfin & Navidrome
 ## DOMAIN-SUFFIX,i109.com
 ## DOMAIN-SUFFIX,magpie.bond
+DOMAIN-SUFFIX,mefun.org
 
 
 # Anime 相关

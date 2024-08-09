@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2024-08-01
+# Updated: 2024-08-09
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,novipnoad.net
 DOMAIN-SUFFIX,4khdr.cn
 
 # 影视相关
+DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,goodiptv.club
 DOMAIN-SUFFIX,sp-flv.com
 

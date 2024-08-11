@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-08-10
+# Updated: 2024-08-11
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,czzy.tv
 DOMAIN-SUFFIX,czzy22.com
 DOMAIN-SUFFIX,czzy55.com
 DOMAIN-SUFFIX,czzy66.com
-## DOMAIN-SUFFIX,czzy77.com
+DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzy88.com
 
 # 在线之家

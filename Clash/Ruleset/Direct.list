@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2024-07-28
+# Updated: 2024-08-12
 
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
@@ -9,14 +9,14 @@ DOMAIN-SUFFIX,speedtest.cn
 # Source: https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6
 # Source: https://status.1panel.top/status/docker
 DOMAIN,atomhub.openatom.cn
-DOMAIN,docker.1panel.dev
+## DOMAIN,docker.1panel.dev //国内速度有点慢
 DOMAIN,docker.anyhub.us.kg
 DOMAIN,docker.awsl9527.cn
 DOMAIN,docker.ckyl.me
 DOMAIN,docker.hpcloud.cloud
 DOMAIN,docker.m.daocloud.io
 DOMAIN,dockerhub.jobcher.com
-DOMAIN,hub.rat.dev
+## DOMAIN,hub.rat.dev //国内速度有点慢
 DOMAIN-SUFFIX,1panel.live
 DOMAIN-SUFFIX,1panel.top
 DOMAIN-SUFFIX,1panel.wiki

@@ -55,6 +55,9 @@ DOMAIN-SUFFIX,mcr.microsoft.com
 DOMAIN-SUFFIX,nvcr.io
 ## Quay Container Registry
 DOMAIN-SUFFIX,quay.io
+## 国内镜像站
+DOMAIN,docker.1panel.dev
+DOMAIN,hub.rat.dev
 
 # Developer
 DOMAIN-SUFFIX,centos.org

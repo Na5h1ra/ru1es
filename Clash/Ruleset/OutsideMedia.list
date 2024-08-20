@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-08-11
+# Updated: 2024-08-20
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -168,6 +168,16 @@ DOMAIN-SUFFIX,duanjutt.tv
 # DOMAIN-SUFFIX,kmeiju.cc
 ## timimg
 DOMAIN-SUFFIX,timizy.top
+## 追憶
+DOMAIN,app.alovo.cn
+## bilfun
+DOMAIN-SUFFIX,bilfun.cc
+## 星芽短劇
+DOMAIN-SUFFIX,whjzjx.cn
+## 小蘋果
+DOMAIN,tipu.xjqxz.top
+## 瓜子影視
+DOMAIN,zaqohu.com
 ## 其它
 DOMAIN,dsakf23665.com
 

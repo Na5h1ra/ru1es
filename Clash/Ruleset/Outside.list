@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2024-08-24
+# Updated: 2024-08-30
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -54,17 +54,33 @@ DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,keka.io
 ## Keyboard Maestro
 DOMAIN-SUFFIX,keyboardmaestro.com
+## PopClip
+DOMAIN-SUFFIX,popclip.app
+DOMAIN-SUFFIX,pilotmoon.com
+## Zotero
+DOMAIN-SUFFIX,zotero.org
+
+# Windows软件
+## balenaEtcher
+DOMAIN-SUFFIX,balena.io
+## CarotDAV
+DOMAIN-SUFFIX,rei.to
+## CR TubeGet视频下载器
+DOMAIN-SUFFIX,cr-soft.net
+## DangoTranslator 团子翻译器
+DOMAIN,translator.dango.cloud
+## Everything
+DOMAIN-SUFFIX,voidtools.com
+## FlingTrainer
+DOMAIN-SUFFIX,flingtrainer.com
+## MobaXterm
+DOMAIN-SUFFIX,mobatek.net
 ## MoonFM
 DOMAIN-SUFFIX,moon.fm
 ## Mountain Duck
 DOMAIN-SUFFIX,mountainduck.io
-## PopClip
-DOMAIN-SUFFIX,popclip.app
-DOMAIN-SUFFIX,pilotmoon.com
 ## Snipaste
 DOMAIN-SUFFIX,snipaste.com
-## Zotero
-DOMAIN-SUFFIX,zotero.org
 
 
 # Docker & 容器站
@@ -171,7 +187,6 @@ DOMAIN-SUFFIX,macapp.org.cn
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,send.djazz.se
 DOMAIN-SUFFIX,sleazyfork.org
-DOMAIN-SUFFIX,snipaste.com
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,yckceo1.com

@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2024-08-12
+# Updated: 2024-08-30
 
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
@@ -17,7 +17,7 @@ DOMAIN,docker.hpcloud.cloud
 DOMAIN,docker.m.daocloud.io
 DOMAIN,dockerhub.jobcher.com
 ## DOMAIN,hub.rat.dev //国内速度有点慢
-DOMAIN-SUFFIX,1panel.live
+## DOMAIN-SUFFIX,1panel.live //国内速度有点慢
 DOMAIN-SUFFIX,1panel.top
 DOMAIN-SUFFIX,1panel.wiki
 DOMAIN-SUFFIX,dockerhub.icu

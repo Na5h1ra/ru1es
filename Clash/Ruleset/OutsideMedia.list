@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-08-29
+# Updated: 2024-09-05
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -112,13 +112,18 @@ DOMAIN-SUFFIX,hanjukankan.com
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX,keke1.app
 DOMAIN-SUFFIX,keke10.app
 DOMAIN-SUFFIX,keke12.com
 DOMAIN-SUFFIX,keke13.com
 DOMAIN-SUFFIX,keke14.com
+DOMAIN-SUFFIX,keke7.app
 DOMAIN-SUFFIX,keke9.app
 DOMAIN-SUFFIX,keke9.com
 DOMAIN-SUFFIX,kekys.com
+DOMAIN-SUFFIX,kkys01.com
+DOMAIN-SUFFIX,kkys02.com
+DOMAIN-SUFFIX,kkys03.com
 DOMAIN-SUFFIX,kmeiju.cc
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
@@ -435,12 +440,15 @@ DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
 DOMAIN-SUFFIX,cycanime.com
 DOMAIN-SUFFIX,cycdm01.top
+DOMAIN-SUFFIX,dm.g916.com
 DOMAIN-SUFFIX,dm84.me
 DOMAIN-SUFFIX,dm84.site
+DOMAIN-SUFFIX,dm84.top
 DOMAIN-SUFFIX,dm84.tv
 DOMAIN-SUFFIX,dmbus.cc
 DOMAIN-SUFFIX,dmla7.com
 DOMAIN-SUFFIX,dmmiku.com
+DOMAIN-SUFFIX,dmmiku.net
 DOMAIN-SUFFIX,dogsfun.fun
 DOMAIN-SUFFIX,dongman8.cc
 DOMAIN-SUFFIX,dqsj.top
@@ -458,6 +466,8 @@ DOMAIN-SUFFIX,gugufan.com
 DOMAIN-SUFFIX,gxdm.me
 DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,huazidm.com
+DOMAIN-SUFFIX,imandao.org
+DOMAIN-SUFFIX,index.qg50.com
 DOMAIN-SUFFIX,invbo.top
 DOMAIN-SUFFIX,jibi.cc
 DOMAIN-SUFFIX,k6dm.com
@@ -470,8 +480,11 @@ DOMAIN-SUFFIX,kudm8.com
 DOMAIN-SUFFIX,lffun.com
 DOMAIN-SUFFIX,lldm.net
 DOMAIN-SUFFIX,lmm52.com
+DOMAIN-SUFFIX,lmm55.com
+DOMAIN-SUFFIX,lmm88.com
 DOMAIN-SUFFIX,lvfan.fun
 DOMAIN-SUFFIX,mandaom.com
+DOMAIN-SUFFIX,mandaoo.com
 DOMAIN-SUFFIX,mandaow.com
 DOMAIN-SUFFIX,mfan.tv
 DOMAIN-SUFFIX,mgnacg.com
@@ -501,7 +514,23 @@ DOMAIN-SUFFIX,qdm66.com
 DOMAIN-SUFFIX,qkan9.com
 DOMAIN-SUFFIX,senfun.in
 DOMAIN-SUFFIX,xfani.com
+DOMAIN-SUFFIX,xgcartoon.com
 DOMAIN-SUFFIX,xiuluodm.com
+DOMAIN-SUFFIX,ylsvid.com
+
+
+# (在线站及动漫站) 视频与图片CDN
+DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,image2.imgbox.com
+DOMAIN-SUFFIX,img-cos.mandaoo.com
+DOMAIN-SUFFIX,img-dm.hs.oume.cc
+DOMAIN-SUFFIX,img.ffzy888.com
+DOMAIN-SUFFIX,pic.image8899.net
+DOMAIN-SUFFIX,pic.lzzypic.com
+DOMAIN-SUFFIX,play.xfvod.pro
+DOMAIN-SUFFIX,s2.ax1x.com
+DOMAIN-SUFFIX,vip.ffzy-play2.com
+
 
 # Emby & Jellyfin & Navidrome
 ## DOMAIN-SUFFIX,i109.com
@@ -723,6 +752,10 @@ DOMAIN-SUFFIX,jmapinode.biz
 DOMAIN-SUFFIX,jmapinode.vip
 DOMAIN-SUFFIX,jmapinode.xyz
 DOMAIN-SUFFIX,jmapinodeudzn.xyz
+DOMAIN-SUFFIX,jmapiproxyxxx.one
+DOMAIN-SUFFIX,jmeadpoolcdn.life
+DOMAIN-SUFFIX,jmeadpoolcdn.one
+DOMAIN-SUFFIX,jmfreedomproxy.xyz
 DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,liumanhua.com

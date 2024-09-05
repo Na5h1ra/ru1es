@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,yjys.me
 DOMAIN-SUFFIX,yjys02.com
 DOMAIN-SUFFIX,yjys.top
 
-
 # Libvio
 DOMAIN-SUFFIX,ifabu.vip
 DOMAIN-SUFFIX,libfabu.com
@@ -69,11 +68,21 @@ DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,libvio.com
 DOMAIN-SUFFIX,libvio.fun
 DOMAIN-SUFFIX,libvio.la
+DOMAIN-SUFFIX,libvio.link
 DOMAIN-SUFFIX,libvio.me
 DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,libvio.pw
 DOMAIN-SUFFIX,libvio.vip
 DOMAIN-SUFFIX,libviohd.com
+
+# 独播库
+DOMAIN-SUFFIX,dbkcc.cc
+DOMAIN-SUFFIX,dubocool.com
+DOMAIN-SUFFIX,duboku.co
+DOMAIN-SUFFIX,duboku.net
+DOMAIN-SUFFIX,duboku.tv
+DOMAIN-SUFFIX,dubokutv.supertws.com
+DOMAIN-SUFFIX,pub.duboku.net
 
 # 海外看
 DOMAIN-SUFFIX,haiwaikan.com
@@ -149,7 +158,7 @@ DOMAIN-SUFFIX,zhuijumi.cc
 ## 文才
 DOMAIN,api.zeqaht.com
 ## 速訊影院
-DOMAIN,hd.suxun.site
+DOMAIN-SUFFIX,suxun.site
 ## 兩個BT
 # DOMAIN-SUFFIX,bttwo.net
 # DOMAIN-SUFFIX,bttwo.org
@@ -185,10 +194,12 @@ DOMAIN-SUFFIX,bilfun.cc
 DOMAIN-SUFFIX,whjzjx.cn
 ## 小蘋果
 DOMAIN,item.xpgtv.xyz
+## 小螞蟻
+DOMAIN,dsakf23665.com
 ## 瓜子影視
 DOMAIN,zaqohu.com
 ## 其它
-DOMAIN,dsakf23665.com
+
 
 # 其它采集站
 # Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
@@ -524,16 +535,45 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
+DOMAIN-SUFFIX,api.dandanplay.net
+DOMAIN-SUFFIX,c.xpgtv.net
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,europe.olemovienews.com
+DOMAIN-SUFFIX,fb.libviofabu.com
+DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,image2.imgbox.com
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,img-dm.hs.oume.cc
+DOMAIN-SUFFIX,img.bfzypic.com
 DOMAIN-SUFFIX,img.ffzy888.com
+DOMAIN-SUFFIX,img.py1080p.com
+DOMAIN-SUFFIX,img.zzyimg.com
+DOMAIN-SUFFIX,jboku.com
+DOMAIN-SUFFIX,kdubo.com
+DOMAIN-SUFFIX,mdubo.com
+DOMAIN-SUFFIX,media-oss.bytegiftia.top
+DOMAIN-SUFFIX,ndubo.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com
+DOMAIN-SUFFIX,play.vplay.life
 DOMAIN-SUFFIX,play.xfvod.pro
+DOMAIN-SUFFIX,qboku.com
+DOMAIN-SUFFIX,qdubo.com
 DOMAIN-SUFFIX,s2.ax1x.com
+DOMAIN-SUFFIX,tdubo.com
+DOMAIN-SUFFIX,thehanju.com
+DOMAIN-SUFFIX,tv.gboku.com
+DOMAIN-SUFFIX,v2.myvideos.info
+DOMAIN-SUFFIX,vboku.com
+DOMAIN-SUFFIX,vdabo.com
+DOMAIN-SUFFIX,vdubo.com
 DOMAIN-SUFFIX,vip.ffzy-play2.com
+DOMAIN-SUFFIX,vvddoo.com
+DOMAIN-SUFFIX,wangchuanxin.top
+DOMAIN-SUFFIX,wboku.com
+DOMAIN-SUFFIX,wdubo.com
+DOMAIN-SUFFIX,xdubo.com
+DOMAIN-SUFFIX,yboku.com
 
 
 # Emby & Jellyfin & Navidrome

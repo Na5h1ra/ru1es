@@ -383,6 +383,7 @@ DOMAIN-SUFFIX,anime-planet.com
 DOMAIN-SUFFIX,animenewsnetwork.com
 DOMAIN-SUFFIX,bendodson.com
 DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,discogs.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,imdb.com
@@ -535,7 +536,6 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
-DOMAIN-SUFFIX,api.dandanplay.net
 DOMAIN-SUFFIX,c.xpgtv.net
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
 DOMAIN-SUFFIX,europe.olemovienews.com
@@ -551,7 +551,7 @@ DOMAIN-SUFFIX,img.zzyimg.com
 DOMAIN-SUFFIX,jboku.com
 DOMAIN-SUFFIX,kdubo.com
 DOMAIN-SUFFIX,mdubo.com
-DOMAIN-SUFFIX,media-oss.bytegiftia.top
+DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,ndubo.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com

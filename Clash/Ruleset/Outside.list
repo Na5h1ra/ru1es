@@ -35,7 +35,9 @@ DOMAIN-SUFFIX,peiqi.shop
 DOMAIN-SUFFIX,unraid.net
 
 
-# Mac软件
+# Mac/iOS/iPadOS软件
+## Aisten播客学语言
+DOMAIN-SUFFIX,aisten-d1.josscii.top
 ## Alfred
 DOMAIN-SUFFIX,alfredapp.com
 ## CharlieMonroe系列软件 (Downie & Permute)

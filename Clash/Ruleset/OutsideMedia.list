@@ -536,10 +536,13 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
+DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,c.xpgtv.net
+DOMAIN-SUFFIX,cboku.com
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
 DOMAIN-SUFFIX,europe.olemovienews.com
 DOMAIN-SUFFIX,fb.libviofabu.com
+DOMAIN-SUFFIX,gboku.com
 DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,image2.imgbox.com
 DOMAIN-SUFFIX,img-cos.mandaoo.com
@@ -549,10 +552,12 @@ DOMAIN-SUFFIX,img.ffzy888.com
 DOMAIN-SUFFIX,img.py1080p.com
 DOMAIN-SUFFIX,img.zzyimg.com
 DOMAIN-SUFFIX,jboku.com
+DOMAIN-SUFFIX,kboku.com
 DOMAIN-SUFFIX,kdubo.com
 DOMAIN-SUFFIX,mdubo.com
-DOMAIN-SUFFIX,bytegiftia.top
+DOMAIN-SUFFIX,nboku.com
 DOMAIN-SUFFIX,ndubo.com
+DOMAIN-SUFFIX,pboku.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com
 DOMAIN-SUFFIX,play.vplay.life
@@ -563,6 +568,7 @@ DOMAIN-SUFFIX,s2.ax1x.com
 DOMAIN-SUFFIX,tdubo.com
 DOMAIN-SUFFIX,thehanju.com
 DOMAIN-SUFFIX,tv.gboku.com
+DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,v2.myvideos.info
 DOMAIN-SUFFIX,vboku.com
 DOMAIN-SUFFIX,vdabo.com

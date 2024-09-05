@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevod7.com
 
 # 哔嘀影视
+DOMAIN,yjys.cc.ua
+DOMAIN,yjys.inf.ua
 DOMAIN-SUFFIX,52bdys.com
 DOMAIN-SUFFIX,bde4.icu
 DOMAIN-SUFFIX,bdys.me
@@ -55,7 +57,9 @@ DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
 DOMAIN-SUFFIX,yjys.me
+DOMAIN-SUFFIX,yjys02.com
 DOMAIN-SUFFIX,yjys.top
+
 
 # Libvio
 DOMAIN-SUFFIX,ifabu.vip

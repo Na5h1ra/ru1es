@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2024-09-06
+# Updated: 2024-09-07
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,keka.io
 ## Keyboard Maestro
 DOMAIN-SUFFIX,keyboardmaestro.com
+## OrbStack
+DOMAIN-SUFFIX,orbstack.dev
 ## PopClip
 DOMAIN-SUFFIX,popclip.app
 DOMAIN-SUFFIX,pilotmoon.com

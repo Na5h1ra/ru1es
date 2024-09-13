@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-09-11
+# Updated: 2024-09-13
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -90,7 +90,7 @@ DOMAIN-SUFFIX,haiwaikan.com
 # 其它在线站
 ## DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,3ayy.com
-DOMAIN-SUFFIX,4k-av.com
+# DOMAIN-SUFFIX,4k-av.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro

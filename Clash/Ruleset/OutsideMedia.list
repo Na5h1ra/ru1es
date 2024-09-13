@@ -90,7 +90,7 @@ DOMAIN-SUFFIX,haiwaikan.com
 # 其它在线站
 ## DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,3ayy.com
-# DOMAIN-SUFFIX,4k-av.com
+DOMAIN-SUFFIX,4k-av.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
@@ -484,6 +484,7 @@ DOMAIN-SUFFIX,9ciyuan.com
 DOMAIN-SUFFIX,acgfta.com
 DOMAIN-SUFFIX,acgftb.com
 DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,anfuns.org
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,aowu.tv
@@ -584,6 +585,8 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
+DOMAIN-SUFFIX,api.9cec79d.com
+DOMAIN-SUFFIX,api.zaqohu.com
 DOMAIN-SUFFIX,bfikuncdn.com
 DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,c.xpgtv.net

@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,openkey.cloud
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,peiqi.shop
 
+# Stable Diffusion相关
+DOMAIN-SUFFIX,civitai.com
+
 # Unraid
 DOMAIN-SUFFIX,unraid.net
 

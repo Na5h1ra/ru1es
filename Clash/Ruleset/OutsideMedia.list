@@ -102,11 +102,6 @@ DOMAIN-SUFFIX,6wyy.com
 DOMAIN-SUFFIX,993dy.com
 DOMAIN-SUFFIX,bei5dy.com
 DOMAIN-SUFFIX,boluoxiaozhan.com
-DOMAIN-SUFFIX,bttwo.me
-DOMAIN-SUFFIX,bttwo.net
-DOMAIN-SUFFIX,bttwo.org
-DOMAIN-SUFFIX,bttwo.vip
-DOMAIN-SUFFIX,bttwoo.com
 DOMAIN-SUFFIX,cddys.me
 DOMAIN-SUFFIX,cdnkan.top
 DOMAIN-SUFFIX,cfkj86.com
@@ -184,10 +179,11 @@ DOMAIN,api.zeqaht.com
 ## 速訊影院
 DOMAIN-SUFFIX,suxun.site
 ## 兩個BT
-# DOMAIN-SUFFIX,bttwo.net
-# DOMAIN-SUFFIX,bttwo.org
-# DOMAIN-SUFFIX,bttwo.vip
-# DOMAIN-SUFFIX,bttwoo.com
+DOMAIN-SUFFIX,bttwo.me
+DOMAIN-SUFFIX,bttwo.net
+DOMAIN-SUFFIX,bttwo.org
+DOMAIN-SUFFIX,bttwo.vip
+DOMAIN-SUFFIX,bttwoo.com
 ## 燒火電影
 DOMAIN-SUFFIX,saohuo.org
 DOMAIN-SUFFIX,saohuo.tv

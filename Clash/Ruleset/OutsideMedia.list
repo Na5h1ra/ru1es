@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,kkys01.com
 DOMAIN-SUFFIX,kkys02.com
 DOMAIN-SUFFIX,kkys03.com
 DOMAIN-SUFFIX,kmeiju.cc
+DOMAIN-SUFFIX,kmeiju.com
 DOMAIN-SUFFIX,maayun.com
 DOMAIN-SUFFIX,mcoun.com
 DOMAIN-SUFFIX,mkvdo.com
@@ -202,8 +203,6 @@ DOMAIN-SUFFIX,nkvod.com
 # DOMAIN-SUFFIX,hanjukankan.com
 ## 短劇天堂
 DOMAIN-SUFFIX,duanjutt.tv
-## 美劇星球
-# DOMAIN-SUFFIX,kmeiju.cc
 ## 追憶
 DOMAIN,app.alovo.cn
 ## bilfun

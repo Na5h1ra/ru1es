@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-09-20
+# Updated: 2024-09-22
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -90,7 +90,6 @@ DOMAIN-SUFFIX,haiwaikan.com
 # 其它在线站
 ## DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,3ayy.com
-DOMAIN-SUFFIX,4k-av.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
@@ -104,7 +103,6 @@ DOMAIN-SUFFIX,bei5dy.com
 DOMAIN-SUFFIX,boluoxiaozhan.com
 DOMAIN-SUFFIX,cddys.me
 DOMAIN-SUFFIX,cdnkan.top
-DOMAIN-SUFFIX,cfkj86.com
 DOMAIN-SUFFIX,changmengyun.com
 DOMAIN-SUFFIX,colafun.com
 DOMAIN-SUFFIX,cupfox.app
@@ -137,7 +135,6 @@ DOMAIN-SUFFIX,ghw9zwp5.com
 DOMAIN-SUFFIX,gimy.ai
 DOMAIN-SUFFIX,hanjukankan.com
 DOMAIN-SUFFIX,histar.tv
-DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jinman6.com
 DOMAIN-SUFFIX,jiohub.top
 DOMAIN-SUFFIX,jqqzx.com
@@ -173,7 +170,7 @@ DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
 # 伪CMS源
-# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV
+# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
 ## 文才
 DOMAIN,api.zeqaht.com
 ## 速訊影院
@@ -195,17 +192,18 @@ DOMAIN-SUFFIX,subaibai.com
 DOMAIN-SUFFIX,subaibai.vip
 DOMAIN-SUFFIX,subaibaiys.com
 ## anfuns
-# DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,anfuns.org
 ## 耐看點播
 DOMAIN-SUFFIX,nkvod.com
+## NO視頻
+# DOMAIN-SUFFIX,novipnoad.net //已直连
 ## 韓劇看看
 # DOMAIN-SUFFIX,hanjukankan.com
 ## 短劇天堂
 DOMAIN-SUFFIX,duanjutt.tv
 ## 美劇星球
 # DOMAIN-SUFFIX,kmeiju.cc
-## timimg
-DOMAIN-SUFFIX,timizy.top
 ## 追憶
 DOMAIN,app.alovo.cn
 ## bilfun
@@ -218,7 +216,19 @@ DOMAIN,item.xpgtv.xyz
 DOMAIN,dsakf23665.com
 ## 瓜子影視
 DOMAIN,zaqohu.com
+## timimg
+DOMAIN-SUFFIX,timizy.top
+## 4k-av
+DOMAIN-SUFFIX,4k-av.com
+## 金牌影视
+DOMAIN-SUFFIX,cfkj86.com
+## 愛壹帆
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,yfsp.tv
 ## 其它
+DOMAIN-SUFFIX,infuseku.xyz
+
+
 
 
 # 其它采集站
@@ -282,7 +292,6 @@ DOMAIN-SUFFIX,huyaapi.com
 DOMAIN-SUFFIX,hw8.live
 DOMAIN-SUFFIX,ikunzyapi.com
 DOMAIN-SUFFIX,img.smdyw.top
-DOMAIN-SUFFIX,infuseku.xyz
 DOMAIN-SUFFIX,inmi.app
 DOMAIN-SUFFIX,iqyi.xiaohuangrentv.com
 DOMAIN-SUFFIX,jinyingzy.com
@@ -480,8 +489,6 @@ DOMAIN-SUFFIX,995dm.com
 DOMAIN-SUFFIX,9ciyuan.com
 DOMAIN-SUFFIX,acgfta.com
 DOMAIN-SUFFIX,acgftb.com
-DOMAIN-SUFFIX,anfuns.cc
-DOMAIN-SUFFIX,anfuns.org
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,aowu.tv

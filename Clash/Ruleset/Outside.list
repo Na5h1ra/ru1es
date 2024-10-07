@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2024-09-20
+# Updated: 2024-10-07
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,rat.dev
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,cr.l5d.io
 DOMAIN-SUFFIX,docker.elastic.co
+DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,git.886.be
 DOMAIN-SUFFIX,openjdk.org
 DOMAIN-SUFFIX,registry.jujucharms.com

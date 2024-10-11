@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-09-26
+# Updated: 2024-10-11
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -89,7 +89,7 @@ DOMAIN-SUFFIX,pub.duboku.net
 DOMAIN-SUFFIX,haiwaikan.com
 
 # 其它在线站
-## DOMAIN-SUFFIX,360kan.com
+## DOMAIN-SUFFIX,360kan.com //已直连
 DOMAIN-SUFFIX,3ayy.com
 DOMAIN-SUFFIX,4kvm.net
 DOMAIN-SUFFIX,4kvm.org
@@ -219,7 +219,7 @@ DOMAIN,zaqohu.com
 ## timimg
 DOMAIN-SUFFIX,timizy.top
 ## 4k-av
-DOMAIN-SUFFIX,4k-av.com
+# DOMAIN-SUFFIX,4k-av.com //已直连
 ## 金牌影视
 DOMAIN-SUFFIX,cfkj86.com
 ## 愛壹帆
@@ -368,6 +368,12 @@ DOMAIN-SUFFIX,dp88.net
 DOMAIN-SUFFIX,duanjuku.top
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,gying.in
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,gying.org
+DOMAIN-SUFFIX,gying.si
+DOMAIN-SUFFIX,gyg.la
+DOMAIN-SUFFIX,gyg.si
 DOMAIN-SUFFIX,hdmoli.pro
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
@@ -636,6 +642,7 @@ DOMAIN-SUFFIX,thehanju.com
 DOMAIN-SUFFIX,tv.gboku.com
 DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,ukzy.ukubf3.com
+DOMAIN-SUFFIX,v.damoli.pro
 DOMAIN-SUFFIX,v2.myvideos.info
 DOMAIN-SUFFIX,vboku.com
 DOMAIN-SUFFIX,vdabo.com

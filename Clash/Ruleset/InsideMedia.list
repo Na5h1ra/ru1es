@@ -1,12 +1,12 @@
 # NAME: InsideMedia
-# Updated: 2024-09-26
+# Updated: 2024-10-11
 
 
 # TVSeries & Movies & Anime & Media Servers
 
 # 在线站
 DOMAIN-SUFFIX,360kan.com
-# DOMAIN-SUFFIX,4k-av.com
+DOMAIN-SUFFIX,4k-av.com
 # DOMAIN-SUFFIX,czys.pro //已失效
 DOMAIN-SUFFIX,novipnoad.net
 

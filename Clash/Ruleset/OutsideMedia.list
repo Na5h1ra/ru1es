@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-10-11
+# Updated: 2024-10-23
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -49,25 +49,28 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevod7.com
 
 # 哔嘀影视
-DOMAIN,yjys.cc.ua
-DOMAIN,yjys.inf.ua
 DOMAIN-SUFFIX,52bdys.com
 DOMAIN-SUFFIX,bde4.icu
 DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
+DOMAIN-SUFFIX,yjys.cc.ua
+DOMAIN-SUFFIX,yjys.inf.ua
 DOMAIN-SUFFIX,yjys.me
-DOMAIN-SUFFIX,yjys02.com
 DOMAIN-SUFFIX,yjys.top
+DOMAIN-SUFFIX,yjys02.com
+DOMAIN-SUFFIX,yjys05.com
 
 # Libvio
 DOMAIN-SUFFIX,ifabu.vip
+DOMAIN-SUFFIX,iioo.me
 DOMAIN-SUFFIX,libfabu.com
 DOMAIN-SUFFIX,libvio.app
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,libvio.com
 DOMAIN-SUFFIX,libvio.fun
+DOMAIN-SUFFIX,libvio.in
 DOMAIN-SUFFIX,libvio.la
 DOMAIN-SUFFIX,libvio.link
 DOMAIN-SUFFIX,libvio.me
@@ -172,6 +175,7 @@ DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
 # 伪CMS源
+# 已逐步替换为内置js
 # Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
 ## 文才
 DOMAIN,api.zeqaht.com
@@ -225,8 +229,11 @@ DOMAIN-SUFFIX,cfkj86.com
 ## 愛壹帆
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
+## nmlive
+DOMAIN-SUFFIX,lemonlive.deno.dev
 ## 其它
 DOMAIN-SUFFIX,infuseku.xyz
+
 
 
 

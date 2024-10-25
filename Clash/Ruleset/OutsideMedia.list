@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-10-23
+# Updated: 2024-10-25
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -618,6 +618,7 @@ DOMAIN-SUFFIX,ylsvid.com
 # (在线站及动漫站) 视频与图片CDN
 DOMAIN-SUFFIX,api.9cec79d.com
 DOMAIN-SUFFIX,api.zaqohu.com
+DOMAIN-SUFFIX,bf.mmiku.net
 DOMAIN-SUFFIX,bfikuncdn.com
 DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,c.xpgtv.net
@@ -626,6 +627,7 @@ DOMAIN-SUFFIX,cdn.yinghuazy.xyz
 DOMAIN-SUFFIX,cj.lzcaiji.com
 DOMAIN-SUFFIX,europe.olemovienews.com
 DOMAIN-SUFFIX,fb.libviofabu.com
+DOMAIN-SUFFIX,fuckjapan.xingyu2.com
 DOMAIN-SUFFIX,gboku.com
 DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,hmrvideo.com
@@ -674,10 +676,13 @@ DOMAIN-SUFFIX,vip.ffzy-play2.com
 DOMAIN-SUFFIX,vip.ffzy-play5.com
 DOMAIN-SUFFIX,vip.ffzy-video.com
 DOMAIN-SUFFIX,vvddoo.com
+DOMAIN-SUFFIX,wakigfl.cnmdm.top
 DOMAIN-SUFFIX,wangchuanxin.top
 DOMAIN-SUFFIX,wboku.com
 DOMAIN-SUFFIX,wdubo.com
+DOMAIN-SUFFIX,web.bageyi.cc
 DOMAIN-SUFFIX,xdubo.com
+DOMAIN-SUFFIX,xgct-video.vzcdn.net
 DOMAIN-SUFFIX,yboku.com
 
 # 听书相关

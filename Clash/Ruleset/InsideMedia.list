@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2024-10-11
+# Updated: 2024-10-25
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -28,6 +28,14 @@ DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xyzfm.space
 DOMAIN,fyfy.herecdn.com
 
+# 听书相关
+DOMAIN-SUFFIX,6yueting.com
+DOMAIN-SUFFIX,ifish.fun
+DOMAIN-SUFFIX,pingshu5.net
+DOMAIN-SUFFIX,vbus.cc
+DOMAIN-SUFFIX,xiai123.com
+DOMAIN-SUFFIX,ychy.cc
+DOMAIN-SUFFIX,ychy.org
 
 # Pixman
 # https://hub.docker.com/r/pixman/pixman

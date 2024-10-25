@@ -505,6 +505,7 @@ DOMAIN-SUFFIX,acgftb.com
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
 DOMAIN-SUFFIX,aowu.tv
+DOMAIN-SUFFIX,auete.pro
 DOMAIN-SUFFIX,bimiacg.icu
 DOMAIN-SUFFIX,bimiacg10.net
 DOMAIN-SUFFIX,bimiacg11.net
@@ -515,6 +516,7 @@ DOMAIN-SUFFIX,catw.moe
 DOMAIN-SUFFIX,cddys1.me
 DOMAIN-SUFFIX,ciyuanb.top
 DOMAIN-SUFFIX,clicli.cc
+DOMAIN-SUFFIX,cyc-anime.net
 DOMAIN-SUFFIX,cycanime.com
 DOMAIN-SUFFIX,cycdm01.top
 DOMAIN-SUFFIX,dm.g916.com
@@ -526,6 +528,7 @@ DOMAIN-SUFFIX,dmbus.cc
 DOMAIN-SUFFIX,dmdan.cc
 DOMAIN-SUFFIX,dmdan.fans
 DOMAIN-SUFFIX,dmla7.com
+DOMAIN-SUFFIX,dmla9.com
 DOMAIN-SUFFIX,dmmiku.com
 DOMAIN-SUFFIX,dmmiku.net
 DOMAIN-SUFFIX,dogsfun.fun
@@ -537,11 +540,16 @@ DOMAIN-SUFFIX,ebb.io
 DOMAIN-SUFFIX,fanshudm.com
 DOMAIN-SUFFIX,fantuandm.com
 DOMAIN-SUFFIX,fantuantv.com
+DOMAIN-SUFFIX,fengchedongmanwang.com
 DOMAIN-SUFFIX,fqdm.cc
 DOMAIN-SUFFIX,fulige.com
 DOMAIN-SUFFIX,g916.com
 DOMAIN-SUFFIX,girigirilove.com
+DOMAIN-SUFFIX,gugu01.cc
+DOMAIN-SUFFIX,gugu3.com
 DOMAIN-SUFFIX,gugufan.com
+DOMAIN-SUFFIX,gugufan.org
+DOMAIN-SUFFIX,gugumi.cc
 DOMAIN-SUFFIX,gxdm.me
 DOMAIN-SUFFIX,gxdm01.org
 DOMAIN-SUFFIX,huazidm.com
@@ -572,6 +580,7 @@ DOMAIN-SUFFIX,mfan.tv
 DOMAIN-SUFFIX,mgnacg.com
 DOMAIN-SUFFIX,mikudm.com
 DOMAIN-SUFFIX,mitang.tv
+DOMAIN-SUFFIX,mochadm.com
 DOMAIN-SUFFIX,moefun.net
 DOMAIN-SUFFIX,mtacg.tv
 DOMAIN-SUFFIX,mute01.com
@@ -587,6 +596,9 @@ DOMAIN-SUFFIX,myself-bbs.com
 DOMAIN-SUFFIX,nicohub.cc
 DOMAIN-SUFFIX,nicohub.net
 DOMAIN-SUFFIX,nicotv.bet
+DOMAIN-SUFFIX,nyacg.net
+DOMAIN-SUFFIX,nyadm.link
+DOMAIN-SUFFIX,nyadm.net
 DOMAIN-SUFFIX,nyafun.net
 DOMAIN-SUFFIX,pekolove.com
 DOMAIN-SUFFIX,psdcat.com
@@ -595,6 +607,8 @@ DOMAIN-SUFFIX,qdm18.com
 DOMAIN-SUFFIX,qdm66.com
 DOMAIN-SUFFIX,qkan9.com
 DOMAIN-SUFFIX,senfun.in
+DOMAIN-SUFFIX,web.cycback.org
+DOMAIN-SUFFIX,wedm.cc
 DOMAIN-SUFFIX,xfani.com
 DOMAIN-SUFFIX,xgcartoon.com
 DOMAIN-SUFFIX,xiuluodm.com
@@ -616,6 +630,7 @@ DOMAIN-SUFFIX,gboku.com
 DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,hmrvideo.com
 DOMAIN-SUFFIX,image2.imgbox.com
+DOMAIN-SUFFIX,images.weserv.nl
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,img-dm.hs.oume.cc
 DOMAIN-SUFFIX,img.bfzypic.com
@@ -636,6 +651,7 @@ DOMAIN-SUFFIX,pboku.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com
 DOMAIN-SUFFIX,pic3.yzzyimages.com
+DOMAIN-SUFFIX,pic3.yzzyimg.online
 DOMAIN-SUFFIX,play.vplay.life
 DOMAIN-SUFFIX,play.xfvod.pro
 DOMAIN-SUFFIX,qboku.com
@@ -664,13 +680,18 @@ DOMAIN-SUFFIX,wdubo.com
 DOMAIN-SUFFIX,xdubo.com
 DOMAIN-SUFFIX,yboku.com
 
+# 听书相关
+## 最大的英文自制有声书社区
+DOMAIN-SUFFIX,librivox.org
+## Lit2Go 带有概要和的文本有声书故事和诗歌下载网站
+DOMAIN-SUFFIX,librivox.org
+DOMAIN-SUFFIX,usf.edu
+## 其它国产听书站
+DOMAIN-SUFFIX,ting74.com
 
 
 # Emby & Jellyfin & Navidrome
-## DOMAIN-SUFFIX,i109.com
-## DOMAIN-SUFFIX,magpie.bond
-DOMAIN-SUFFIX,mefun.org
-DOMAIN-SUFFIX,xms.mx
+
 
 
 # Anime 相关

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-10-27
+# Updated: 2024-11-01
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -231,6 +231,8 @@ DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
 ## nmlive
 DOMAIN-SUFFIX,lemonlive.deno.dev
+## 秋明山見
+DOMAIN-SUFFIX,api.maiyoux.com
 ## 其它
 DOMAIN-SUFFIX,infuseku.xyz
 

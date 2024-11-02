@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-01
+# Updated: 2024-11-02
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -174,8 +174,8 @@ DOMAIN-SUFFIX,zhaifufabu.com
 DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
-# 伪CMS源
-# 已逐步替换为内置js
+# XPTV CMS & VOD & 伪CMS源
+# 伪CMS源已逐步替换为js源
 # Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
 ## 文才
 DOMAIN,api.zeqaht.com
@@ -236,7 +236,34 @@ DOMAIN-SUFFIX,api.maiyoux.com
 ## 其它
 DOMAIN-SUFFIX,infuseku.xyz
 
-
+# XPTV PAN资源
+# Source: https://github.com/fangkuia/XPTV
+## 小纸条
+# DOMAIN-SUFFIX,gitcafe.ink //已直连
+## 玩偶哥哥
+# DOMAIN-SUFFIX,wogg.net //已直连
+## 阿里小站
+# DOMAIN-SUFFIX,pan666.net //已直连
+## 云盘资源 
+DOMAIN-SUFFIX,yunpan1.cc
+## 南風短劇
+# DOMAIN-SUFFIX,nanf.cc //已直连
+# DOMAIN-SUFFIX,21nf.com //已直连
+# DOMAIN-SUFFIX,nf999.cc //已直连
+## 多多影音
+# DOMAIN-SUFFIX,tv.yydsys.top //已直连
+## 蜡笔盘
+DOMAIN-SUFFIX,duopan.fun
+## 木偶
+DOMAIN-SUFFIX,mogg.top
+## 小米
+DOMAIN-SUFFIX,mihdr.top
+## 云盘资源网
+# DOMAIN-SUFFIX,res.yunpan.win //已直连
+## 校长影视
+# DOMAIN-SUFFIX,xzys.fun //已直连
+## 正奕
+DOMAIN-SUFFIX,jnczyl.top
 
 
 
@@ -644,6 +671,7 @@ DOMAIN-SUFFIX,img.lzzyimg.com
 DOMAIN-SUFFIX,img.py1080p.com
 DOMAIN-SUFFIX,img.zzyimg.com
 DOMAIN-SUFFIX,imgikzy.com
+DOMAIN-SUFFIX,imgyzzy.com
 DOMAIN-SUFFIX,jboku.com
 DOMAIN-SUFFIX,kboku.com
 DOMAIN-SUFFIX,kdubo.com
@@ -662,6 +690,7 @@ DOMAIN-SUFFIX,qboku.com
 DOMAIN-SUFFIX,qdubo.com
 DOMAIN-SUFFIX,s2.ax1x.com
 DOMAIN-SUFFIX,senhewenhua.com
+DOMAIN-SUFFIX,suboimage.com
 DOMAIN-SUFFIX,svip.high22-playback.com
 DOMAIN-SUFFIX,svipsvip.ffzy-online5.com
 DOMAIN-SUFFIX,tdubo.com

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-02
+# Updated: 2024-11-03
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -660,10 +660,12 @@ DOMAIN-SUFFIX,fuckjapan.xingyu2.com
 DOMAIN-SUFFIX,gboku.com
 DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,hmrvideo.com
+DOMAIN-SUFFIX,image.maimn.com
 DOMAIN-SUFFIX,image2.imgbox.com
 DOMAIN-SUFFIX,images.weserv.nl
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,img-dm.hs.oume.cc
+DOMAIN-SUFFIX,img.98ha.com
 DOMAIN-SUFFIX,img.bfzypic.com
 DOMAIN-SUFFIX,img.cycimg.me
 DOMAIN-SUFFIX,img.ffzy888.com
@@ -682,6 +684,8 @@ DOMAIN-SUFFIX,ndubo.com
 DOMAIN-SUFFIX,pboku.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com
+DOMAIN-SUFFIX,pic.wujinpp.com
+DOMAIN-SUFFIX,pic.youkupic.com
 DOMAIN-SUFFIX,pic3.yzzyimages.com
 DOMAIN-SUFFIX,pic3.yzzyimg.online
 DOMAIN-SUFFIX,play.vplay.life

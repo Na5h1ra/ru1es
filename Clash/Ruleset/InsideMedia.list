@@ -1,17 +1,45 @@
 # NAME: InsideMedia
-# Updated: 2024-10-25
+# Updated: 2024-11-02
 
 
 # TVSeries & Movies & Anime & Media Servers
 
 # 在线站
 DOMAIN-SUFFIX,360kan.com
-DOMAIN-SUFFIX,4k-av.com
 # DOMAIN-SUFFIX,czys.pro //已失效
+
+
+# XPTV CMS & VOD & 伪CMS源
+# 伪CMS源已逐步替换为js源
+# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
+## NO視頻
 DOMAIN-SUFFIX,novipnoad.net
+## 4k-av
+DOMAIN-SUFFIX,4k-av.com
+
+# XPTV PAN资源
+# Source: https://github.com/fangkuia/XPTV
+## 小纸条
+DOMAIN-SUFFIX,gitcafe.ink
+## 玩偶哥哥
+DOMAIN-SUFFIX,wogg.net
+## 阿里小站
+DOMAIN-SUFFIX,pan666.net
+## 南風短劇
+DOMAIN-SUFFIX,21nf.com
+DOMAIN-SUFFIX,nanf.cc
+DOMAIN-SUFFIX,nf999.cc
+## 多多影音
+DOMAIN-SUFFIX,tv.yydsys.top
+## 云盘资源网
+DOMAIN-SUFFIX,res.yunpan.win
+## 校长影视
+DOMAIN-SUFFIX,xzys.fun
+
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,4khdr.cn
+
 
 # 影视相关
 DOMAIN-SUFFIX,iill.top
@@ -28,6 +56,7 @@ DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xyzfm.space
 DOMAIN,fyfy.herecdn.com
 
+
 # 听书相关
 DOMAIN-SUFFIX,6yueting.com
 DOMAIN-SUFFIX,ifish.fun
@@ -36,6 +65,7 @@ DOMAIN-SUFFIX,vbus.cc
 DOMAIN-SUFFIX,xiai123.com
 DOMAIN-SUFFIX,ychy.cc
 DOMAIN-SUFFIX,ychy.org
+
 
 # Pixman
 # https://hub.docker.com/r/pixman/pixman

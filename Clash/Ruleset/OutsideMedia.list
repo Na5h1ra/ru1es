@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-03
+# Updated: 2024-11-07
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -223,7 +223,7 @@ DOMAIN,zaqohu.com
 ## timimg
 DOMAIN-SUFFIX,timizy.top
 ## 4k-av
-# DOMAIN-SUFFIX,4k-av.com //已直连
+DOMAIN-SUFFIX,4k-av.com
 ## 金牌影视
 DOMAIN-SUFFIX,cfkj86.com
 ## 愛壹帆

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-07
+# Updated: 2024-11-21
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,czzy55.com
 DOMAIN-SUFFIX,czzy66.com
 DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzy88.com
+DOMAIN-SUFFIX,czzyvideo.com
 
 # 在线之家
 DOMAIN-SUFFIX,1993s.top
@@ -38,6 +39,7 @@ DOMAIN-SUFFIX,zxzj.site
 DOMAIN-SUFFIX,zxzj.vip
 DOMAIN-SUFFIX,zxzja.com
 DOMAIN-SUFFIX,zxzjhd.com
+DOMAIN-SUFFIX,zxzjys.com
 
 # 欧乐影院
 DOMAIN-SUFFIX,iole.tv

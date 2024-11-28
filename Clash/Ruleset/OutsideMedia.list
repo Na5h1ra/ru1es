@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-21
+# Updated: 2024-11-28
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -249,6 +249,9 @@ DOMAIN-SUFFIX,infuseku.xyz
 # DOMAIN-SUFFIX,pan666.net //已直连
 ## 云盘资源 
 DOMAIN-SUFFIX,yunpan1.cc
+DOMAIN-SUFFIX,yunpan1.co
+DOMAIN-SUFFIX,yunpan1.wang
+DOMAIN-SUFFIX,yunpan1.xyz
 ## 南風短劇
 # DOMAIN-SUFFIX,nanf.cc //已直连
 # DOMAIN-SUFFIX,21nf.com //已直连
@@ -267,6 +270,14 @@ DOMAIN-SUFFIX,mihdr.top
 # DOMAIN-SUFFIX,xzys.fun //已直连
 ## 正奕
 DOMAIN-SUFFIX,jnczyl.top
+## 雷鲸
+DOMAIN-SUFFIX,leijing.xyz
+## 欧哥
+DOMAIN-SUFFIX,woog.nxog.eu.org
+## 云盘吧
+DOMAIN-SUFFIX,yunpan.in
+DOMAIN-SUFFIX,yunpan8.cc
+DOMAIN-SUFFIX,yunpanba.net
 
 
 

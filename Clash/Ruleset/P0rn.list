@@ -1,5 +1,5 @@
 # NAME: P0rn
-# Updated: 2024-10-20
+# Updated: 2024-11-28
 
 # 日本事务所 & 经纪公司
 DOMAIN-SUFFIX,8man.jp
@@ -209,8 +209,10 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,yongaomy.com
 DOMAIN-SUFFIX,yuemeinv.com
 
-# P0rn CMS Online
-# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPAV.json
+# P0rn on XPTV
+# Source: https://github.com/fangkuia
+DOMAIN-SUFFIX,041.bndmpsjx.com
+DOMAIN-SUFFIX,91jav.fun
 DOMAIN-SUFFIX,91md.me
 DOMAIN-SUFFIX,aosikazy.com
 DOMAIN-SUFFIX,apilj.com
@@ -225,6 +227,7 @@ DOMAIN-SUFFIX,haosezyw.com
 DOMAIN-SUFFIX,hghhh.com
 DOMAIN-SUFFIX,jingpinx.com
 DOMAIN-SUFFIX,kkzy.me
+DOMAIN-SUFFIX,koreanpornmovie.com
 DOMAIN-SUFFIX,lbapiby.com
 DOMAIN-SUFFIX,madouse.la
 DOMAIN-SUFFIX,naixxzy.com

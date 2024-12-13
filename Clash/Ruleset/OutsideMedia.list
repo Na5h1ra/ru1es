@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-11-28
+# Updated: 2024-12-13
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -278,6 +278,8 @@ DOMAIN-SUFFIX,woog.nxog.eu.org
 DOMAIN-SUFFIX,yunpan.in
 DOMAIN-SUFFIX,yunpan8.cc
 DOMAIN-SUFFIX,yunpanba.net
+## 小米UC资源站
+DOMAIN-SUFFIX,mucpan.cc
 
 
 

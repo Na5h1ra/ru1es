@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-12-13
+# Updated: 2024-12-28
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -280,7 +280,14 @@ DOMAIN-SUFFIX,yunpan8.cc
 DOMAIN-SUFFIX,yunpanba.net
 ## 小米UC资源站
 DOMAIN-SUFFIX,mucpan.cc
-
+## 闪电UC
+DOMAIN-SUFFIX,feimaouc.cloud
+## 奥秘
+DOMAIN-SUFFIX,vip.omii.top
+## 六趣
+DOMAIN-SUFFIX,wp.0v.fit
+## 小盘盘
+DOMAIN-SUFFIX,xpanpan.site
 
 
 # 其它采集站

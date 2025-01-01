@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2024-12-28
+# Updated: 2025-01-01
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -288,6 +288,12 @@ DOMAIN-SUFFIX,vip.omii.top
 DOMAIN-SUFFIX,wp.0v.fit
 ## 小盘盘
 DOMAIN-SUFFIX,xpanpan.site
+## 特下饭
+DOMAIN-SUFFIX,txfyyds.top
+## 白嫖
+DOMAIN-SUFFIX,smdyo.top
+## 虎斑
+DOMAIN-SUFFIX,wp.huban.xyz
 
 
 # 其它采集站

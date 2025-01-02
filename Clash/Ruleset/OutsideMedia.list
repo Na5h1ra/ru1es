@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-01-01
+# Updated: 2025-01-02
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -1139,3 +1139,6 @@ IP-CIDR,52.223.224.0/19,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
 IP-CIDR6,2402:2a80::/32,no-resolve
 PROCESS-NAME,tv.twitch.android.app
+
+# 其它影视相关
+DOMAIN-SUFFIX,iill.top

@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2024-12-18
+# Updated: 2025-01-02
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,unraid.net
 
 
-# Mac/iOS/iPadOS软件
+# Apple Apps
 ## Aisten播客学语言
 DOMAIN-SUFFIX,aisten-d1.josscii.top
 ## Alfred
@@ -68,7 +68,13 @@ DOMAIN-SUFFIX,pilotmoon.com
 ## Zotero
 DOMAIN-SUFFIX,zotero.org
 
-# Windows软件
+
+# Android Apps
+## 屏连
+DOMAIN-SUFFIX,connect-screen.com
+
+
+# Windows Apps
 ## balenaEtcher
 DOMAIN-SUFFIX,balena.io
 ## CarotDAV
@@ -92,6 +98,9 @@ DOMAIN-SUFFIX,mountainduck.io
 ## Snipaste
 DOMAIN-SUFFIX,snipaste.com
 
+# SteamDeck相关
+## 内置商店源
+DOMAIN-SUFFIX,flatpak.org
 
 # Docker & 容器站
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list & https://taimatsu.xlog.app/china-mirror-proxy

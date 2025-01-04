@@ -72,6 +72,8 @@ DOMAIN-SUFFIX,zotero.org
 # Android Apps
 ## 屏连
 DOMAIN-SUFFIX,connect-screen.com
+## Showly
+DOMAIN-SUFFIX,api.qonversion.io
 
 
 # Windows Apps

@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-01-06
+# Updated: 2025-01-09
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,unraid.net
 
 # Apple Apps
 ## Aisten播客学语言
-DOMAIN-SUFFIX,aisten-d1.josscii.top
+DOMAIN-SUFFIX,josscii.top
 ## Alfred
 DOMAIN-SUFFIX,alfredapp.com
 ## CharlieMonroe系列软件 (Downie & Permute)

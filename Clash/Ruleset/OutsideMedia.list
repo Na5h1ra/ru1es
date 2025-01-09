@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-01-06
+# Updated: 2025-01-09
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -232,6 +232,8 @@ DOMAIN-SUFFIX,cfkj86.com
 ## 愛壹帆
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
+## 追光影视
+DOMAIN-SUFFIX,sgsd.xyz
 ## nmlive
 DOMAIN-SUFFIX,lemonlive.deno.dev
 ## 秋明山見
@@ -303,6 +305,10 @@ DOMAIN-SUFFIX,wp.huban.xyz
 # DOMAIN-SUFFIX,gyg.si
 ## 天逸搜
 DOMAIN-SUFFIX,tianyiso.com
+## Star2
+DOMAIN-SUFFIX,1.star2.cn
+## SeedHub
+DOMAIN-SUFFIX,seedhub.cc
 
 
 # 其它采集站

@@ -1,5 +1,5 @@
 # NAME: P0rn
-# Updated: 2025-01-10
+# Updated: 2025-01-12
 
 # 日本事务所 & 经纪公司
 DOMAIN-SUFFIX,8man.jp
@@ -135,7 +135,6 @@ DOMAIN-SUFFIX,sextb.net
 DOMAIN-SUFFIX,speedporn.net
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,sxyprn.net
-DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,theav.xyz
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,thtmod7.com
@@ -282,6 +281,11 @@ DOMAIN-SUFFIX,uaa005.com
 DOMAIN-SUFFIX,uaa010.com
 DOMAIN-SUFFIX,uaa202410.com
 DOMAIN-SUFFIX,uaadizhi.com
+## Taiav
+DOMAIN-SUFFIX,taiav.com
+DOMAIN-SUFFIX,snmovie.com
+## Javmove
+DOMAIN-SUFFIX,javmove.com
 ## 其它
 
 

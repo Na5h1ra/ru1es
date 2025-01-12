@@ -1,5 +1,5 @@
 # NAME: P0rn
-# Updated: 2025-01-12
+# Updated: 2025-01-13
 
 # 日本事务所 & 经纪公司
 DOMAIN-SUFFIX,8man.jp
@@ -216,6 +216,8 @@ DOMAIN-SUFFIX,yuemeinv.com
 ## MISSAV
 DOMAIN-SUFFIX,fivetiu.com
 # DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav.plus
 ## 麻豆社
 # DOMAIN-SUFFIX,madou.club
 ## 玩偶姐姐

@@ -117,7 +117,6 @@ DOMAIN-SUFFIX,kissjav.li
 DOMAIN-SUFFIX,macjav.com
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,memojav.com
-DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav123.com
 DOMAIN-SUFFIX,mm18vc.com
 DOMAIN-SUFFIX,netflav.com
@@ -207,7 +206,6 @@ DOMAIN-SUFFIX,maa1808.com
 DOMAIN-SUFFIX,maa1809.com
 DOMAIN-SUFFIX,rhsj520.com
 DOMAIN-SUFFIX,siwazywcdn2.com
-DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,yongaomy.com
 DOMAIN-SUFFIX,yuemeinv.com
 
@@ -215,9 +213,11 @@ DOMAIN-SUFFIX,yuemeinv.com
 # Source: https://github.com/fangkuia
 ## MISSAV
 DOMAIN-SUFFIX,fivetiu.com
-# DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,fourhoi.com
+DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav.plus
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,surrit.com
 ## 麻豆社
 # DOMAIN-SUFFIX,madou.club
 ## 玩偶姐姐
@@ -226,6 +226,7 @@ DOMAIN-SUFFIX,bf3.hntvoss.com
 DOMAIN-SUFFIX,bf3.xy11235.com
 DOMAIN-SUFFIX,cl9987.com
 DOMAIN-SUFFIX,imagecache.top
+DOMAIN-SUFFIX,image.naikong.net
 ## Hanime1
 # DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hembed.com
@@ -237,7 +238,9 @@ DOMAIN-SUFFIX,maiyoux.com
 DOMAIN-SUFFIX,041.bndmpsjx.com
 DOMAIN-SUFFIX,91jav.fun
 DOMAIN-SUFFIX,91jav2.com
+DOMAIN-SUFFIX,rcpsl.cn
 DOMAIN-SUFFIX,triutpw.cc
+DOMAIN-SUFFIX,vip7.newljlj.com
 ## hohoj
 DOMAIN-SUFFIX,hohoj.tv
 # DOMAIN-SUFFIX,ggjav.com

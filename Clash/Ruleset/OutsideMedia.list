@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-01-10
+# Updated: 2025-01-15
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -229,6 +229,7 @@ DOMAIN-SUFFIX,timizy.top
 DOMAIN-SUFFIX,4k-av.com
 ## 金牌影视
 DOMAIN-SUFFIX,cfkj86.com
+DOMAIN-SUFFIX,ppvod01.kqgfbs.com
 ## 愛壹帆
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
@@ -243,6 +244,7 @@ DOMAIN-SUFFIX,lemonlive.deno.dev
 DOMAIN-SUFFIX,api.maiyoux.com
 ## 其它
 DOMAIN-SUFFIX,infuseku.xyz
+DOMAIN-SUFFIX,pandalive.co.kr
 
 # XPTV PAN资源
 # Source: https://github.com/fangkuia/XPTV

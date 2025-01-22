@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-01-15
+# Updated: 2025-01-22
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -57,6 +57,8 @@ DOMAIN-SUFFIX,bdys.me
 DOMAIN-SUFFIX,bdys01.com
 DOMAIN-SUFFIX,bdys03.com
 DOMAIN-SUFFIX,bdys10.com
+DOMAIN-SUFFIX,xlys.me
+DOMAIN-SUFFIX,xlys01.com
 DOMAIN-SUFFIX,yjys.cc.ua
 DOMAIN-SUFFIX,yjys.inf.ua
 DOMAIN-SUFFIX,yjys.me
@@ -167,8 +169,10 @@ DOMAIN-SUFFIX,nivod4.tv
 DOMAIN-SUFFIX,nivod5.com
 DOMAIN-SUFFIX,nycvod.com
 DOMAIN-SUFFIX,odivod.com
+DOMAIN-SUFFIX,op.ysdqjs.cn
 DOMAIN-SUFFIX,physvod.com
 DOMAIN-SUFFIX,pupvod.com
+DOMAIN-SUFFIX,qiyoudy4.com
 DOMAIN-SUFFIX,shapp.us
 DOMAIN-SUFFIX,subaibai.com
 DOMAIN-SUFFIX,subaibai.vip
@@ -696,6 +700,7 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
+DOMAIN-SUFFIX,67c6c7a.com
 DOMAIN-SUFFIX,api.9cec79d.com
 DOMAIN-SUFFIX,api.zaqohu.com
 DOMAIN-SUFFIX,bf.mmiku.net
@@ -704,6 +709,7 @@ DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,c.xpgtv.net
 DOMAIN-SUFFIX,cboku.com
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,cdnlz12.com
 DOMAIN-SUFFIX,cj.lzcaiji.com
 DOMAIN-SUFFIX,europe.olemovienews.com
 DOMAIN-SUFFIX,fb.libviofabu.com
@@ -713,6 +719,7 @@ DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,hmrvideo.com
 DOMAIN-SUFFIX,image.maimn.com
 DOMAIN-SUFFIX,image2.imgbox.com
+DOMAIN-SUFFIX,image8899.net
 DOMAIN-SUFFIX,images.weserv.nl
 DOMAIN-SUFFIX,img-cos.mandaoo.com
 DOMAIN-SUFFIX,img-dm.hs.oume.cc
@@ -728,6 +735,7 @@ DOMAIN-SUFFIX,imgyzzy.com
 DOMAIN-SUFFIX,jboku.com
 DOMAIN-SUFFIX,kboku.com
 DOMAIN-SUFFIX,kdubo.com
+DOMAIN-SUFFIX,kuaijiz.com
 DOMAIN-SUFFIX,m3u.nikanba.live
 DOMAIN-SUFFIX,mdubo.com
 DOMAIN-SUFFIX,nboku.com
@@ -743,6 +751,7 @@ DOMAIN-SUFFIX,play.vplay.life
 DOMAIN-SUFFIX,play.xfvod.pro
 DOMAIN-SUFFIX,qboku.com
 DOMAIN-SUFFIX,qdubo.com
+DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,s2.ax1x.com
 DOMAIN-SUFFIX,senhewenhua.com
 DOMAIN-SUFFIX,suboimage.com

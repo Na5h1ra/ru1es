@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-01-09
+# Updated: 2025-02-04
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN,static.cloudflareinsights.com
 
-# GPT api 转发站
+# AI相关
 DOMAIN-SUFFIX,0o0.live
 DOMAIN-SUFFIX,ai.jaze.top
 DOMAIN-SUFFIX,aigcapi.io
@@ -21,16 +21,18 @@ DOMAIN-SUFFIX,ashuiai.com
 DOMAIN-SUFFIX,b3n.fun
 DOMAIN-SUFFIX,chatnio.net
 DOMAIN-SUFFIX,closeai-asia.com
-DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,freegpt.art
 DOMAIN-SUFFIX,gptapi.us
 DOMAIN-SUFFIX,gptdos.com
 DOMAIN-SUFFIX,kksj.org
 DOMAIN-SUFFIX,nio.gs
+DOMAIN-SUFFIX,ocoolai.com
 DOMAIN-SUFFIX,openai-sb.com
 DOMAIN-SUFFIX,openkey.cloud
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,peiqi.shop
+
 
 # Stable Diffusion相关
 DOMAIN-SUFFIX,civitai.com
@@ -105,6 +107,13 @@ DOMAIN-SUFFIX,snipaste.com
 # SteamDeck相关
 ## 内置商店源
 DOMAIN-SUFFIX,flatpak.org
+
+# Parsec 远程桌面软件
+# Source: https://support.parsec.app/hc/en-us/articles/4440911373325-Parsec-Connectivity-Requirements
+DOMAIN-SUFFIX,parsec.app
+DOMAIN-SUFFIX,parsecgaming.com
+DOMAIN-SUFFIX,parsecusercontent.com
+PROCESS-NAME,parsecd
 
 # Docker & 容器站
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list & https://taimatsu.xlog.app/china-mirror-proxy

@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-01-02
+# Updated: 2025-02-04
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,360kan.com
 
 # XPTV CMS & VOD & 伪CMS源
 # 伪CMS源已逐步替换为js源
-# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
+# Source: https://github.com/fangkuia & https://github.com/Yswag
 ## NO視頻
 DOMAIN-SUFFIX,novipnoad.net
 ## 4k-av

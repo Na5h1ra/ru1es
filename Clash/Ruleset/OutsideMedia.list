@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-02-02
+# Updated: 2025-02-04
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -182,7 +182,7 @@ DOMAIN-SUFFIX,zhuijumi.cc
 
 # XPTV CMS & VOD & 伪CMS源
 # 伪CMS源已逐步替换为js源
-# Source: https://github.com/Yswag/for-own-use/tree/main/XPTV & https://github.com/Yswag/xptv-extensions/tree/main
+# Source: https://github.com/fangkuia & https://github.com/Yswag
 ## 文才
 DOMAIN,api.zeqaht.com
 ## 速訊影院
@@ -222,6 +222,7 @@ DOMAIN-SUFFIX,bilfun.cc
 DOMAIN-SUFFIX,whjzjx.cn
 ## 小蘋果
 DOMAIN,item.xpgtv.xyz
+DOMAIN,item.xpgtv.com
 ## 小螞蟻
 DOMAIN,dsakf23665.com
 ## 瓜子影視
@@ -229,7 +230,7 @@ DOMAIN,zaqohu.com
 ## timimg
 DOMAIN-SUFFIX,timizy.top
 ## 4k-av
-## 需要非香港或非日本IP
+## 需要非香港或非日本IP，也可能IP不干净
 DOMAIN-SUFFIX,4k-av.com
 ## 金牌影视
 DOMAIN-SUFFIX,cfkj86.com

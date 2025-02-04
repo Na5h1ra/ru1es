@@ -1,9 +1,21 @@
 # NAME: Direct
-# Updated: 2024-08-30
+# Updated: 2025-02-04
 
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
 DOMAIN-SUFFIX,speedtest.cn
+
+# AI相关
+DOMAIN-SUFFIX,baichuan-ai.com
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,lingyiwanwu.com
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,ooo.cool
+DOMAIN-SUFFIX,siliconflow.cn
+DOMAIN-SUFFIX,wanzhi.com
 
 # Docker 镜像
 # Source: https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6
@@ -25,10 +37,10 @@ DOMAIN-SUFFIX,dockerpull.com
 
 # Parsec
 # Source: https://support.parsec.app/hc/en-us/articles/4440911373325-Parsec-Connectivity-Requirements
-DOMAIN-SUFFIX,parsec.app
-DOMAIN-SUFFIX,parsecgaming.com
-DOMAIN-SUFFIX,parsecusercontent.com
-PROCESS-NAME,parsecd
+# DOMAIN-SUFFIX,parsec.app //已无法直连
+# DOMAIN-SUFFIX,parsecgaming.com //已无法直连
+# DOMAIN-SUFFIX,parsecusercontent.com //已无法直连
+# PROCESS-NAME,parsecd //已无法直连
 
 # Synology
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list

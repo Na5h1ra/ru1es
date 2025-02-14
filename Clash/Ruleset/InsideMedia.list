@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-02-04
+# Updated: 2025-02-14
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,novipnoad.net
 DOMAIN-SUFFIX,gitcafe.ink
 ## 玩偶哥哥
 DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,wogg.one
+DOMAIN,wogg.xxooo.cf
 ## 阿里小站
 DOMAIN-SUFFIX,pan666.net
 ## 南風短劇

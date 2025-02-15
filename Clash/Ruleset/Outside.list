@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-02-14
+# Updated: 2025-02-16
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -146,12 +146,14 @@ DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,cr.l5d.io
 DOMAIN-SUFFIX,docker.elastic.co
 DOMAIN-SUFFIX,ghp.ci
-DOMAIN-SUFFIX,xptvhelper.link
 DOMAIN-SUFFIX,git.886.be
+DOMAIN-SUFFIX,gitea.com
+DOMAIN-SUFFIX,gitea.io
 DOMAIN-SUFFIX,openjdk.org
 DOMAIN-SUFFIX,registry.jujucharms.com
 DOMAIN-SUFFIX,registry.k8s.io
 DOMAIN-SUFFIX,rocks.canonical.com
+DOMAIN-SUFFIX,xptvhelper.link
 
 
 # Nanplus
@@ -234,6 +236,8 @@ DOMAIN-SUFFIX,stampworld.com
 ## 世界各国货币样式目录
 DOMAIN-SUFFIX,numista.com
 
+# RSS与一些博客
+DOMAIN-SUFFIX,oryoy.com
 
 
 # Twitter

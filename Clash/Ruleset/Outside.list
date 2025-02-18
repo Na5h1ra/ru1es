@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-02-16
+# Updated: 2025-02-18
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -17,14 +17,17 @@ DOMAIN-SUFFIX,aigcapi.io
 DOMAIN-SUFFIX,aigcapi.me
 DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,aikey.one
+DOMAIN-SUFFIX,apifox.cn
 DOMAIN-SUFFIX,ashuiai.com
 DOMAIN-SUFFIX,b3n.fun
 DOMAIN-SUFFIX,chatnio.net
 DOMAIN-SUFFIX,closeai-asia.com
 DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,ephone.chat
 DOMAIN-SUFFIX,freegpt.art
 DOMAIN-SUFFIX,gptapi.us
 DOMAIN-SUFFIX,gptdos.com
+DOMAIN-SUFFIX,gptuu.com
 DOMAIN-SUFFIX,kksj.org
 DOMAIN-SUFFIX,nio.gs
 DOMAIN-SUFFIX,ocoolai.com
@@ -32,6 +35,7 @@ DOMAIN-SUFFIX,openai-sb.com
 DOMAIN-SUFFIX,openkey.cloud
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,peiqi.shop
+DOMAIN-SUFFIX,uuapi.me
 
 
 # Stable Diffusion相关
@@ -78,7 +82,8 @@ DOMAIN-SUFFIX,connect-screen.com
 DOMAIN-SUFFIX,api.qonversion.io
 ## FolderSync
 DOMAIN-SUFFIX,foldersync.io
-
+## 游戏箱子(Sw1tch相关)
+DOMAIN-SUFFIX,gamebox.cool
 
 # Windows Apps
 ## balenaEtcher
@@ -203,6 +208,9 @@ DOMAIN-SUFFIX,feedex.net
 DOMAIN-SUFFIX,rssforever.com
 DOMAIN-SUFFIX,rss.com
 
+# RSS相关与一些博客订阅
+DOMAIN-SUFFIX,oryoy.com
+
 # V2ex
 DOMAIN-SUFFIX,sov2ex.com
 DOMAIN-SUFFIX,v2ex.co
@@ -235,9 +243,6 @@ DOMAIN-SUFFIX,chinesestamp.cn
 DOMAIN-SUFFIX,stampworld.com
 ## 世界各国货币样式目录
 DOMAIN-SUFFIX,numista.com
-
-# RSS与一些博客
-DOMAIN-SUFFIX,oryoy.com
 
 
 # Twitter

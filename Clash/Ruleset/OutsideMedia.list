@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-02-04
+# Updated: 2025-02-22
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -243,9 +243,9 @@ DOMAIN-SUFFIX,yfsp.tv
 ## 追光影视
 DOMAIN-SUFFIX,sgsd.xyz
 ## 皮皮蝦
-DOMAIN-SUFFIX,media-jsyz-fy-home.js6oss.ctyunxs.cn
-DOMAIN-SUFFIX,ppxys.vip
-##影视天堂
+## DOMAIN-SUFFIX,media-jsyz-fy-home.js6oss.ctyunxs.cn //网站已失效
+## DOMAIN-SUFFIX,ppxys.vip //网站已失效
+## 影视天堂
 DOMAIN-SUFFIX,7dgirl.org
 DOMAIN-SUFFIX,ysttv.org
 ## nmlive

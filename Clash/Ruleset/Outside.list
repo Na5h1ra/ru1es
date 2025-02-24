@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-02-18
+# Updated: 2025-02-25
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN,static.cloudflareinsights.com
 
-# AI相关
+# AI转发站
 DOMAIN-SUFFIX,0o0.live
 DOMAIN-SUFFIX,ai.jaze.top
 DOMAIN-SUFFIX,aigcapi.io
@@ -36,6 +36,15 @@ DOMAIN-SUFFIX,openkey.cloud
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,peiqi.shop
 DOMAIN-SUFFIX,uuapi.me
+
+# AI模型部署&客户端相关
+DOMAIN-SUFFIX,chatboxai.app
+DOMAIN-SUFFIX,cherry-ai.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,ollama.ai
+DOMAIN-SUFFIX,ollama.com
 
 
 # Stable Diffusion相关

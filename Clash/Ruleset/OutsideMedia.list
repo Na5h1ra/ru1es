@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-02-22
+# Updated: 2025-02-26
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -878,14 +878,20 @@ DOMAIN-SUFFIX,zfsya.com
 # GalGame 相关
 DOMAIN,yinghu.netlify.app
 DOMAIN-SUFFIX,05fx.glitch.me
+DOMAIN-SUFFIX,223323.xyz
 DOMAIN-SUFFIX,2dfan.com
 DOMAIN-SUFFIX,2djgame.net
 DOMAIN-SUFFIX,acggw.club
+DOMAIN-SUFFIX,acgngame.top
 DOMAIN-SUFFIX,acgngames.net
+DOMAIN-SUFFIX,acgs.one
 DOMAIN-SUFFIX,acgsu.org
 DOMAIN-SUFFIX,acgyw.com
 DOMAIN-SUFFIX,acgyyg.ru
 DOMAIN-SUFFIX,amemei-lists.top
+DOMAIN-SUFFIX,amoebi.com
+DOMAIN-SUFFIX,aozoracafe.com
+DOMAIN-SUFFIX,cloud.sayafx.top
 DOMAIN-SUFFIX,cngal.org
 DOMAIN-SUFFIX,ddfan.org
 DOMAIN-SUFFIX,ddfan.top
@@ -894,6 +900,7 @@ DOMAIN-SUFFIX,fan2d.lol
 DOMAIN-SUFFIX,fapforfun.net
 DOMAIN-SUFFIX,fhxy-a.top
 DOMAIN-SUFFIX,fufugal.com
+DOMAIN-SUFFIX,galbase.top
 DOMAIN-SUFFIX,galccg.com
 DOMAIN-SUFFIX,galcg.org
 DOMAIN-SUFFIX,galgamer.moe
@@ -903,18 +910,31 @@ DOMAIN-SUFFIX,galxp.com
 DOMAIN-SUFFIX,galzy.eu.org
 DOMAIN-SUFFIX,ggbases.com
 DOMAIN-SUFFIX,gogalgame.com
+DOMAIN-SUFFIX,hikarinagi.com
 DOMAIN-SUFFIX,kdays.net
 DOMAIN-SUFFIX,kfmax.com
 DOMAIN-SUFFIX,kfpromax.com
 DOMAIN-SUFFIX,kungal.com
 DOMAIN-SUFFIX,llgal.xyz
+DOMAIN-SUFFIX,lzacg.one
 DOMAIN-SUFFIX,lzacg.org
+DOMAIN-SUFFIX,mihoyo.ink
 DOMAIN-SUFFIX,mikocon.com
+DOMAIN-SUFFIX,mmgal.com
+DOMAIN-SUFFIX,moyu.moe
+DOMAIN-SUFFIX,nekogal.com
 DOMAIN-SUFFIX,nekotaku.net
+DOMAIN-SUFFIX,ningyu.ga
+DOMAIN-SUFFIX,nn0721.icu
+DOMAIN-SUFFIX,pan.catcat.blog
+DOMAIN-SUFFIX,pan.jlbx.xyz
 DOMAIN-SUFFIX,pcmoe.net
+DOMAIN-SUFFIX,qingju.org
 DOMAIN-SUFFIX,qingjuacg.top
+DOMAIN-SUFFIX,sakakirio.com
 DOMAIN-SUFFIX,sakustar.top
 DOMAIN-SUFFIX,saop.cc
+DOMAIN-SUFFIX,sayafx.top
 DOMAIN-SUFFIX,seikuu.com
 DOMAIN-SUFFIX,seiya-saiga.com
 DOMAIN-SUFFIX,shinnku.com
@@ -922,10 +942,12 @@ DOMAIN-SUFFIX,skyrivers.org
 DOMAIN-SUFFIX,soraacg.com
 DOMAIN-SUFFIX,steamgalgame.com
 DOMAIN-SUFFIX,sumisora.net
+DOMAIN-SUFFIX,syzx.me
 DOMAIN-SUFFIX,t-satoru.top
 DOMAIN-SUFFIX,tiangal.com
 DOMAIN-SUFFIX,tianshie.com
 DOMAIN-SUFFIX,touchgal.com
+DOMAIN-SUFFIX,touchgal.io
 DOMAIN-SUFFIX,touchgal.me
 DOMAIN-SUFFIX,touchgal.moe
 DOMAIN-SUFFIX,touchgal.net
@@ -935,10 +957,15 @@ DOMAIN-SUFFIX,ttloli.com
 DOMAIN-SUFFIX,wafuwafu.com
 DOMAIN-SUFFIX,xiayuge.top
 DOMAIN-SUFFIX,xiayuge1.top
+DOMAIN-SUFFIX,xiuren.cyou
+DOMAIN-SUFFIX,xop-static.top
 DOMAIN-SUFFIX,xxacg.net
+DOMAIN-SUFFIX,yanyugal.top
 DOMAIN-SUFFIX,ymgal.games
 DOMAIN-SUFFIX,yngal.com
+DOMAIN-SUFFIX,zi0.cc
 DOMAIN-SUFFIX,zodgame.xyz
+
 
 
 # Alist ACG 网盘

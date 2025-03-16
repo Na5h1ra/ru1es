@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-03-07
+# Updated: 2025-03-16
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ddys.love
 DOMAIN-SUFFIX,ddys.me
 DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.site
 DOMAIN-SUFFIX,ddys.tv
 DOMAIN-SUFFIX,ddys2.me
 
@@ -206,6 +207,7 @@ DOMAIN-SUFFIX,subaibai.vip
 DOMAIN-SUFFIX,subaibaiys.com
 ## anfuns
 DOMAIN-SUFFIX,anfuns.cc
+DOMAIN-SUFFIX,anfuns.in
 DOMAIN-SUFFIX,anfuns.org
 ## 耐看點播
 DOMAIN-SUFFIX,nkvod.com
@@ -231,8 +233,8 @@ DOMAIN,zaqohu.com
 ## timimg
 DOMAIN-SUFFIX,timizy.top
 ## 4k-av
-## 需要非香港或非日本IP，也可能IP不干净
-DOMAIN-SUFFIX,4k-av.com
+## 需要非香港或非日本IP，也可能IP不干净，或者直连
+# DOMAIN-SUFFIX,4k-av.com //已直连
 ## 金牌影视
 DOMAIN-SUFFIX,cfkj86.com
 DOMAIN-SUFFIX,ppvod01.blbtgg.com

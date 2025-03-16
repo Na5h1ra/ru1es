@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-03-16
+# Updated: 2025-03-17
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -1224,3 +1224,4 @@ PROCESS-NAME,tv.twitch.android.app
 
 # 其它影视相关
 DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,goodiptv.club

@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-03-16
+# Updated: 2025-03-17
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -44,8 +44,8 @@ DOMAIN-SUFFIX,4khdr.cn
 
 
 # 影视相关
-# DOMAIN-SUFFIX,iill.top //Jiangsu无法访问
-DOMAIN-SUFFIX,goodiptv.club
+# DOMAIN-SUFFIX,iill.top //国内无法访问
+# DOMAIN-SUFFIX,goodiptv.club //国内无法访问
 DOMAIN-SUFFIX,sp-flv.com
 
 

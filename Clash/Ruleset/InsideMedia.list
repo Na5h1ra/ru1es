@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-02-14
+# Updated: 2025-03-16
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,360kan.com
 ## NO視頻
 DOMAIN-SUFFIX,novipnoad.net
 ## 4k-av
-# DOMAIN-SUFFIX,4k-av.com
+DOMAIN-SUFFIX,4k-av.com
 
 # XPTV PAN资源
 # Source: https://github.com/fangkuia/XPTV

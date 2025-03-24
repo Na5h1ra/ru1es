@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-03-17
+# Updated: 2025-03-24
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -525,6 +525,9 @@ DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn
 
+# 滴嘀动画
+DOMAIN-SUFFIX,dddh.fun
+
 
 # 刮削 & 海报 & 周边 & 影音动漫评分
 # Apple 流媒体封面获取     https://bendodson.com/projects/itunes-artwork-finder
@@ -802,7 +805,18 @@ DOMAIN-SUFFIX,ting74.com
 
 # Emby & Jellyfin & Navidrome
 
+# Plex 需要代理的地址
+# Plex镜像：https://hub.docker.com/r/plexinc/pms-docker 或 https://hub.docker.com/r/linuxserver/plex
+# Plex需要开放的端口：https://support.plex.tv/articles/201543147-what-network-ports-do-i-need-to-allow-through-my-firewall
+# 一些使用教程：https://www.zhihu.com/column/c_1627108324322734080
+# V2ex上一些 Plex 相关的域名：t/1059972，t/1060710
 
+# Plex 刮削相关
+## DOMAIN-SUFFIX,v4.plex.tv //已直连
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
 
 # Anime 相关
 # Bangumi番组计划

@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2025-02-24
+# Updated: 2025-03-25
 
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
@@ -109,3 +109,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,UUBooster
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+
+# 其他
+DOMAIN-SUFFIX,ffhome.cn
+DOMAIN-SUFFIX,ffhome.com

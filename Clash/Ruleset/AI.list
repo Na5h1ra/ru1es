@@ -1,9 +1,9 @@
 # NAME: AI
-# Updated: 2024-10-20
+# Updated: 2025-03-29
 
 # OpenAI
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 # 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
 # 去除了stripe.com,有些网站也用stripe支付,可能会导致其它网站出问题
 # 上游规则已经去除上述域名
@@ -27,17 +27,15 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net 
 
 # Copilot
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
-DOMAIN,api.githubcopilot.com
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
-DOMAIN,sydney.bing.com
-DOMAIN,www.bing.com
+DOMAIN-SUFFIX,githubcopilot.com
 
 # Gemini
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
@@ -48,34 +46,40 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 
 # Claude
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
 
 # JetBrains AI
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 
 # Meta
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 
 # Perplexity
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 
 # Mistral AI
-# Source : https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/AI.list & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-10-10 & 2024-10-10
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
+
+# Sora
+# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
+# Source Updated Time: 2024-12-31 & 2025-03-18
+DOMAIN,sora-cdn.oaistatic.com
+DOMAIN-SUFFIX,sora.com

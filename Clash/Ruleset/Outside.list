@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-02-25
+# Updated: 2025-03-31
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -151,8 +151,8 @@ DOMAIN-SUFFIX,nvcr.io
 ## Quay Container Registry
 DOMAIN-SUFFIX,quay.io
 ## 国内镜像站
-DOMAIN-SUFFIX,1panel.dev
-DOMAIN-SUFFIX,1panel.live
+# DOMAIN-SUFFIX,1panel.dev
+# DOMAIN-SUFFIX,1panel.live
 DOMAIN-SUFFIX,rat.dev
 
 # Developer

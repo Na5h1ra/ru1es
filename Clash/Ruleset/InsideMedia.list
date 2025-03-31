@@ -1,5 +1,5 @@
 # NAME: InsideMedia
-# Updated: 2025-03-24
+# Updated: 2025-04-01
 
 
 # TVSeries & Movies & Anime & Media Servers
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,sp-flv.com
 # 一些使用教程：https://www.zhihu.com/column/c_1627108324322734080
 # V2ex上一些 Plex 相关的域名：t/1059972，t/1060710
 # Plex 不需要代理的地址
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,v4.plex.tv
 ## DOMAIN-SUFFIX,metadata.provider.plex.tv
 ## DOMAIN-SUFFIX,analytics.plex.tv

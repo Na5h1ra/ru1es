@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-03-24
+# Updated: 2025-04-01
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,czzy55.com
 DOMAIN-SUFFIX,czzy66.com
 DOMAIN-SUFFIX,czzy77.com
 DOMAIN-SUFFIX,czzy88.com
+DOMAIN-SUFFIX,czzymovie.com
 DOMAIN-SUFFIX,czzyvideo.com
 
 # 在线之家
@@ -71,15 +72,18 @@ DOMAIN-SUFFIX,yjys05.com
 # Libvio
 DOMAIN-SUFFIX,ifabu.vip
 DOMAIN-SUFFIX,iioo.me
+DOMAIN-SUFFIX,lib.ifabu.vip
 DOMAIN-SUFFIX,libfabu.com
 DOMAIN-SUFFIX,libvio.app
 DOMAIN-SUFFIX,libvio.cc
+DOMAIN-SUFFIX,libvio.cloud
 DOMAIN-SUFFIX,libvio.com
 DOMAIN-SUFFIX,libvio.fun
 DOMAIN-SUFFIX,libvio.in
 DOMAIN-SUFFIX,libvio.la
 DOMAIN-SUFFIX,libvio.link
 DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.mov
 DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,libvio.pw
 DOMAIN-SUFFIX,libvio.vip
@@ -185,6 +189,10 @@ DOMAIN-SUFFIX,zhuijumi.cc
 # XPTV CMS & VOD & 伪CMS源
 # 伪CMS源已逐步替换为js源
 # Source: https://github.com/fangkuia & https://github.com/Yswag
+## HDmoli
+DOMAIN-SUFFIX,hdmoli.pro
+DOMAIN-SUFFIX,molicp.com
+DOMAIN-SUFFIX,jiaozi.me
 ## 文才
 DOMAIN,api.zeqaht.com
 ## 速訊影院
@@ -473,7 +481,6 @@ DOMAIN-SUFFIX,gying.org
 DOMAIN-SUFFIX,gying.si
 DOMAIN-SUFFIX,gyg.la
 DOMAIN-SUFFIX,gyg.si
-DOMAIN-SUFFIX,hdmoli.pro
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
@@ -812,10 +819,29 @@ DOMAIN-SUFFIX,ting74.com
 # V2ex上一些 Plex 相关的域名：t/1059972，t/1060710
 # Plex 需要代理的地址
 ## DOMAIN-SUFFIX,v4.plex.tv //已直连
-DOMAIN-SUFFIX,metadata.provider.plex.tv
+## DOMAIN-SUFFIX,plex.direct //已直连
+DOMAIN,plex.tv
+DOMAIN,www.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
-DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,clients.plex.tv
+DOMAIN-SUFFIX,community.plex.tv
+DOMAIN-SUFFIX,discover.provider.plex.tv
+DOMAIN-SUFFIX,epg.provider.plex.tv
+DOMAIN-SUFFIX,features.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,luma.plex.tv
 DOMAIN-SUFFIX,meta.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,provider-static.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,sonos.plex.tv
+DOMAIN-SUFFIX,vod-content.plexvideos.com
+DOMAIN-SUFFIX,vod.provider.plex.tv
+
+
+
+
 
 # Anime 相关
 # Bangumi番组计划

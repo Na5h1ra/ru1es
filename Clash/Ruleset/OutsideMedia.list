@@ -820,8 +820,6 @@ DOMAIN-SUFFIX,ting74.com
 # Plex 需要代理的地址
 ## DOMAIN-SUFFIX,v4.plex.tv //已直连
 ## DOMAIN-SUFFIX,plex.direct //已直连
-DOMAIN,plex.tv
-DOMAIN,www.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,clients.plex.tv
 DOMAIN-SUFFIX,community.plex.tv

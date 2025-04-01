@@ -56,10 +56,22 @@ DOMAIN-SUFFIX,sp-flv.com
 # Plex 不需要代理的地址
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,v4.plex.tv
-## DOMAIN-SUFFIX,metadata.provider.plex.tv
 ## DOMAIN-SUFFIX,analytics.plex.tv
-## DOMAIN-SUFFIX,metadata-static.plex.tv
+## DOMAIN-SUFFIX,clients.plex.tv
+## DOMAIN-SUFFIX,community.plex.tv
+## DOMAIN-SUFFIX,discover.provider.plex.tv
+## DOMAIN-SUFFIX,epg.provider.plex.tv
+## DOMAIN-SUFFIX,features.plex.tv
+## DOMAIN-SUFFIX,images.plex.tv
+## DOMAIN-SUFFIX,luma.plex.tv
 ## DOMAIN-SUFFIX,meta.plex.tv
+## DOMAIN-SUFFIX,metadata-static.plex.tv
+## DOMAIN-SUFFIX,metadata.provider.plex.tv
+## DOMAIN-SUFFIX,provider-static.plex.tv
+## DOMAIN-SUFFIX,pubsub.plex.tv
+## DOMAIN-SUFFIX,sonos.plex.tv
+## DOMAIN-SUFFIX,vod-content.plexvideos.com
+## DOMAIN-SUFFIX,vod.provider.plex.tv
 
 # Podcast
 DOMAIN-SUFFIX,fyfy.fm

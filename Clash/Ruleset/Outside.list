@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-03-31
+# Updated: 2025-04-02
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -117,6 +117,8 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mountainduck.io
 ## Snipaste
 DOMAIN-SUFFIX,snipaste.com
+## Listary
+DOMAIN-SUFFIX,listary.com
 
 # SteamDeck相关
 ## 内置商店源

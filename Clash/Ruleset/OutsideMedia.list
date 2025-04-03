@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-01
+# Updated: 2025-04-03
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -834,6 +834,7 @@ DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,provider-static.plex.tv
 DOMAIN-SUFFIX,pubsub.plex.tv
 DOMAIN-SUFFIX,sonos.plex.tv
+DOMAIN-SUFFIX,scrobbles.plex.tv
 DOMAIN-SUFFIX,vod-content.plexvideos.com
 DOMAIN-SUFFIX,vod.provider.plex.tv
 

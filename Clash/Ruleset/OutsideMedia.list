@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-03
+# Updated: 2025-04-11
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -820,10 +820,12 @@ DOMAIN-SUFFIX,ting74.com
 # Plex 需要代理的地址
 ## DOMAIN-SUFFIX,v4.plex.tv //已直连
 ## DOMAIN-SUFFIX,plex.direct //已直连
+DOMAIN,plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,clients.plex.tv
 DOMAIN-SUFFIX,community.plex.tv
 DOMAIN-SUFFIX,discover.provider.plex.tv
+DOMAIN-SUFFIX,downloads.plex.tv
 DOMAIN-SUFFIX,epg.provider.plex.tv
 DOMAIN-SUFFIX,features.plex.tv
 DOMAIN-SUFFIX,images.plex.tv

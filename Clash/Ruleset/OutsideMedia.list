@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-13
+# Updated: 2025-04-14
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -259,6 +259,10 @@ DOMAIN-SUFFIX,sgsd.xyz
 ## 影视天堂
 DOMAIN-SUFFIX,7dgirl.org
 DOMAIN-SUFFIX,ysttv.org
+## 嗷嗚動漫
+DOMAIN-SUFFIX,aowu.tv
+## 老地方影视
+DOMAIN-SUFFIX,laodifang.tv
 ## nmlive
 DOMAIN-SUFFIX,lemonlive.deno.dev
 ## 秋明山見
@@ -607,7 +611,6 @@ DOMAIN-SUFFIX,acgfta.com
 DOMAIN-SUFFIX,acgftb.com
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,animoe.org
-DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,auete.pro
 DOMAIN-SUFFIX,bimiacg.icu
 DOMAIN-SUFFIX,bimiacg10.net

@@ -188,7 +188,7 @@ DOMAIN-SUFFIX,zhuijumi.cc
 
 # XPTV CMS & VOD & 伪CMS源
 # 伪CMS源已逐步替换为js源
-# Source: https://github.com/fangkuia & https://github.com/Yswag
+# Source: Yswag & kingreevice & occupy-pluto
 ## HDmoli
 DOMAIN-SUFFIX,hdmoli.pro
 DOMAIN-SUFFIX,molicp.com
@@ -263,6 +263,33 @@ DOMAIN-SUFFIX,ysttv.org
 DOMAIN-SUFFIX,aowu.tv
 ## 老地方影视
 DOMAIN-SUFFIX,laodifang.tv
+## 电影天堂
+DOMAIN-SUFFIX,cgi.dytt8vip.com
+## 网菲猫
+DOMAIN-SUFFIX,ncat1.app
+## 追影猫
+DOMAIN-SUFFIX,weisiwang.com
+## 全集网
+DOMAIN-SUFFIX,yijia5.com
+## 剧迷
+DOMAIN-SUFFIX,gimy.tv
+## 海龟TV
+DOMAIN-SUFFIX,haigui.tv
+DOMAIN-SUFFIX,haigui.us
+## 桃子影视
+DOMAIN-SUFFIX,taozi008.com
+## 大米星球
+DOMAIN-SUFFIX,dmxq24.com
+## 新视觉影视
+DOMAIN-SUFFIX,sypfjy.com
+## 555影视
+DOMAIN-SUFFIX,wuwugo.life
+## 剧集TV
+DOMAIN-SUFFIX,tvjuji.cc
+## V1dhub
+DOMAIN-SUFFIX,vidhub.icu
+DOMAIN-SUFFIX,vidhub.in
+DOMAIN-SUFFIX,vidhubo.cc
 ## nmlive
 DOMAIN-SUFFIX,lemonlive.deno.dev
 ## 秋明山見
@@ -583,6 +610,7 @@ DOMAIN-SUFFIX,agemys.org
 # 樱花动漫
 DOMAIN-SUFFIX,iyhdmm.com
 DOMAIN-SUFFIX,iyinghua.io
+DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,yhdm.so
 DOMAIN-SUFFIX,yhdmba.net
 DOMAIN-SUFFIX,yhdmba.org

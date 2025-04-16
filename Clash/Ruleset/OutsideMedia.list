@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-14
+# Updated: 2025-04-16
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -259,6 +259,8 @@ DOMAIN-SUFFIX,sgsd.xyz
 ## 影视天堂
 DOMAIN-SUFFIX,7dgirl.org
 DOMAIN-SUFFIX,ysttv.org
+## 絕對影視
+DOMAIN-SUFFIX,jdys.art
 ## 嗷嗚動漫
 DOMAIN-SUFFIX,aowu.tv
 ## 老地方影视
@@ -299,7 +301,7 @@ DOMAIN-SUFFIX,infuseku.xyz
 DOMAIN-SUFFIX,pandalive.co.kr
 
 # XPTV PAN资源
-# Source: https://github.com/fangkuia/XPTV
+# Source: Yswag & kingreevice & occupy-pluto
 ## 小纸条
 # DOMAIN-SUFFIX,gitcafe.ink //已直连
 ## 玩偶哥哥
@@ -368,6 +370,8 @@ DOMAIN-SUFFIX,1.star2.cn
 DOMAIN-SUFFIX,seedhub.cc
 ## 云巢
 DOMAIN-SUFFIX,pecc.xin
+## 木偶
+DOMAIN-SUFFIX,91muou.icu
 
 
 # 其它采集站

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-16
+# Updated: 2025-04-20
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -275,6 +275,8 @@ DOMAIN-SUFFIX,weisiwang.com
 DOMAIN-SUFFIX,yijia5.com
 ## 剧迷
 DOMAIN-SUFFIX,gimy.tv
+## 爱剧集网
+DOMAIN-SUFFIX,2jyw.com
 ## 海龟TV
 DOMAIN-SUFFIX,haigui.tv
 DOMAIN-SUFFIX,haigui.us
@@ -756,7 +758,13 @@ DOMAIN-SUFFIX,ylsvid.com
 
 
 # (在线站及动漫站) 视频与图片CDN
+DOMAIN,hls.one
+DOMAIN-SUFFIX,438pnr4dyywt.com
+DOMAIN-SUFFIX,4678a.xyz
+DOMAIN-SUFFIX,56889.xyz
 DOMAIN-SUFFIX,67c6c7a.com
+DOMAIN-SUFFIX,7889bc.xyz
+DOMAIN-SUFFIX,99abd.xyz
 DOMAIN-SUFFIX,api.9cec79d.com
 DOMAIN-SUFFIX,api.zaqohu.com
 DOMAIN-SUFFIX,bf.mmiku.net
@@ -764,15 +772,24 @@ DOMAIN-SUFFIX,bfikuncdn.com
 DOMAIN-SUFFIX,bytegiftia.top
 DOMAIN-SUFFIX,c.xpgtv.net
 DOMAIN-SUFFIX,cboku.com
+DOMAIN-SUFFIX,cdn.wlcdn88.com
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,cdn7.ryplay7.com
+DOMAIN-SUFFIX,cdn8.ryplay8.com
 DOMAIN-SUFFIX,cdnlz12.com
 DOMAIN-SUFFIX,cj.lzcaiji.com
+DOMAIN-SUFFIX,deegh.xyz
 DOMAIN-SUFFIX,europe.olemovienews.com
+DOMAIN-SUFFIX,exp.bcevod.com 
 DOMAIN-SUFFIX,fb.libviofabu.com
+DOMAIN-SUFFIX,fentvoss.com
 DOMAIN-SUFFIX,fuckjapan.xingyu2.com
+DOMAIN-SUFFIX,g.xlzyd.com
 DOMAIN-SUFFIX,gboku.com
+DOMAIN-SUFFIX,gimg.one
 DOMAIN-SUFFIX,hboku.com
 DOMAIN-SUFFIX,hmrvideo.com
+DOMAIN-SUFFIX,image.caiji.cyou
 DOMAIN-SUFFIX,image.maimn.com
 DOMAIN-SUFFIX,image2.imgbox.com
 DOMAIN-SUFFIX,image8899.net
@@ -783,6 +800,7 @@ DOMAIN-SUFFIX,img.98ha.com
 DOMAIN-SUFFIX,img.bfzypic.com
 DOMAIN-SUFFIX,img.cycimg.me
 DOMAIN-SUFFIX,img.ffzy888.com
+DOMAIN-SUFFIX,img.guangsuimage.com
 DOMAIN-SUFFIX,img.lzzyimg.com
 DOMAIN-SUFFIX,img.py1080p.com
 DOMAIN-SUFFIX,img.zzyimg.com
@@ -791,36 +809,60 @@ DOMAIN-SUFFIX,imgyzzy.com
 DOMAIN-SUFFIX,jboku.com
 DOMAIN-SUFFIX,kboku.com
 DOMAIN-SUFFIX,kdubo.com
+DOMAIN-SUFFIX,kkzycdn.com
 DOMAIN-SUFFIX,kuaijiz.com
 DOMAIN-SUFFIX,m3u.nikanba.live
 DOMAIN-SUFFIX,mdubo.com
 DOMAIN-SUFFIX,nboku.com
 DOMAIN-SUFFIX,ndubo.com
+DOMAIN-SUFFIX,nqrru.com
+DOMAIN-SUFFIX,p.bvvvvvvv7f.com
 DOMAIN-SUFFIX,pboku.com
 DOMAIN-SUFFIX,pic.image8899.net
 DOMAIN-SUFFIX,pic.lzzypic.com
+DOMAIN-SUFFIX,pic.ry-pic.com
 DOMAIN-SUFFIX,pic.wujinpp.com
 DOMAIN-SUFFIX,pic.youkupic.com
 DOMAIN-SUFFIX,pic3.yzzyimages.com
 DOMAIN-SUFFIX,pic3.yzzyimg.online
+DOMAIN-SUFFIX,play.modujx11.com
 DOMAIN-SUFFIX,play.vplay.life
 DOMAIN-SUFFIX,play.xfvod.pro
+DOMAIN-SUFFIX,play.xluuss.com
+DOMAIN-SUFFIX,ps.ryzypics.com
 DOMAIN-SUFFIX,qboku.com
 DOMAIN-SUFFIX,qdubo.com
+DOMAIN-SUFFIX,qewbn.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,s2.ax1x.com
 DOMAIN-SUFFIX,senhewenhua.com
+DOMAIN-SUFFIX,shandianpic.com
+DOMAIN-SUFFIX,snzypic.vip
 DOMAIN-SUFFIX,suboimage.com
+DOMAIN-SUFFIX,suonipic.com
+DOMAIN-SUFFIX,svip.high21-playback.com
 DOMAIN-SUFFIX,svip.high22-playback.com
+DOMAIN-SUFFIX,svip.high25-playback.com
+DOMAIN-SUFFIX,svip.qlplayer.cyou
 DOMAIN-SUFFIX,svipsvip.ffzy-online5.com
 DOMAIN-SUFFIX,tdubo.com
 DOMAIN-SUFFIX,thehanju.com
+DOMAIN-SUFFIX,tlkqc.com
+DOMAIN-SUFFIX,ts.hls.one
+DOMAIN-SUFFIX,ttvwx.xyz
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tv.gboku.com
 DOMAIN-SUFFIX,uhibo.com
 DOMAIN-SUFFIX,ukzy.ukubf3.com
+DOMAIN-SUFFIX,uoiqmwhmk2tt.com
+DOMAIN-SUFFIX,v.cdnlz22.com
 DOMAIN-SUFFIX,v.damoli.pro
+DOMAIN-SUFFIX,v.gsuus.com
+DOMAIN-SUFFIX,v.lzcdn24.com
 DOMAIN-SUFFIX,v2.myvideos.info
+DOMAIN-SUFFIX,v6.bxgbnet.com
+DOMAIN-SUFFIX,v6.qrssv.com
+DOMAIN-SUFFIX,v6.suvww.xyz
 DOMAIN-SUFFIX,vboku.com
 DOMAIN-SUFFIX,vdabo.com
 DOMAIN-SUFFIX,vdubo.com
@@ -836,6 +878,7 @@ DOMAIN-SUFFIX,web.bageyi.cc
 DOMAIN-SUFFIX,xdubo.com
 DOMAIN-SUFFIX,xgct-video.vzcdn.net
 DOMAIN-SUFFIX,yboku.com
+DOMAIN-SUFFIX,yzzy1.play-cdn1.com
 
 # 听书相关
 ## 最大的英文自制有声书社区

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-04-20
+# Updated: 2025-05-17
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -223,6 +223,8 @@ DOMAIN-SUFFIX,nkvod.com
 # DOMAIN-SUFFIX,novipnoad.net //已直连
 ## 韓劇看看
 # DOMAIN-SUFFIX,hanjukankan.com
+## 零度影視
+DOMAIN-SUFFIX,mitotv.com
 ## 短劇天堂
 DOMAIN-SUFFIX,duanjutt.tv
 ## 追憶

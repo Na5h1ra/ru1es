@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-04-27
+# Updated: 2025-05-17
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -93,6 +93,10 @@ DOMAIN-SUFFIX,api.qonversion.io
 DOMAIN-SUFFIX,foldersync.io
 ## 游戏箱子(Sw1tch相关)
 DOMAIN-SUFFIX,gamebox.cool
+## Nebo 手写笔记
+### 注意手写识别包下载不下来时，小米系手机可把下载管理中的迅雷加速关闭
+### 并把包名为 com.android.providers.media 的App加入代理列表中
+DOMAIN-SUFFIX,recognition-assets.nebo.app
 
 # Windows Apps
 ## balenaEtcher

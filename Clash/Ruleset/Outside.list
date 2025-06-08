@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-05-17
+# Updated: 2025-06-08
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,peiqi.shop
 DOMAIN-SUFFIX,uuapi.me
 
-# AI模型部署&客户端相关
+# AI模型部署 & 客户端相关
 DOMAIN-SUFFIX,chatboxai.app
 DOMAIN-SUFFIX,cherry-ai.com
 DOMAIN-SUFFIX,hf.co
@@ -87,16 +87,28 @@ DOMAIN-SUFFIX,zotero.org
 # Android Apps
 ## 屏连
 DOMAIN-SUFFIX,connect-screen.com
-## Showly
-DOMAIN-SUFFIX,api.qonversion.io
-## FolderSync
-DOMAIN-SUFFIX,foldersync.io
 ## 游戏箱子(Sw1tch相关)
 DOMAIN-SUFFIX,gamebox.cool
+## 章鱼速贴
+DOMAIN-SUFFIX,octoclip.app
+## Botgem
+DOMAIN-SUFFIX,botgem.com
+## FolderSync
+DOMAIN-SUFFIX,foldersync.io
+## INKredible
+DOMAIN-SUFFIX,writeon.cool
 ## Nebo 手写笔记
 ### 注意手写识别包下载不下来时，小米系手机可把下载管理中的迅雷加速关闭
-### 并把包名为 com.android.providers.media 的App加入代理列表中
+### 并把包名为 com.android.providers.media 的App加入代理列表中（这对某些软件也有效果，比如漫画软件Mih0n）
 DOMAIN-SUFFIX,recognition-assets.nebo.app
+## Noteshelf
+DOMAIN-SUFFIX,noteshelf.net
+DOMAIN-SUFFIX,noteshelf.zendesk.com
+## OCAT
+DOMAIN-SUFFIX,kuromi.drakeet.cn
+## Showly
+DOMAIN-SUFFIX,showlyapp.com
+
 
 # Windows Apps
 ## balenaEtcher
@@ -113,6 +125,8 @@ DOMAIN-SUFFIX,voidtools.com
 DOMAIN-SUFFIX,flingtrainer.com
 ## Internet Download Manager
 DOMAIN-SUFFIX,www.internetdownloadmanager.com
+## Listary
+DOMAIN-SUFFIX,listary.com
 ## MobaXterm
 DOMAIN-SUFFIX,mobatek.net
 ## MoonFM
@@ -121,8 +135,6 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mountainduck.io
 ## Snipaste
 DOMAIN-SUFFIX,snipaste.com
-## Listary
-DOMAIN-SUFFIX,listary.com
 
 # SteamDeck相关
 ## 内置商店源

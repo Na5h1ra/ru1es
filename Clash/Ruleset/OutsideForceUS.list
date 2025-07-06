@@ -1,4 +1,18 @@
 # NAME: OutsideForceUS
 # Updated: 2025-04-10
 
+# Reddit
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
+# Updated: 2025-07-06
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
+# 其它
+DOMAIN-SUFFIX,faststore.org
 DOMAIN-SUFFIX,truthsocial.com

@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-06-08
+# Updated: 2025-07-06
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -264,6 +264,7 @@ DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,yckceo1.com
+DOMAIN-SUFFIX,yckceo.sbs
 DOMAIN,demo.unlock-music.dev
 DOMAIN,um-react.netlify.app
 ## 邮票目录

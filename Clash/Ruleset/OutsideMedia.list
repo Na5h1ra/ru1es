@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-08-03
+# Updated: 2025-08-04
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -607,12 +607,17 @@ DOMAIN-SUFFIX,tunefind.com
 
 # 在线动漫站
 # Age动漫
-DOMAIN-SUFFIX,age.tv
 DOMAIN-SUFFIX,age-api.com
 DOMAIN-SUFFIX,age-spa.com
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,ageanime.app
 DOMAIN-SUFFIX,agedm.app
+DOMAIN-SUFFIX,agedm.live
+DOMAIN-SUFFIX,agedm.me
 DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.vip
 DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agefans.la
 DOMAIN-SUFFIX,agemys.org
 
 # 樱花动漫

@@ -1,5 +1,65 @@
 # NAME: OutsideGames
-# Updated: 2024-07-28
+# Updated: 2025-08-04
+
+# M1necraft
+## M1necraft启动器相关
+DOMAIN-SUFFIX,bakaxl.com
+DOMAIN-SUFFIX,bbsmc.net
+DOMAIN-SUFFIX,corona.studio
+DOMAIN-SUFFIX,download.hexdragon.top
+DOMAIN-SUFFIX,hmcl.huangyuhui.net
+DOMAIN-SUFFIX,multimc.org
+DOMAIN-SUFFIX,pclc.cc
+DOMAIN-SUFFIX,prismlauncher.org
+DOMAIN-SUFFIX,xcubestudio.net
+DOMAIN-SUFFIX,xmcl.app
+
+## M1necraft资源相关
+DOMAIN-SUFFIX,3dt.easecation.net
+DOMAIN-SUFFIX,armortrims.com
+DOMAIN-SUFFIX,autosaved.org
+DOMAIN-SUFFIX,bedrock.dev
+DOMAIN-SUFFIX,chunkbase.com
+DOMAIN-SUFFIX,chunker.app
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,digminecraft.com
+DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,littleskin.cn
+DOMAIN-SUFFIX,mc-map.djfun.de
+DOMAIN-SUFFIX,mcbbs.co
+DOMAIN-SUFFIX,mcbe-dev.net
+DOMAIN-SUFFIX,mccag.cn
+DOMAIN-SUFFIX,mcdreforged.com
+DOMAIN-SUFFIX,mcicons.ccleaf.com
+DOMAIN-SUFFIX,mclo.gs
+DOMAIN-SUFFIX,mclt.cn
+DOMAIN-SUFFIX,mcpedl.com
+DOMAIN-SUFFIX,mcpixelart.com
+DOMAIN-SUFFIX,mcseedmap.net
+DOMAIN-SUFFIX,mcskins.top
+DOMAIN-SUFFIX,minecraft-heads.com
+DOMAIN-SUFFIX,minecraft.novaskin.me
+DOMAIN-SUFFIX,minecraft.tools
+DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftmaps.com
+DOMAIN-SUFFIX,minecraftmods.com
+DOMAIN-SUFFIX,minecraftpfp.com
+DOMAIN-SUFFIX,minecraftshader.com
+DOMAIN-SUFFIX,minecraftshapes.com
+DOMAIN-SUFFIX,minecraftskins.com
+DOMAIN-SUFFIX,minecraftskins.net
+DOMAIN-SUFFIX,mineplugin.org
+DOMAIN-SUFFIX,modrinth.com
+DOMAIN-SUFFIX,namemc.com
+DOMAIN-SUFFIX,planetminecraft.com
+DOMAIN-SUFFIX,resourcepack.net
+DOMAIN-SUFFIX,skin.mcstaralliance.com
+DOMAIN-SUFFIX,skinmc.net
+DOMAIN-SUFFIX,spea.cc
+DOMAIN-SUFFIX,textcraft.net
+DOMAIN-SUFFIX,vanillatweaks.net
+DOMAIN-SUFFIX,xbottle.top
+
 
 # 僵尸危机
 DOMAIN-SUFFIX,newgrounds.com

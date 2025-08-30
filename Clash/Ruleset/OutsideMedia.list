@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-08-04
+# Updated: 2025-08-30
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -17,7 +17,9 @@ DOMAIN-SUFFIX,ddys2.me
 # 厂长资源
 DOMAIN-SUFFIX,cz01.tv
 DOMAIN-SUFFIX,cz01.vip
+DOMAIN-SUFFIX,cz0101.com
 DOMAIN-SUFFIX,cz233.com
+DOMAIN-SUFFIX,cz4k.com
 DOMAIN-SUFFIX,czys.pro
 DOMAIN-SUFFIX,czys.top
 DOMAIN-SUFFIX,czys03.com
@@ -86,6 +88,7 @@ DOMAIN-SUFFIX,libvio.me
 DOMAIN-SUFFIX,libvio.mov
 DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,libvio.pw
+DOMAIN-SUFFIX,libvio.site
 DOMAIN-SUFFIX,libvio.vip
 DOMAIN-SUFFIX,libviohd.com
 

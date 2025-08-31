@@ -1,5 +1,5 @@
 # NAME: Direct
-# Updated: 2025-03-31
+# Updated: 2025-08-31
 
 # IP & Speedtest
 DOMAIN-SUFFIX,ip.im
@@ -47,6 +47,10 @@ PROCESS-NAME,tailscale
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
+
+# UU 远程
+PROCESS-NAME,GameViewer
+PROCESS-NAME,GameViewer.exe
 
 # Synology
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Synology/Synology.list

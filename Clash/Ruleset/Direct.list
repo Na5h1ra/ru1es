@@ -1,9 +1,20 @@
 # NAME: Direct
-# Updated: 2025-09-07
+# Updated: 2025-09-10
 
 # IP & Speedtest
-DOMAIN-SUFFIX,ip.im
-DOMAIN-SUFFIX,speedtest.cn
+# Source 1: spiritLHLS
+# Source 2: personal collect
+DOMAIN,4gsuzhou1.speedtest.jsinfo.net
+DOMAIN,5gzhenjiang.speedtest.jsinfo.net
+DOMAIN,cesu-hz.zjtelecom.com.cn
+DOMAIN,cesu-nb.zjtelecom.com.cn
+DOMAIN,fetsz1.seed.net.tw
+DOMAIN,mobile.shunicomtest.com
+DOMAIN,speed.evernet.net.co.prod.hosts.ooklaserver.net
+DOMAIN,speedtest.cn
+DOMAIN,speedtest.dukekunshan.edu.cn
+DOMAIN,speedtest.jsqiuying.com
+DOMAIN,speedtest1.online.sh.cn
 
 # AI相关
 DOMAIN-SUFFIX,baichuan-ai.com

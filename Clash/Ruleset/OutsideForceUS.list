@@ -1,5 +1,5 @@
 # NAME: OutsideForceUS
-# Updated: 2025-07-06
+# Updated: 2025-09-22
 
 # Reddit
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 # 其它
 DOMAIN-SUFFIX,faststore.org
 DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,t-mobile.com

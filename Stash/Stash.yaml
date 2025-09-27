@@ -341,7 +341,274 @@ proxy-groups:
     lazy: true
     filter: "俄罗斯|伦敦|迪拜|德国|印度|荷兰|意大利|印尼|菲律宾|西班牙|匈牙利|以色列|乌克兰|摩尔多瓦|巴西|加拿大|南非|土耳其|泰国|澳大利亚|悉尼|马来西亚|越南|阿根廷"
 
-
+### 低倍率节点分组 ###
+#proxy-groups:
+#  - name: 地区选择
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/World_Map.png
+#    proxies:
+#      - 香港节点
+#      - 台湾节点
+#      - 新加坡节点
+#      - 日本节点
+#      - 美国节点
+#      - 韩国节点
+#      - 其他节点
+#      - DIRECT
+#
+#  - name: 倍率选择
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Daily.png
+#    proxies:
+#      - 0.2倍 日用
+#      - 0.5倍 标准
+#      - 1.0倍 高级
+#
+#  - name: 电报消息
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+#    proxies:
+#      - 倍率选择
+#      - 地区选择
+#
+#  - name: 油管视频
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+#    proxies:
+#      - 倍率选择
+#      - 地区选择
+#
+#  - name: Spotify
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+#    proxies:
+#      - 倍率选择
+#      - 香港节点
+#      - 美国节点
+#
+#  - name: 国外媒体
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
+#    proxies:
+#      - 倍率选择
+#      - 地区选择
+#
+#  - name: 国内媒体
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/StreamingCN.png
+#    proxies:
+#      - DIRECT
+#      - 香港节点
+#      - 台湾节点
+#      - 倍率选择
+#
+#  - name: 国外服务
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+#    proxies:
+#      - 倍率选择
+#      - 香港节点
+#      - 美国节点
+#      - 地区选择
+#
+#  - name: 微软服务
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
+#    proxies:
+#      - DIRECT
+#      - 香港节点
+#      - 美国节点
+#      - 倍率选择
+#      - 地区选择
+#
+#  - name: 苹果服务
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
+#    proxies:
+#      - DIRECT
+#      - 美国节点
+#      - 日本节点
+#      - 香港节点
+#      - 地区选择
+#
+#  - name: 游戏平台
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+#    proxies:
+#      - DIRECT
+#      - 香港节点
+#      - 美国节点
+#      - 日本节点
+#      - 倍率选择
+#      - 地区选择
+#
+#  - name: 香港网站
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HK.png
+#    proxies:
+#      - 香港节点
+#      - 倍率选择
+#
+#  - name: 台湾网站
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TW.png
+#    proxies:
+#      - 台湾节点
+#      - 倍率选择
+#
+#  - name: 日本网站
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/JP.png
+#    proxies:
+#      - 日本节点
+#      - 倍率选择
+#
+#  - name: 韩国网站
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KR.png
+#    proxies:
+#      - 韩国节点
+#      - 倍率选择
+#
+#  - name: 美国网站
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/US.png
+#    proxies:
+#      - 美国节点
+#      - 倍率选择
+#
+#  - name: 全球直连
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+#    proxies:
+#      - DIRECT
+#      - REJECT
+#
+#  - name: 广告拦截
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
+#    proxies:
+#      - REJECT
+#      - DIRECT
+#
+#  - name: 应用净化
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
+#    proxies:
+#      - REJECT
+#      - DIRECT
+#
+#  - name: 漏网之鱼
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
+#    proxies:
+#      - 倍率选择
+#      - 地区选择
+#      - 香港节点
+#      - 美国节点
+#      - 日本节点
+#      - DIRECT
+#
+#
+#  - name: 0.2倍 日用
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x0.2.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "日用"
+#
+#  - name: 0.5倍 标准
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x0.5.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "标准"
+#
+#  - name: 1.0倍 高级
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/x1.0.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "高级|特殊|购物"
+#
+#  - name: 香港节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "香港|HK|Hong|HKT"
+#
+#  - name: 日本节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan"
+#
+#  - name: 美国节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States"
+#
+#  - name: 台湾节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "台湾|新北|彰化|TW|Taiwan"
+#
+#  - name: 新加坡节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "新加坡|狮城|SG|Singapore"
+#
+#  - name: 韩国节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "KR|Korea|KOR|首尔|韩|韓"
+#
+#  - name: 其他节点
+#    url: http://www.gstatic.com/generate_204
+#    include-all: true
+#    type: select
+#    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
+#    interval: 120
+#    tolerance: 50
+#    lazy: true
+#    filter: "俄罗斯|伦敦|迪拜|德国|印度|荷兰|意大利|印尼|菲律宾|西班牙|匈牙利|以色列|乌克兰|摩尔多瓦|巴西|加拿大|南非|土耳其|泰国|澳大利亚|马来西亚|越南|阿根廷"
 
 # 远程规则集合声明
 rule-providers:

@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-09-22
+# Updated: 2025-09-27
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -382,9 +382,16 @@ DOMAIN-SUFFIX,91muou.icu
 
 
 # 其它采集站
-# Source: https://gitbox520.github.io/gao/vp.json & https://github.com/Quinndark/syncnextPlugin & https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
-# Source: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
+# Source1: https://gitbox520.github.io/gao/vp.json
+# Source2: https://github.com/Quinndark/syncnextPlugin
+# Source3: https://raw.githubusercontent.com/fangkuia/XPTV/main/CMS/XPTV.json
+# Source4: https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list
 # 未包含视频播放和图片CDN服务器
+DOMAIN,cj.yayazy.net
+DOMAIN,gwcms.cttv.vip
+DOMAIN,iqyi.xiaohuangrentv.com
+DOMAIN,ys9.cttv.vip
+DOMAIN,yyff.540734621.xyz
 DOMAIN-SUFFIX,1080zyku.com
 DOMAIN-SUFFIX,360zy.com
 DOMAIN-SUFFIX,39kan.com
@@ -395,6 +402,7 @@ DOMAIN-SUFFIX,ahjiuman.com
 DOMAIN-SUFFIX,aliys.cn
 DOMAIN-SUFFIX,api.1080zyku.com
 DOMAIN-SUFFIX,api.apibdzy.com
+DOMAIN-SUFFIX,api.ffzyapi.com
 DOMAIN-SUFFIX,api.guangsuapi.com
 DOMAIN-SUFFIX,api.niuniuzy.me
 DOMAIN-SUFFIX,api.tiankongapi.com
@@ -402,8 +410,10 @@ DOMAIN-SUFFIX,api.ukuapi.com
 DOMAIN-SUFFIX,api.wujinapi.com
 DOMAIN-SUFFIX,api.wujinapi.me
 DOMAIN-SUFFIX,api.wujinapi.net
+DOMAIN-SUFFIX,api.wwzy.tv
 DOMAIN-SUFFIX,api.xinlangapi.com
 DOMAIN-SUFFIX,api.ylzy.me
+DOMAIN-SUFFIX,api.zuidapi.com
 DOMAIN-SUFFIX,apibdzy.com
 DOMAIN-SUFFIX,apilyzy.com
 DOMAIN-SUFFIX,apittzy.com
@@ -411,7 +421,10 @@ DOMAIN-SUFFIX,apiyhzy.com
 DOMAIN-SUFFIX,app.dybfun.com
 DOMAIN-SUFFIX,baozi66.top
 DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,caiji.dbzy.tv
+DOMAIN-SUFFIX,caiji.dyttzyapi.com
 DOMAIN-SUFFIX,caiji.kczyapi.com
+DOMAIN-SUFFIX,caiji.maotaizy.cc
 DOMAIN-SUFFIX,caiji.moduapi.cc
 DOMAIN-SUFFIX,cj.bajiecaiji.com
 DOMAIN-SUFFIX,cj.ffzyapi.com
@@ -421,6 +434,7 @@ DOMAIN-SUFFIX,cj.lziapi.com
 DOMAIN-SUFFIX,cj.vodimg.top
 DOMAIN-SUFFIX,cj.yayazy.net
 DOMAIN-SUFFIX,cjhwba.com
+DOMAIN-SUFFIX,ckzy.me
 DOMAIN-SUFFIX,ckzy.me
 DOMAIN-SUFFIX,collect.wolongzyw.com
 DOMAIN-SUFFIX,cttv.vip
@@ -438,17 +452,18 @@ DOMAIN-SUFFIX,fszy1.com
 DOMAIN-SUFFIX,guangsuapi.com
 DOMAIN-SUFFIX,gwcms.cttv.vip
 DOMAIN-SUFFIX,haiwaikan.com
-DOMAIN-SUFFIX,huawei8.live
 DOMAIN-SUFFIX,heimuer.tv
 DOMAIN-SUFFIX,heimuer.xyz
 DOMAIN-SUFFIX,hhzyapi.com
 DOMAIN-SUFFIX,hongniuzy2.com
+DOMAIN-SUFFIX,huawei8.live
 DOMAIN-SUFFIX,huyaapi.com
 DOMAIN-SUFFIX,hw8.live
 DOMAIN-SUFFIX,ikunzyapi.com
 DOMAIN-SUFFIX,img.smdyw.top
 DOMAIN-SUFFIX,inmi.app
 DOMAIN-SUFFIX,iqyi.xiaohuangrentv.com
+DOMAIN-SUFFIX,jinyingzy.co
 DOMAIN-SUFFIX,jinyingzy.com
 DOMAIN-SUFFIX,json.heimuer.xyz
 DOMAIN-SUFFIX,json.icu
@@ -465,6 +480,7 @@ DOMAIN-SUFFIX,leshizyapi.com
 DOMAIN-SUFFIX,lililili.cc
 DOMAIN-SUFFIX,lovedan.net
 DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,m3u8.apiyhzy.com
 DOMAIN-SUFFIX,mdzyapi.com
 DOMAIN-SUFFIX,moduapi.cc
 DOMAIN-SUFFIX,moduzy.com
@@ -499,11 +515,6 @@ DOMAIN-SUFFIX,zuidapi.com
 DOMAIN-SUFFIX,zuidazy.me
 DOMAIN-SUFFIX,zy.xiaomaomi.cc
 DOMAIN-SUFFIX,zyz.yxys.top
-DOMAIN,cj.yayazy.net
-DOMAIN,gwcms.cttv.vip
-DOMAIN,iqyi.xiaohuangrentv.com
-DOMAIN,ys9.cttv.vip
-DOMAIN,yyff.540734621.xyz
 
 # 磁力 & 网盘资源站 & 字幕组 & 影视导航
 DOMAIN-SUFFIX,0dog.shop
@@ -1161,9 +1172,13 @@ DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,cartoonmad.com
 DOMAIN-SUFFIX,cdnblackmyth.club
 DOMAIN-SUFFIX,cdnblackmyth.xyz
+DOMAIN-SUFFIX,cdnliu.org
 DOMAIN-SUFFIX,cdnmhws.cc
 DOMAIN-SUFFIX,cdnmhwscc.org
+DOMAIN-SUFFIX,cdnntr.cc
+DOMAIN-SUFFIX,cdnsha.org
 DOMAIN-SUFFIX,cdnxxx-proxy.co
+DOMAIN-SUFFIX,cdnzack.cc
 DOMAIN-SUFFIX,cocomanga.org
 DOMAIN-SUFFIX,colamanga.com
 DOMAIN-SUFFIX,comicabc.com

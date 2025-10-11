@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-07-06
+# Updated: 2025-10-11
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -108,6 +108,8 @@ DOMAIN-SUFFIX,noteshelf.zendesk.com
 DOMAIN-SUFFIX,kuromi.drakeet.cn
 ## Showly
 DOMAIN-SUFFIX,showlyapp.com
+## 默沙东手册
+DOMAIN-SUFFIX,api.merck.com
 
 
 # Windows Apps
@@ -250,8 +252,10 @@ DOMAIN-SUFFIX,ankiweb.net
 
 # Others
 DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,citron-emu.org
 DOMAIN-SUFFIX,e6ex.com
 DOMAIN-SUFFIX,e-yck.top
+DOMAIN-SUFFIX,eden-emu.dev
 DOMAIN-SUFFIX,freemdict.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,hellodk.cn

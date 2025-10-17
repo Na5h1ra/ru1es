@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-09-27
+# Updated: 2025-10-17
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -528,20 +528,24 @@ DOMAIN-SUFFIX,btnull.org
 DOMAIN-SUFFIX,btnull.si
 DOMAIN-SUFFIX,bugutv.org
 DOMAIN-SUFFIX,chaospace.cc
+DOMAIN-SUFFIX,dm.xueximeng.com
 DOMAIN-SUFFIX,dp88.net
 DOMAIN-SUFFIX,duanjuku.top
+DOMAIN-SUFFIX,dy.zixiya.me
 DOMAIN-SUFFIX,fanxinzhui.com
 DOMAIN-SUFFIX,gaoqing.la
+DOMAIN-SUFFIX,gugeso.com
+DOMAIN-SUFFIX,gyg.la
+DOMAIN-SUFFIX,gyg.si
 DOMAIN-SUFFIX,gying.in
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,gying.org
 DOMAIN-SUFFIX,gying.si
-DOMAIN-SUFFIX,gyg.la
-DOMAIN-SUFFIX,gyg.si
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip
 DOMAIN-SUFFIX,kuafuzys.com
 DOMAIN-SUFFIX,meijumi.net
+DOMAIN-SUFFIX,mihoyonb.com
 DOMAIN-SUFFIX,mini4k.com
 DOMAIN-SUFFIX,mj028.cn
 DOMAIN-SUFFIX,mjmtv.top
@@ -549,14 +553,19 @@ DOMAIN-SUFFIX,mjmtv.vip
 DOMAIN-SUFFIX,molicp.com
 DOMAIN-SUFFIX,nmme.xyz
 DOMAIN-SUFFIX,nzmz.xyz
+DOMAIN-SUFFIX,pan.ailinux.de
 DOMAIN-SUFFIX,pan666.net
+DOMAIN-SUFFIX,panhub.shenzjd.com
 DOMAIN-SUFFIX,pansearch.me
+DOMAIN-SUFFIX,pansou.fmaps.xyz
+DOMAIN-SUFFIX,pansou.jkai.de
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,pioz.cn
 DOMAIN-SUFFIX,pkmkv.com
 DOMAIN-SUFFIX,ppxzy.ink
 DOMAIN-SUFFIX,res.yunpan.win
 DOMAIN-SUFFIX,rrdynb.com
+DOMAIN-SUFFIX,sou.makifx.com
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,star2.cn
 DOMAIN-SUFFIX,susuifa.com
@@ -585,6 +594,7 @@ DOMAIN-SUFFIX,yingheapp.com
 DOMAIN-SUFFIX,yingso.fun
 DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yunpan1.cc
+DOMAIN-SUFFIX,yx.zerovv.top
 DOMAIN-SUFFIX,yyets.click
 DOMAIN-SUFFIX,zhaoziyuan1.cc
 DOMAIN-SUFFIX,zimuxia.cn

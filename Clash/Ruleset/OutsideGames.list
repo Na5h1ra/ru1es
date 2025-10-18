@@ -1,5 +1,5 @@
 # NAME: OutsideGames
-# Updated: 2025-08-04
+# Updated: 2025-10-18
 
 # M1necraft
 ## M1necraft启动器相关
@@ -68,6 +68,19 @@ DOMAIN-SUFFIX,ungrounded.net
 
 # Ubisoft
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+
+# 老游戏网站
+DOMAIN-SUFFIX,dos.lol
+DOMAIN-SUFFIX,flash.homes
+DOMAIN-SUFFIX,myabandonware.com
+DOMAIN-SUFFIX,oldmantvg.net
+DOMAIN-SUFFIX,oldswf.com
+DOMAIN-SUFFIX,romsfun.com
+DOMAIN-SUFFIX,smallgames.ws
+DOMAIN-SUFFIX,vimm.net
+DOMAIN-SUFFIX,zaixianwan.app
+DOMAIN-SUFFIX,zczc.cz
+DOMAIN-SUFFIX,zczc.men
 
 # Game Websites
 DOMAIN-KEYWORD,hltv

@@ -1,5 +1,5 @@
 # NAME: OutsideForceTW
-# Updated: 2025-09-22
+# Updated: 2025-10-19
 
 # Bahamut
 # Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
@@ -17,10 +17,10 @@ DOMAIN-SUFFIX,moedict.tw
 # Social Media & Blogger
 DOMAIN-SUFFIX,ck101.tw
 DOMAIN-SUFFIX,disp.cc
-DOMAIN-SUFFIX,dcard.tw
+## DOMAIN-SUFFIX,dcard.tw  // tw节点总是403
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,mymypic.net
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,webptt.com
-DOMAIN-KEYWORD,dcard
+## DOMAIN-KEYWORD,dcard // tw节点总是403
 DOMAIN-KEYWORD,mobile01

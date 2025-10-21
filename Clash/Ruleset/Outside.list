@@ -1,5 +1,5 @@
 # NAME: Outside
-# Updated: 2025-10-19
+# Updated: 2025-10-21
 
 # OpenAI用到的域名
 # challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
@@ -244,6 +244,7 @@ DOMAIN-SUFFIX,rss.com
 # RSS相关与一些博客订阅
 DOMAIN-SUFFIX,oryoy.com
 DOMAIN-SUFFIX,poiblog.com
+DOMAIN-SUFFIX,zzbd.org
 
 # V2ex
 DOMAIN-SUFFIX,sov2ex.com

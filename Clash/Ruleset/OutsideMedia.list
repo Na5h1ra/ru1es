@@ -1,9 +1,9 @@
 # NAME: OutsideMedia
-# Updated: 2025-10-21
+# Updated: 2025-11-05
 
 # TVSeries & Movies & Anime & Media Servers
 
-# 低端影视
+# 低端影视（已关站）
 DOMAIN-SUFFIX,ddrk.me
 DOMAIN-SUFFIX,ddys.info
 DOMAIN-SUFFIX,ddys.love
@@ -375,6 +375,9 @@ DOMAIN-SUFFIX,tianyiso.com
 DOMAIN-SUFFIX,1.star2.cn
 ## SeedHub
 DOMAIN-SUFFIX,seedhub.cc
+DOMAIN-SUFFIX,seedhub.icu
+DOMAIN-SUFFIX,seedhub.pro
+DOMAIN-SUFFIX,seedhub.top
 ## 云巢
 DOMAIN-SUFFIX,pecc.xin
 ## 木偶
@@ -527,6 +530,7 @@ DOMAIN-SUFFIX,btnull.nu
 DOMAIN-SUFFIX,btnull.org
 DOMAIN-SUFFIX,btnull.si
 DOMAIN-SUFFIX,bugutv.org
+DOMAIN-SUFFIX,cilixiong.org
 DOMAIN-SUFFIX,chaospace.cc
 DOMAIN-SUFFIX,dm.xueximeng.com
 DOMAIN-SUFFIX,dp88.net
@@ -592,6 +596,7 @@ DOMAIN-SUFFIX,yinghe.app
 DOMAIN-SUFFIX,yinghe.tv
 DOMAIN-SUFFIX,yingheapp.com
 DOMAIN-SUFFIX,yingso.fun
+DOMAIN-SUFFIX,yppan.com
 DOMAIN-SUFFIX,yulinshufa.cn
 DOMAIN-SUFFIX,yunpan1.cc
 DOMAIN-SUFFIX,yx.zerovv.top

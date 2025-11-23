@@ -1,18 +1,18 @@
 # NAME: OutsideMedia
-# Updated: 2025-11-05
+# Updated: 2025-11-23
 
 # TVSeries & Movies & Anime & Media Servers
 
 # 低端影视（已关站）
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,ddys.info
-DOMAIN-SUFFIX,ddys.love
-DOMAIN-SUFFIX,ddys.me
-DOMAIN-SUFFIX,ddys.mov
-DOMAIN-SUFFIX,ddys.pro
-DOMAIN-SUFFIX,ddys.site
-DOMAIN-SUFFIX,ddys.tv
-DOMAIN-SUFFIX,ddys2.me
+## DOMAIN-SUFFIX,ddrk.me
+## DOMAIN-SUFFIX,ddys.info
+## DOMAIN-SUFFIX,ddys.love
+## DOMAIN-SUFFIX,ddys.me
+## DOMAIN-SUFFIX,ddys.mov
+## DOMAIN-SUFFIX,ddys.pro
+## DOMAIN-SUFFIX,ddys.site
+## DOMAIN-SUFFIX,ddys.tv
+## DOMAIN-SUFFIX,ddys2.me
 
 # 厂长资源
 DOMAIN-SUFFIX,cz01.tv
@@ -189,9 +189,12 @@ DOMAIN-SUFFIX,zhaifufabu.com
 DOMAIN-SUFFIX,zhaifujidi.com
 DOMAIN-SUFFIX,zhuijumi.cc
 
-# XPTV CMS & VOD & 伪CMS源
-# 伪CMS源已逐步替换为js源
-# Source: Yswag & kingreevice & occupy-pluto
+# XPTV CMS & VOD
+# Source1: Yswag
+# Source2: kingreevice 
+# Source3: occupy-pluto
+# Source4: xiaobaitulele
+# Source5: fangkuia
 ## HDmoli
 DOMAIN-SUFFIX,hdmoli.pro
 DOMAIN-SUFFIX,molicp.com
@@ -303,6 +306,44 @@ DOMAIN-SUFFIX,vidhubo.cc
 DOMAIN-SUFFIX,lemonlive.deno.dev
 ## 秋明山見
 DOMAIN-SUFFIX,api.maiyoux.com
+## youknow.tv
+DOMAIN-SUFFIX,youknow.tv
+DOMAIN-SUFFIX,dytt-cine.com
+## 稀饭动漫
+DOMAIN-SUFFIX,xfdm.pro
+DOMAIN-SUFFIX,xifan.moe
+DOMAIN-SUFFIX,xifanacg.com
+## 假独播库
+DOMAIN-SUFFIX,duboku.info
+## 瓜子web
+DOMAIN-SUFFIX,haiwaiapi.1fc8ab0.com
+## 次元方舟
+DOMAIN-SUFFIX,cyfz.vip
+## 喵物次元
+DOMAIN-SUFFIX,mwcy.net
+## 奈飞工厂
+DOMAIN-SUFFIX,netflixgc.com
+## 麦田影院
+DOMAIN-SUFFIX,mtyy.tv
+DOMAIN-SUFFIX,mtyy1.com
+DOMAIN-SUFFIX,mtyy2.com
+DOMAIN-SUFFIX,mtyy3.com
+DOMAIN-SUFFIX,mtyy4.com
+DOMAIN-SUFFIX,mtyy5.com
+DOMAIN-SUFFIX,mtyy6.com
+DOMAIN-SUFFIX,mtyy7.com
+DOMAIN-SUFFIX,mtyy8.com
+DOMAIN-SUFFIX,mtyy9.com
+## ikanbot
+DOMAIN-SUFFIX,ikanbot.com
+## 飞快TV
+DOMAIN-SUFFIX,feikuai.tv
+## 多乐影视
+DOMAIN-SUFFIX,drys.top
+## 荐片
+DOMAIN-SUFFIX,ev5356.970xw.com
+
+
 ## 其它
 DOMAIN-SUFFIX,infuseku.xyz
 DOMAIN-SUFFIX,pandalive.co.kr

@@ -646,7 +646,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/SelfBan.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/SelfBan.list/_end_/SelfBan.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/SelfBan.list/_end_/SelfBan.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   Google:
@@ -660,7 +660,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/Outside.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Outside.list/_end_/Outside.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/Outside.list/_end_/Outside.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GitHub:
@@ -695,7 +695,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/SelfUseDirect.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/Direct.list/_end_/Direct.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/Direct.list/_end_/Direct.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   SteamCN:
@@ -807,7 +807,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideGames.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideGames.list/_end_/OutsideGames.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   YouTube:
@@ -828,7 +828,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/InsideMedia.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/InsideMedia.list/_end_/InsideMedia.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/InsideMedia.list/_end_/InsideMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ChinaMedia:
@@ -842,14 +842,14 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceHK.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceHK.list/_end_/OutsideForceHK.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideForceHK.list/_end_/OutsideForceHK.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceTW:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceTW.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceTW.list/_end_/OutsideForceTW.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideForceTW.list/_end_/OutsideForceTW.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   DMM:
@@ -870,28 +870,28 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceJP.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceJP.list/_end_/OutsideForceJP.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideForceJP.list/_end_/OutsideForceJP.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceKR:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceKR.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceKR.list/_end_/OutsideForceKR.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideForceKR.list/_end_/OutsideForceKR.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OutsideForceUS:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideForceUS.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideForceUS.list/_end_/OutsideForceUS.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideForceUS.list/_end_/OutsideForceUS.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   OpenAI:
     type: http
     behavior: classical
     path: ./Ruleset/OpenAI.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/AI.list/_end_/AI.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/AI.list/_end_/AI.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   GlobalMedia:
@@ -912,7 +912,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Ruleset/OutsideMedia.yaml
-    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/Na5h1ra/ru1es/main/Clash/Ruleset/OutsideMedia.list/_end_/OutsideMedia.list?type=rule-set&target=stash-rule-set
+    url: https://script.hub/file/_start_/https://raw.githubusercontent.com/nash11ra/ru1es/main/Clash/Ruleset/OutsideMedia.list/_end_/OutsideMedia.list?type=rule-set&target=stash-rule-set
     interval: 86400
 
   ChinaDomain:

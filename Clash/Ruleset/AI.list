@@ -1,10 +1,11 @@
 # NAME: AI
-# Updated: 2025-03-29
+# Updated: 2025-12-02
 
 # OpenAI
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
-# 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com,有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
+# 去除了challenges.cloudflare.com 和 static.cloudflareinsights.com
+# 有些网站也用CF认证,CF域名和其它网站域名不在同一个地区,有时会无限验证
 # 去除了stripe.com,有些网站也用stripe支付,可能会导致其它网站出问题
 # 上游规则已经去除上述域名
 # 上述域名在Outside.list中,优先生效,此处已注释
@@ -14,72 +15,93 @@
 
 AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus-),(DOMAIN-SUFFIX,webpubsub.azure.com))
 AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net 
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 
 # Copilot
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,githubcopilot.com
 
 # Gemini
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
 DOMAIN,aistudio.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,bard.google.com
+DOMAIN,deepmind.com
+DOMAIN,deepmind.google
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,gemini.google
+DOMAIN,gemini.google.com
+DOMAIN,generativeai.google
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,makersuite.google.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,notebooklm.google
+DOMAIN,notebooklm.google.com
+DOMAIN,jules.google
+DOMAIN,jules.google.com
+DOMAIN,labs.google
+DOMAIN,aisandbox-pa.googleapis.com
 
-# Claude
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Anthropic Claude
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
 
 # JetBrains AI
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,jetbrains.ai
 
 # Meta
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 
 # Perplexity
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
-DOMAIN-SUFFIX,perplexity.ai
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
+DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
 
 # Mistral AI
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
 
 # Sora
-# Source : https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml & https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Surge/Rules/AI.list
-# Source Updated Time: 2024-12-31 & 2025-03-18
+# Source : dler-io & ConnersHua
+# Source Updated Time: 2025-12-01
 DOMAIN,sora-cdn.oaistatic.com
 DOMAIN-SUFFIX,sora.com

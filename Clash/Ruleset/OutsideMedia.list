@@ -1,5 +1,5 @@
 # NAME: OutsideMedia
-# Updated: 2025-11-23
+# Updated: 2025-12-05
 
 # TVSeries & Movies & Anime & Media Servers
 
@@ -403,13 +403,6 @@ DOMAIN-SUFFIX,txfyyds.top
 DOMAIN-SUFFIX,smdyo.top
 ## 虎斑
 DOMAIN-SUFFIX,wp.huban.xyz
-## 观影(无名小站)
-# DOMAIN-SUFFIX,gying.in
-# DOMAIN-SUFFIX,gying.net
-# DOMAIN-SUFFIX,gying.org
-# DOMAIN-SUFFIX,gying.si
-# DOMAIN-SUFFIX,gyg.la
-# DOMAIN-SUFFIX,gyg.si
 ## 天逸搜
 DOMAIN-SUFFIX,tianyiso.com
 ## Star2
@@ -582,9 +575,11 @@ DOMAIN-SUFFIX,gaoqing.la
 DOMAIN-SUFFIX,gugeso.com
 DOMAIN-SUFFIX,gyg.la
 DOMAIN-SUFFIX,gyg.si
+DOMAIN-SUFFIX,gyg.st
 DOMAIN-SUFFIX,gying.in
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,gying.org
+DOMAIN-SUFFIX,gying.page
 DOMAIN-SUFFIX,gying.si
 DOMAIN-SUFFIX,jisubt.com
 DOMAIN-SUFFIX,kkxz.vip

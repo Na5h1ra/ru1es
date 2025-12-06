@@ -86,6 +86,10 @@ DOMAIN-SUFFIX,zczc.men
 DOMAIN-KEYWORD,hltv
 DOMAIN-KEYWORD,liquipedia
 DOMAIN-SUFFIX,acgrip.com
+DOMAIN-SUFFIX,allstar-uploads-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,allstar.dev
+DOMAIN-SUFFIX,allstar.gg
+DOMAIN-SUFFIX,allstargaming.statuspage.io
 DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,androeed.ru
 DOMAIN-SUFFIX,blitz.gg
